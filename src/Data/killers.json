@@ -1,0 +1,2886 @@
+{
+	"killers": [
+		{
+			"name": "The Trapper",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9f/K01_charSelect_portrait.png",
+			"addons": [
+				{
+					"name": "Trapper Gloves",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/51/FulliconAddon_trapperGloves.png"
+				},
+				{
+					"name": "Padded Jaws",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/10/FulliconAddon_paddedJaws.png"
+				},
+				{
+					"name": "Makeshift Wrap",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/ea/FulliconAddon_makeshiftWrap.png"
+				},
+				{
+					"name": "Bear Oil",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/16/FulliconAddon_bearOil.png"
+				},
+				{
+					"name": "Wax Brick",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/99/FulliconAddon_waxBrick.png"
+				},
+				{
+					"name": "Serrated Jaws",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/12/FulliconAddon_serratedJaws.png"
+				},
+				{
+					"name": "Lengthened Jaws",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fc/FulliconAddon_lengthenedJaws.png"
+				},
+				{
+					"name": "Coffee Grinds",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/83/FulliconAddon_coffeeGrinds.png"
+				},
+				{
+					"name": "4-Coil Spring Kit",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a3/FulliconAddon_4-coilSpringKit.png"
+				},
+				{
+					"name": "Trapper Bag",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/60/FulliconAddon_trapperBag.png"
+				},
+				{
+					"name": "Tar Bottle",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/aa/FulliconAddon_tarBottle.png"
+				},
+				{
+					"name": "Secondary Coil",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e2/FulliconAddon_secondaryCoil.png"
+				},
+				{
+					"name": "Rusted Jaws",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9f/FulliconAddon_rustedJaws.png"
+				},
+				{
+					"name": "Fastening Tools",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9c/FulliconAddon_fasteningTools.png"
+				},
+				{
+					"name": "Trapper Sack",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fd/FulliconAddon_trapperSack.png"
+				},
+				{
+					"name": "Tension Spring",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2f/FulliconAddon_tensionSpring.png"
+				},
+				{
+					"name": "Oily Coil",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1e/FulliconAddon_oilyCoil.png"
+				},
+				{
+					"name": "Honing Stone",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2d/FulliconAddon_honingStone.png"
+				},
+				{
+					"name": "Iridescent Stone",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8e/FulliconAddon_iridescentStone.png"
+				},
+				{
+					"name": "Bloody Coil",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b3/FulliconAddon_bloodyCoil.png"
+				}
+			]
+		},
+		{
+			"name": "The Wraith",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0d/K02_charSelect_portrait.png",
+			"addons": [
+				{
+					"name": "\"The Serpent\" - Soot",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6b/FulliconAddon_theSerpent-Soot.png"
+				},
+				{
+					"name": "\"The Hound\" - Soot",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/16/FulliconAddon_theHound-Soot.png"
+				},
+				{
+					"name": "\"The Ghost\" - Soot",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8f/FulliconAddon_theGhost-Soot.png"
+				},
+				{
+					"name": "\"The Beast\" - Soot",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/cc/FulliconAddon_theBeast-Soot.png"
+				},
+				{
+					"name": "Bone Clapper",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e3/FulliconAddon_boneClapper.png"
+				},
+				{
+					"name": "\"Blink\" - Mud",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c5/FulliconAddon_blink-Mud.png"
+				},
+				{
+					"name": "\"Windstorm\" - Mud",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/53/FulliconAddon_windstorm-Mud.png"
+				},
+				{
+					"name": "\"Swift Hunt\" - Mud",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/26/FulliconAddon_swiftHunt-Mud.png"
+				},
+				{
+					"name": "\"Blind Warrior\" - Mud",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1f/FulliconAddon_blindWarrior-Mud.png"
+				},
+				{
+					"name": "\"Windstorm\" - White",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/72/FulliconAddon_windstorm-White.png"
+				},
+				{
+					"name": "\"Swift Hunt\" - White",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/89/FulliconAddon_swiftHunt-White.png"
+				},
+				{
+					"name": "\"Shadow Dance\" - White",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b6/FulliconAddon_shadowDance-White.png"
+				},
+				{
+					"name": "\"Blink\" - White",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/86/FulliconAddon_blink-White.png"
+				},
+				{
+					"name": "\"Blind Warrior\" - White",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e9/FulliconAddon_blindWarrior-White.png"
+				},
+				{
+					"name": "\"Windstorm\" - Blood",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/66/FulliconAddon_windstorm-Blood.png"
+				},
+				{
+					"name": "\"Swift Hunt\" - Blood",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a7/FulliconAddon_swiftHunt-Blood.png"
+				},
+				{
+					"name": "\"Shadow Dance\" - Blood",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b3/FulliconAddon_shadowDance-Blood.png"
+				},
+				{
+					"name": "\"All Seeing\" - Blood",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4f/FulliconAddon_allSeeing-Blood.png"
+				},
+				{
+					"name": "Coxcombed Clapper",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/68/FulliconAddon_coxcombedClapper.png"
+				},
+				{
+					"name": "\"All Seeing\" - Spirit",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/91/FulliconAddon_allSeeing-Spirit.png"
+				}
+			]
+		},
+		{
+			"name": "The Hillbilly",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a3/K03_charSelect_portrait.png",
+			"addons": [
+				{
+					"name": "Steel Toe Boots",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/91/FulliconAddon_steelToeBoots.png"
+				},
+				{
+					"name": "Junkyard Air Filter",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/59/FulliconAddon_junkyardAirFilter.png"
+				},
+				{
+					"name": "Heavy Clutch",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8d/FulliconAddon_heavyClutch.png"
+				},
+				{
+					"name": "Speed Limiter",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fd/FulliconAddon_speedLimiter.png"
+				},
+				{
+					"name": "Dad's Boots",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/ec/FulliconAddon_dadsBoots.png"
+				},
+				{
+					"name": "Punctured Muffler",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/97/FulliconAddon_puncturedMuffler.png"
+				},
+				{
+					"name": "Off-brand Motor Oil",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/09/FulliconAddon_off-brandMotorOil.png"
+				},
+				{
+					"name": "Death Engravings",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1c/FulliconAddon_deathEngravings.png"
+				},
+				{
+					"name": "Big Buckle",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c9/FulliconAddon_bigBuckle.png"
+				},
+				{
+					"name": "Mother's Helpers",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/ef/FulliconAddon_mothersHelpers.png"
+				},
+				{
+					"name": "Low Kickback Chains",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8d/FulliconAddon_lowKickbackChains.png"
+				},
+				{
+					"name": "Leafy Mash",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8a/FulliconAddon_leafyMash.png"
+				},
+				{
+					"name": "Doom Engravings",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/94/FulliconAddon_doomEngravings.png"
+				},
+				{
+					"name": "Black Grease",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d2/FulliconAddon_blackGrease.png"
+				},
+				{
+					"name": "Tuned Carburettor",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/85/FulliconAddon_tunedCarburettor.png"
+				},
+				{
+					"name": "Spiked Boots",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8f/FulliconAddon_spikedBoots.png"
+				},
+				{
+					"name": "Pighouse Gloves",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f5/FulliconAddon_pighouseGloves.png"
+				},
+				{
+					"name": "LoPro Chains",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a6/FulliconAddon_loProChains.png"
+				},
+				{
+					"name": "Apex Muffler",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fe/FulliconAddon_apexMuffler.png"
+				},
+				{
+					"name": "Iridescent Brick",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f0/FulliconAddon_iridescentBrick.png"
+				}
+			]
+		},
+		{
+			"name": "The Nurse",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/31/K04_charSelect_portrait.png",
+			"addons": [
+				{
+					"name": "Wooden Horse",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ad/FulliconAddon_woodenHorse.png"
+				},
+				{
+					"name": "White Nit Comb",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f5/FulliconAddon_whiteNitComb.png"
+				},
+				{
+					"name": "Plaid Flannel",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/62/FulliconAddon_plaidFlannel.png"
+				},
+				{
+					"name": "Metal Spoon",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/45/FulliconAddon_metalSpoon.png"
+				},
+				{
+					"name": "Pocket Watch",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/02/FulliconAddon_pocketWatch.png"
+				},
+				{
+					"name": "Dull Bracelet",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a8/FulliconAddon_dullBracelet.png"
+				},
+				{
+					"name": "Dark Cincture",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c8/FulliconAddon_darkCincture.png"
+				},
+				{
+					"name": "Catatonic Boy's Treasure",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/95/FulliconAddon_catatonicBoysTreasure.png"
+				},
+				{
+					"name": "Bad Man Keepsake",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0e/FulliconAddon_badManKeepsake.png"
+				},
+				{
+					"name": "Spasmodic Breath",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c0/FulliconAddon_spasmodicBreath.png"
+				},
+				{
+					"name": "Heavy Panting",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ab/FulliconAddon_heavyPanting.png"
+				},
+				{
+					"name": "Fragile Wheeze",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/aa/FulliconAddon_fragileWheeze.png"
+				},
+				{
+					"name": "Ataxic Respiration",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8a/FulliconAddon_ataxicRespiration.png"
+				},
+				{
+					"name": "Anxious Gasp",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f8/FulliconAddon_anxiousGasp.png"
+				},
+				{
+					"name": "Kavanagh's Last Breath",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/95/FulliconAddon_kavanaghsLastBreath.png"
+				},
+				{
+					"name": "Jenner's Last Breath",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/81/FulliconAddon_jennersLastBreath.png"
+				},
+				{
+					"name": "Campbell's Last Breath",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/04/FulliconAddon_campbellsLastBreath.png"
+				},
+				{
+					"name": "\"Bad Man's\" Last Breath",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2f/FulliconAddon_badMansLastBreath.png"
+				},
+				{
+					"name": "Torn Bookmark",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f9/FulliconAddon_tornBookmark.png"
+				},
+				{
+					"name": "Matchbox",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e9/FulliconAddon_matchbox.png"
+				}
+			]
+		},
+		{
+			"name": "The Shape",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/04/K05_charSelect_portrait.png",
+			"addons": [
+				{
+					"name": "Tacky Earrings",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f3/FulliconAddon_tackyEarrings.png"
+				},
+				{
+					"name": "Memorial Flower",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7e/FulliconAddon_memorialFlower.png"
+				},
+				{
+					"name": "Boyfriend's Memo",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6a/FulliconAddon_boyfriendsMemo.png"
+				},
+				{
+					"name": "Blond Hair",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a6/FulliconAddon_blondHair.png"
+				},
+				{
+					"name": "Reflective Fragment",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/00/FulliconAddon_reflectiveFragment.png"
+				},
+				{
+					"name": "Jewellery",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5c/FulliconAddon_jewellery.png"
+				},
+				{
+					"name": "Hair Brush",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f5/FulliconAddon_hairBrush.png"
+				},
+				{
+					"name": "Glass Fragment",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8e/FulliconAddon_glassFragment.png"
+				},
+				{
+					"name": "Dead Rabbit",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/95/FulliconAddon_deadRabbit.png"
+				},
+				{
+					"name": "Mirror Shard",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9b/FulliconAddon_mirrorShard.png"
+				},
+				{
+					"name": "Judith's Journal",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/12/FulliconAddon_judithsJournal.png"
+				},
+				{
+					"name": "Jewellery Box",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f1/FulliconAddon_jewelleryBox.png"
+				},
+				{
+					"name": "J. Myers Memorial",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6b/FulliconAddon_jMyersMemorial.png"
+				},
+				{
+					"name": "Hair Bow",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/50/FulliconAddon_hairBow.png"
+				},
+				{
+					"name": "Vanity Mirror",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/db/FulliconAddon_vanityMirror.png"
+				},
+				{
+					"name": "Tombstone Piece",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/ea/FulliconAddon_tombstonePiece.png"
+				},
+				{
+					"name": "Scratched Mirror",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b5/FulliconAddon_scratchedMirror.png"
+				},
+				{
+					"name": "Lock of Hair",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a4/FulliconAddon_lockOfHair.png"
+				},
+				{
+					"name": "Judith's Tombstone",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3b/FulliconAddon_judithsTombstone.png"
+				},
+				{
+					"name": "Fragrant Tuft of Hair",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/37/FulliconAddon_fragrantTuftOfHair.png"
+				}
+			]
+		},
+		{
+			"name": "The Hag",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b4/K06_charSelect_portrait.png",
+			"addons": [
+				{
+					"name": "Rope Necklet",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/dd/FulliconAddon_ropeNecklet.png"
+				},
+				{
+					"name": "Powdered Eggshell",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fe/FulliconAddon_powderedEggshell.png"
+				},
+				{
+					"name": "Dead Fly Mud",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/07/FulliconAddon_deadFlyMud.png"
+				},
+				{
+					"name": "Bog Water",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/73/FulliconAddon_bogWater.png"
+				},
+				{
+					"name": "Pussy Willow Catkins",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/65/FulliconAddon_pussyWillowCatkins.png"
+				},
+				{
+					"name": "Half Eggshell",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e7/FulliconAddon_halfEggshell.png"
+				},
+				{
+					"name": "Dragonfly Wings",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/26/FulliconAddon_dragonflyWings.png"
+				},
+				{
+					"name": "Cypress Necklet",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9e/FulliconAddon_cypressNecklet.png"
+				},
+				{
+					"name": "Bloodied Water",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/33/FulliconAddon_bloodiedWater.png"
+				},
+				{
+					"name": "Willow Wreath",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/ee/FulliconAddon_willowWreath.png"
+				},
+				{
+					"name": "Swamp Orchid Necklet",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e5/FulliconAddon_swampOrchidNecklet.png"
+				},
+				{
+					"name": "Dried Cicada",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/bf/FulliconAddon_driedCicada.png"
+				},
+				{
+					"name": "Cracked Turtle Egg",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8d/FulliconAddon_crackedTurtleEgg.png"
+				},
+				{
+					"name": "Bloodied Mud",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8f/FulliconAddon_bloodiedMud.png"
+				},
+				{
+					"name": "Scarred Hand",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/07/FulliconAddon_scarredHand.png"
+				},
+				{
+					"name": "Rusty Shackles",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/ef/FulliconAddon_rustyShackles.png"
+				},
+				{
+					"name": "Grandma's Heart",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/13/FulliconAddon_granmasHeart.png"
+				},
+				{
+					"name": "Disfigured Ear",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/cd/FulliconAddon_disfiguredEar.png"
+				},
+				{
+					"name": "Waterlogged Shoe",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/83/FulliconAddon_waterloggedShoe.png"
+				},
+				{
+					"name": "Mint Rag",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/53/FulliconAddon_mintRag.png"
+				}
+			]
+		},
+		{
+			"name": "The Doctor",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ad/K07_charSelect_portrait.png",
+			"addons": [
+				{
+					"name": "Mouldy Electrode",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7a/FulliconAddon_moldyElectrode.png"
+				},
+				{
+					"name": "Maple Knight",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9b/FulliconAddon_mapleKnight.png"
+				},
+				{
+					"name": "\"Order\" - Class I",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e8/FulliconAddon_orderClassI.png/"
+				},
+				{
+					"name": "\"Calm\" - Class I",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9e/FulliconAddon_calmClassI.png"
+				},
+				{
+					"name": "Polished Electrode",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1a/FulliconAddon_polishedElectrode.png"
+				},
+				{
+					"name": "\"Restraint\" - Class II",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/97/FulliconAddon_restraintClassII.png"
+				},
+				{
+					"name": "\"Order\" - Class II",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d8/FulliconAddon_orderClassII.png"
+				},
+				{
+					"name": "\"Discipline\" - Class II",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e4/FulliconAddon_disciplineClassII.png"
+				},
+				{
+					"name": "\"Calm\" - Class II",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/cb/FulliconAddon_calmClassII.png"
+				},
+				{
+					"name": "Scrapped Tape",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7f/FulliconAddon_scrappedTape.png"
+				},
+				{
+					"name": "Interview Tape",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/cb/FulliconAddon_interviewTape.png"
+				},
+				{
+					"name": "High Stimulus Electrode",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/35/FulliconAddon_highStimulusElectrode.png"
+				},
+				{
+					"name": "\"Restraint\" - Class III",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e1/FulliconAddon_restraintClassIII.png"
+				},
+				{
+					"name": "\"Discipline\" - Class III",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7a/FulliconAddon_disciplineClassIII.png"
+				},
+				{
+					"name": "\"Restraint\" - Carter's Notes",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/94/FulliconAddon_restraintCartersNotes.png"
+				},
+				{
+					"name": "\"Order\" - Carter's Notes",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ab/FulliconAddon_orderCartersNotes.png"
+				},
+				{
+					"name": "\"Discipline\" - Carter's Notes",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1a/FulliconAddon_disciplineCartersNotes.png"
+				},
+				{
+					"name": "\"Calm\" - Carter's Notes",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1a/FulliconAddon_calmCartersNotes.png"
+				},
+				{
+					"name": "Iridescent Queen",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2a/FulliconAddon_iridescentQueen.png"
+				},
+				{
+					"name": "Iridescent King",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f5/FulliconAddon_iridescentKing.png"
+				}
+			]
+		},
+		{
+			"name": "The Huntress",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1a/K08_charSelect_portrait.png",
+			"addons": [
+				{
+					"name": "Yellowed Cloth",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/de/FulliconAddon_yellowedCloth.png"
+				},
+				{
+					"name": "Coarse Stone",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/34/FulliconAddon_coarseStone.png"
+				},
+				{
+					"name": "Bandaged Haft",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/28/FulliconAddon_bandagedHaft.png"
+				},
+				{
+					"name": "Amanita Toxin",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/bd/FulliconAddon_amanitaToxin.png"
+				},
+				{
+					"name": "Weighted Head",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/cf/FulliconAddon_weightedHead.png"
+				},
+				{
+					"name": "Shiny Pin",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a3/FulliconAddon_shinyPin.png"
+				},
+				{
+					"name": "Oak Haft",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e3/FulliconAddon_oakHaft.png"
+				},
+				{
+					"name": "Manna Grass Braid",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/ed/FulliconAddon_mannaGrassBraid.png"
+				},
+				{
+					"name": "Leather Loop",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/cf/FulliconAddon_leatherLoop.png"
+				},
+				{
+					"name": "Venomous Concoction",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/98/FulliconAddon_venomousConcoction.png"
+				},
+				{
+					"name": "Rusty Head",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e6/FulliconAddon_rustyHead.png"
+				},
+				{
+					"name": "Rose Root",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4d/FulliconAddon_roseRoot.png"
+				},
+				{
+					"name": "Flower Babushka",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/33/FulliconAddon_flowerBabushka.png"
+				},
+				{
+					"name": "Deerskin Gloves",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/72/FulliconAddon_deerskinGloves.png"
+				},
+				{
+					"name": "Wooden Fox",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/bc/FulliconAddon_woodenFox.png"
+				},
+				{
+					"name": "Infantry Belt",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e2/FulliconAddon_infantryBelt.png"
+				},
+				{
+					"name": "Glowing Concoction",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/06/FulliconAddon_glowingConcoction.png"
+				},
+				{
+					"name": "Begrimed Head",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a5/FulliconAddon_begrimedHead.png"
+				},
+				{
+					"name": "Soldier's Puttee",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/79/FulliconAddon_soldiersPuttee.png"
+				},
+				{
+					"name": "Iridescent Head",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8e/FulliconAddon_iridescentHead.png"
+				}
+			]
+		},
+		{
+			"name": "The Cannibal",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c6/K09_charSelect_portrait.png",
+			"addons": [
+				{
+					"name": "Vegetable Oil",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6b/FulliconAddon_vegetableOil.png"
+				},
+				{
+					"name": "Spark Plug",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/df/FulliconAddon_sparkPlug.png"
+				},
+				{
+					"name": "Speed Limiter",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fd/FulliconAddon_speedLimiter.png"
+				},
+				{
+					"name": "Chainsaw File",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/39/FulliconAddon_chainsawFile.png"
+				},
+				{
+					"name": "Long Guide Bar",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/70/FulliconAddon_longGuideBar.png"
+				},
+				{
+					"name": "Primer Bulb",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/23/FulliconAddon_primerBulb.png"
+				},
+				{
+					"name": "Knife Scratches",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/cf/FulliconAddon_knifeScratches.png"
+				},
+				{
+					"name": "Homemade Muffler",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b5/FulliconAddon_homemadeMuffler.png"
+				},
+				{
+					"name": "Chilli",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d5/FulliconAddon_chilli.png"
+				},
+				{
+					"name": "The Grease",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f8/FulliconAddon_theGrease.png"
+				},
+				{
+					"name": "The Beast's Marks",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/57/FulliconAddon_theBeastsMarks.png"
+				},
+				{
+					"name": "Shop Lubricant",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5e/FulliconAddon_shopLubricant.png"
+				},
+				{
+					"name": "Grisly Chains",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0f/FulliconAddon_grislyChains.png"
+				},
+				{
+					"name": "Begrimed Chains",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/84/FulliconAddon_begrimedChains.png"
+				},
+				{
+					"name": "Rusted Chains",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/61/FulliconAddon_rustedChains.png"
+				},
+				{
+					"name": "Light Chassis",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0e/FulliconAddon_lightChassis.png"
+				},
+				{
+					"name": "Depth Gauge Rake",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/38/FulliconAddon_depthGaugeRake.png"
+				},
+				{
+					"name": "Award-winning Chilli",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/61/FulliconAddon_award-winningChilli.png"
+				},
+				{
+					"name": "Iridescent Flesh",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b3/FulliconAddon_iridescentFlesh.png"
+				},
+				{
+					"name": "Carburettor Tuning Guide",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/72/FulliconAddon_carburettorTuningGuide.png"
+				}
+			]
+		},
+		{
+			"name": "The Nightmare",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f7/K10_charSelect_portrait.png",
+			"addons": [
+				{
+					"name": "Wool Shirt",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/62/FulliconAddon_woolShirt.png"
+				},
+				{
+					"name": "Sheep Block",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/dd/FulliconAddon_sheepBlock.png"
+				},
+				{
+					"name": "Kid's Drawing",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6d/FulliconAddon_kidsDrawing.png"
+				},
+				{
+					"name": "Garden Rake",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/73/FulliconAddon_gardenRake.png"
+				},
+				{
+					"name": "Prototype Claws",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c4/FulliconAddon_prototypeClaws.png"
+				},
+				{
+					"name": "Outdoor Rope",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1f/FulliconAddon_outdoorRope.png"
+				},
+				{
+					"name": "Nancy's Sketch",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0f/FulliconAddon_nancysSketch.png"
+				},
+				{
+					"name": "Green Dress",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/63/FulliconAddon_greenDress.png"
+				},
+				{
+					"name": "Cat Block",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4d/FulliconAddon_catBlock.png"
+				},
+				{
+					"name": "Unicorn Block",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/86/FulliconAddon_unicornBlock.png"
+				},
+				{
+					"name": "Paint Thinner",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/ef/FulliconAddon_paintThinner.png"
+				},
+				{
+					"name": "Nancy's Masterpiece",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d8/FulliconAddon_nancysMasterpiece.png"
+				},
+				{
+					"name": "Jump Rope",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/16/FulliconAddon_jumpRope.png"
+				},
+				{
+					"name": "Blue Dress",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/de/FulliconAddon_blueDress.png"
+				},
+				{
+					"name": "Pill Bottle",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c2/FulliconAddon_pillBottle.png"
+				},
+				{
+					"name": "Swing Chains",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f0/FulliconAddon_swingChains.png"
+				},
+				{
+					"name": "Class Photo",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c6/FulliconAddon_classPhoto.png"
+				},
+				{
+					"name": "\"Z\" Block",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/15/FulliconAddon_zBlock.png"
+				},
+				{
+					"name": "Red Paint Brush",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9b/FulliconAddon_redPaintBrush.png"
+				},
+				{
+					"name": "Black Box",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/64/FulliconAddon_blackBox.png"
+				}
+			]
+		},
+		{
+			"name": "The Pig",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c7/K11_charSelect_portrait.png",
+			"addons": [
+				{
+					"name": "Shattered Syringe",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f6/FulliconAddon_shatteredSyringe.png"
+				},
+				{
+					"name": "John's Medical File",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b6/FulliconAddon_johnsMedicalFile.png"
+				},
+				{
+					"name": "Interlocking Razor",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/ef/FulliconAddon_interlockingRazor.png"
+				},
+				{
+					"name": "Combat Straps",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/03/FulliconAddon_combatStraps.png"
+				},
+				{
+					"name": "Workshop Grease",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/58/FulliconAddon_workshopGrease.png"
+				},
+				{
+					"name": "Utility Blades",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/38/FulliconAddon_utilityBlades.png"
+				},
+				{
+					"name": "Razor Wires",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1d/FulliconAddon_razorWires.png"
+				},
+				{
+					"name": "Last Will",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/ed/FulliconAddon_lastWill.png"
+				},
+				{
+					"name": "Face Mask",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7e/FulliconAddon_faceMask.png"
+				},
+				{
+					"name": "Slow-Release Toxin",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f8/FulliconAddon_slow-ReleaseToxin.png"
+				},
+				{
+					"name": "Rusty Attachments",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/77/FulliconAddon_rustyAttachments.png"
+				},
+				{
+					"name": "Rules Set No.2",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6d/FulliconAddon_rulesSetNo.2.png"
+				},
+				{
+					"name": "Jigsaw's Annotated Plan",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/72/FulliconAddon_jigsawsAnnotatedPlan.png"
+				},
+				{
+					"name": "Bag of Gears",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c9/FulliconAddon_bagOfGears.png"
+				},
+				{
+					"name": "Tampered Timer",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/73/FulliconAddon_tamperedTimer.png"
+				},
+				{
+					"name": "Jigsaw's Sketch",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/44/FulliconAddon_jigsawsSketch.png"
+				},
+				{
+					"name": "Crate of Gears",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/07/FulliconAddon_crateOfGears.png"
+				},
+				{
+					"name": "Amanda's Secret",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/69/FulliconAddon_amandasSecret.png"
+				},
+				{
+					"name": "Amanda's Letter",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/58/FulliconAddon_amandasLetter.png"
+				},
+				{
+					"name": "Video Tape",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b1/FulliconAddon_videoTape.png"
+				}
+			]
+		},
+		{
+			"name": "The Clown",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e1/K12_charSelect_portrait.png",
+			"addons": [
+				{
+					"name": "VHS Porn",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/89/FulliconAddon_vhsPorn.png"
+				},
+				{
+					"name": "Robin Feather",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7f/FulliconAddon_robinFeather.png"
+				},
+				{
+					"name": "Party Bottle",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/50/FulliconAddon_partyBottle.png"
+				},
+				{
+					"name": "Fingerless Parade Gloves",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/91/FulliconAddon_fingerlessParadeGloves.png"
+				},
+				{
+					"name": "Thick Cork Stopper",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/84/FulliconAddon_thickCorkStopper.png"
+				},
+				{
+					"name": "Sticky Soda Bottle",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/24/FulliconAddon_stickySodaBottle.png"
+				},
+				{
+					"name": "Starling Feather",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/24/FulliconAddon_starlingFeather.png"
+				},
+				{
+					"name": "Solvent Jug",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/40/FulliconAddon_solventJug.png"
+				},
+				{
+					"name": "Kerosene Can",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2b/FulliconAddon_keroseneCan.png"
+				},
+				{
+					"name": "Sulphuric Acid Vial",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e3/FulliconAddon_sulphuricAcidVial.png"
+				},
+				{
+					"name": "Spirit of Hartshorn",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fe/FulliconAddon_spiritOfHartshorn.png"
+				},
+				{
+					"name": "Smelly Inner Soles",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/ea/FulliconAddon_smellyInnerSoles.png"
+				},
+				{
+					"name": "Flask of Bleach",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d9/FulliconAddon_flaskOfBleach.png"
+				},
+				{
+					"name": "Bottle of Chloroform",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/35/FulliconAddon_bottleOfChloroform.png"
+				},
+				{
+					"name": "Garish Make-up Kit",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/26/FulliconAddon_garishMake-UpKit.png"
+				},
+				{
+					"name": "Ether 15 Vol%",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f7/FulliconAddon_ether15Vol.png"
+				},
+				{
+					"name": "Cigar Box",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/29/FulliconAddon_cigarBox.png"
+				},
+				{
+					"name": "Cheap Gin Bottle",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/cf/FulliconAddon_cheapGinBottle.png"
+				},
+				{
+					"name": "Tattoo's Middle Finger",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/94/FulliconAddon_tattoosMiddleFinger.png"
+				},
+				{
+					"name": "Redhead's Pinkie Finger",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e8/FulliconAddon_redheadsPinkieFinger.png"
+				}
+			]
+		},
+		{
+			"name": "The Spirit",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b0/K13_charSelect_portrait.png",
+			"addons": [
+				{
+					"name": "Zōri",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e2/FulliconAddon_zori.png"
+				},
+				{
+					"name": "Shiawase Amulet",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8a/FulliconAddon_shiawaseAmulet.png"
+				},
+				{
+					"name": "Origami Crane",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/22/FulliconAddon_origamiCrane.png"
+				},
+				{
+					"name": "Gifted Bamboo Comb",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/25/FulliconAddon_giftedBambooComb.png"
+				},
+				{
+					"name": "White Hair Ribbon",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/85/FulliconAddon_whiteHairRibbon.png"
+				},
+				{
+					"name": "Rin's Broken Watch",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/76/FulliconAddon_rinsBrokenWatch.png"
+				},
+				{
+					"name": "Muddy Sports Day Cap",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/aa/FulliconAddon_muddySportsDayCap.png"
+				},
+				{
+					"name": "Kaiun Talisman",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fb/FulliconAddon_kaiunTalisman.png"
+				},
+				{
+					"name": "Juniper Bonsai",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/77/FulliconAddon_juniperBonsai.png"
+				},
+				{
+					"name": "Rusty Flute",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fe/FulliconAddon_rustyFlute.png"
+				},
+				{
+					"name": "Senko Hanabi",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f5/FulliconAddon_senkoHanabi.png"
+				},
+				{
+					"name": "Katana Tsuba",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/ed/FulliconAddon_katanaTsuba.png"
+				},
+				{
+					"name": "Uchiwa",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4f/FulliconAddon_uchiwa.png"
+				},
+				{
+					"name": "Mother's Glasses",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a4/FulliconAddon_mothersGlasses.png"
+				},
+				{
+					"name": "Yakuyoke Amulet",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0f/FulliconAddon_yakuyokeAmulet.png"
+				},
+				{
+					"name": "Wakizashi Saya",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/db/FulliconAddon_wakizashiSaya.png"
+				},
+				{
+					"name": "Furin",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d6/FulliconAddon_furin.png"
+				},
+				{
+					"name": "Dried Cherry Blossom",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/69/FulliconAddon_driedCherryBlossom.png"
+				},
+				{
+					"name": "Mother-Daughter Ring",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8c/FulliconAddon_mother-DaughterRing.png"
+				},
+				{
+					"name": "Kintsugi Teacup",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5a/FulliconAddon_kintsugiTeacup.png"
+				}
+			]
+		},
+		{
+			"name": "The Legion",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/af/K14_charSelect_portrait.png",
+			"addons": [
+				{
+					"name": "Smiley Face Pin",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3e/FulliconAddon_smileyFacePin.png"
+				},
+				{
+					"name": "Scratched Ruler",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a3/FulliconAddon_scratchedRuler.png"
+				},
+				{
+					"name": "Mischief List",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/96/FulliconAddon_mischiefList.png"
+				},
+				{
+					"name": "Friendship Bracelet",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9a/FulliconAddon_friendshipBracelet.png"
+				},
+				{
+					"name": "Never-Sleep Pills",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/11/FulliconAddon_never-SleepPills.png"
+				},
+				{
+					"name": "Mural Sketch",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/43/FulliconAddon_muralSketch.png"
+				},
+				{
+					"name": "Julie's Mix Tape",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/cf/FulliconAddon_juliesMixTape.png"
+				},
+				{
+					"name": "Etched Ruler",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/62/FulliconAddon_etchedRuler.png"
+				},
+				{
+					"name": "Defaced Smiley Pin",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1e/FulliconAddon_defacedSmileyPin.png"
+				},
+				{
+					"name": "The Legion Pin",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6e/FulliconAddon_theLegionPin.png"
+				},
+				{
+					"name": "Susie's Mix Tape",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/11/FulliconAddon_susiesMixTape.png"
+				},
+				{
+					"name": "Stolen Sketch Book",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f5/FulliconAddon_stolenSketchBook.png"
+				},
+				{
+					"name": "Nasty Blade",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7d/FulliconAddon_nastyBlade.png"
+				},
+				{
+					"name": "Joey's Mix Tape",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/50/FulliconAddon_joeysMixTape.png"
+				},
+				{
+					"name": "Stab Wounds Study",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fd/FulliconAddon_stabWoundsStudy.png"
+				},
+				{
+					"name": "Frank's Mix Tape",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0b/FulliconAddon_franksMixTape.png"
+				},
+				{
+					"name": "Filthy Blade",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/89/FulliconAddon_filthyBlade.png"
+				},
+				{
+					"name": "Cold Dirt",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/15/FulliconAddon_coldDirt.png"
+				},
+				{
+					"name": "Iridescent Button",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/67/FulliconAddon_iridescentButton.png"
+				},
+				{
+					"name": "Fuming Mix Tape",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b2/FulliconAddon_fumingMixTape.png"
+				}
+			]
+		},
+		{
+			"name": "The Plague",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/68/K15_charSelect_portrait.png",
+			"addons": [
+				{
+					"name": "Prayer Tablet Fragment",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/80/FulliconAddon_prayerTabletFragment.png"
+				},
+				{
+					"name": "Olibanum Incense",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f7/FulliconAddon_olibanumIncense.png"
+				},
+				{
+					"name": "Limestone Seal",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/bd/FulliconAddon_limestoneSeal.png"
+				},
+				{
+					"name": "Healing Salve",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3f/FulliconAddon_healingSalve.png"
+				},
+				{
+					"name": "Prophylactic Amulet",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/02/FulliconAddon_prophylacticAmulet.png"
+				},
+				{
+					"name": "Potent Tincture",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6c/FulliconAddon_potentTincture.png"
+				},
+				{
+					"name": "Haematite Seal",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/10/FulliconAddon_haematiteSeal.png"
+				},
+				{
+					"name": "Emetic Potion",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e5/FulliconAddon_emeticPotion.png"
+				},
+				{
+					"name": "Blessed Apple",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/06/FulliconAddon_blessedApple.png"
+				},
+				{
+					"name": "Rubbing Oil",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f6/FulliconAddon_rubbingOil.png"
+				},
+				{
+					"name": "Infected Emetic",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/11/FulliconAddon_infectedEmetic.png"
+				},
+				{
+					"name": "Incensed Ointment",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/81/FulliconAddon_incensedOintment.png"
+				},
+				{
+					"name": "Exorcism Amulet",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fa/FulliconAddon_exorcismAmulet.png"
+				},
+				{
+					"name": "Ashen Apple",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8a/FulliconAddon_ashenApple.png"
+				},
+				{
+					"name": "Worship Tablet",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0c/FulliconAddon_worshipTablet.png"
+				},
+				{
+					"name": "Vile Emetic",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/25/FulliconAddon_vileEmetic.png"
+				},
+				{
+					"name": "Severed Toe",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/32/FulliconAddon_severedToe.png"
+				},
+				{
+					"name": "Devotee's Amulet",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3b/FulliconAddon_devoteesAmulet.png"
+				},
+				{
+					"name": "Iridescent Seal",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/06/FulliconAddon_iridescentSeal.png"
+				},
+				{
+					"name": "Black Incense",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/23/FulliconAddon_blackIncense.png"
+				}
+			]
+		},
+		{
+			"name": "The Ghost Face",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/bd/K16_charSelect_portrait.png",
+			"addons": [
+				{
+					"name": "\"Philly\"",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/92/FulliconAddon_philly.png"
+				},
+				{
+					"name": "Walleyes Matchbook",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ae/FulliconAddon_walleyesMatchbook.png"
+				},
+				{
+					"name": "Headlines Cut-outs",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0f/FulliconAddon_headlinesCutouts.png"
+				},
+				{
+					"name": "Cheap Cologne",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/39/FulliconAddon_cheapCologne.png"
+				},
+				{
+					"name": "Telephoto Lens",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a0/FulliconAddon_telephotoLens.png"
+				},
+				{
+					"name": "Reusable Cinch Straps",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/08/FulliconAddon_reusableCinchStraps.png"
+				},
+				{
+					"name": "Olsen's Journal",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f9/FulliconAddon_olsensJournal.png"
+				},
+				{
+					"name": "Olsen's Address Book",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/be/FulliconAddon_olsensAddressBook.png"
+				},
+				{
+					"name": "Marked Map",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4f/FulliconAddon_markedMap.png"
+				},
+				{
+					"name": "Olsen's Wallet",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/15/FulliconAddon_olsensWallet.png"
+				},
+				{
+					"name": "Leather Knife Sheath",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/ce/FulliconAddon_leatherKnifeSheath.png"
+				},
+				{
+					"name": "Lasting Perfume",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8c/FulliconAddon_lastingPerfume.png"
+				},
+				{
+					"name": "Knife Belt Clip",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a1/FulliconAddon_knifeBeltClip.png"
+				},
+				{
+					"name": "Chewed Pen",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c4/FulliconAddon_chewedPen.png"
+				},
+				{
+					"name": "Victim's Detailed Routine",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fe/FulliconAddon_victimsDetailedRoutine.png"
+				},
+				{
+					"name": "Night Vision Monocular",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1c/FulliconAddon_nightVisionMonocular.png"
+				},
+				{
+					"name": "Drop-Leg Knife Sheath",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e0/FulliconAddon_drop-LegKnifeSheath.png"
+				},
+				{
+					"name": "Driver's License",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2c/FulliconAddon_driversLicense.png"
+				},
+				{
+					"name": "\"Ghost Face Caught on Tape\"",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e9/FulliconAddon_caughtOnTape.png"
+				},
+				{
+					"name": "Outdoor Security Camera",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/52/FulliconAddon_outdoorSecurityCamera.png"
+				}
+			]
+		},
+		{
+			"name": "The Demogorgon",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6d/K17_charSelect_portrait.png",
+			"addons": [
+				{
+					"name": "Rotten Pumpkin",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5b/FulliconAddon_rottenPumpkin.png"
+				},
+				{
+					"name": "Black Heart",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ab/FulliconAddon_blackHeart.png"
+				},
+				{
+					"name": "Rat Liver",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9d/FulliconAddon_ratLiver.png"
+				},
+				{
+					"name": "Rat Tail",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/da/FulliconAddon_ratTail.png"
+				},
+				{
+					"name": "Sticky Lining",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9f/FulliconAddon_stickyLining.png"
+				},
+				{
+					"name": "Viscous Webbing",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c0/FulliconAddon_viscousWebbing.png"
+				},
+				{
+					"name": "Rotten Green Tripe",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a6/FulliconAddon_rottenGreenTripe.png"
+				},
+				{
+					"name": "Mews' Guts",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/78/FulliconAddon_mewsGuts.png"
+				},
+				{
+					"name": "Barb's Glasses",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f6/FulliconAddon_barbsGlasses.png"
+				},
+				{
+					"name": "Eleven's Soda",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4f/FulliconAddon_elevensSoda.png"
+				},
+				{
+					"name": "Thorny Vines",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a9/FulliconAddon_thornyVines.png"
+				},
+				{
+					"name": "Brass Case Lighter",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7d/FulliconAddon_brassCaseLighter.png"
+				},
+				{
+					"name": "Violet Waxcap",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f5/FulliconAddon_violetWaxcap.png"
+				},
+				{
+					"name": "Deer Lung",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6e/FulliconAddon_deerLung.png"
+				},
+				{
+					"name": "Lifeguard Whistle",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c5/FulliconAddon_lifeguardWhistle.png"
+				},
+				{
+					"name": "Vermilion Webcap",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/25/FulliconAddon_vermilionWebcap.png"
+				},
+				{
+					"name": "Upside Down Resin",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6a/FulliconAddon_upsideDownResin.png"
+				},
+				{
+					"name": "Unknown Egg",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/88/FulliconAddon_unknownEgg.png"
+				},
+				{
+					"name": "Leprose Lichen",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/63/FulliconAddon_leproseLichen.png"
+				},
+				{
+					"name": "Red Moss",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5d/FulliconAddon_redMoss.png"
+				}
+			]
+		},
+		{
+			"name": "The Oni",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c5/K18_charSelect_portrait.png",
+			"addons": [
+				{
+					"name": "Rotting Rope",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6c/FulliconAddon_rottingRope.png"
+				},
+				{
+					"name": "Paper Lantern",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/66/FulliconAddon_paperLantern.png"
+				},
+				{
+					"name": "Cracked Sakazuki",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c2/FulliconAddon_crackedSakazuki.png"
+				},
+				{
+					"name": "Blackened Toenail",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9e/FulliconAddon_blackenedToenail.png"
+				},
+				{
+					"name": "Polished Maedate",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/58/FulliconAddon_polishedMaedate.png"
+				},
+				{
+					"name": "Ink Lion",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/86/FulliconAddon_inkLion.png"
+				},
+				{
+					"name": "Chipped Saihai",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d6/FulliconAddon_chippedSaihai.png"
+				},
+				{
+					"name": "Child's Wooden Sword",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0a/FulliconAddon_childsWoodenSword.png"
+				},
+				{
+					"name": "Bloody Sash",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fe/FulliconAddon_bloodySash.png"
+				},
+				{
+					"name": "Yamaoka Sashimono",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b4/FulliconAddon_yamaokaSashimono.png"
+				},
+				{
+					"name": "Wooden Oni Mask",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e9/FulliconAddon_woodenOniMask.png"
+				},
+				{
+					"name": "Shattered Wakizashi",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/16/FulliconAddon_shatteredWakizashi.png"
+				},
+				{
+					"name": "Scalped Topknot",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/59/FulliconAddon_scalpedTopknot.png"
+				},
+				{
+					"name": "Kanai-Anzen Talisman",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b5/FulliconAddon_kanai-AnzenTalisman.png"
+				},
+				{
+					"name": "Tear Soaked Tenugui",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/50/FulliconAddon_tearSoakedTenugui.png"
+				},
+				{
+					"name": "Splintered Hull",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/43/FulliconAddon_splinteredHull.png"
+				},
+				{
+					"name": "Lion Fang",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/06/FulliconAddon_lionFang.png"
+				},
+				{
+					"name": "Akito's Crutch",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0c/FulliconAddon_akitosCrutch.png"
+				},
+				{
+					"name": "Renjiro's Bloody Glove",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/62/FulliconAddon_renjirosBloodyGlove.png"
+				},
+				{
+					"name": "Iridescent Family Crest",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/02/FulliconAddon_iridescentFamilyCrest.png"
+				}
+			]
+		},
+		{
+			"name": "The Deathslinger",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/84/K19_charSelect_portrait.png",
+			"addons": [
+				{
+					"name": "Spit Polish Rag",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e2/FulliconAddon_spitPolishRag.png"
+				},
+				{
+					"name": "Snake Oil",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a1/FulliconAddon_snakeOil.png"
+				},
+				{
+					"name": "Rickety Chain",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a3/FulliconAddon_ricketyChain.png"
+				},
+				{
+					"name": "Modified Ammo Belt",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/13/FulliconAddon_modifiedAmmoBelt.png"
+				},
+				{
+					"name": "Rusted Spike",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/ca/FulliconAddon_rustedSpike.png"
+				},
+				{
+					"name": "Poison Oak Leaves",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/58/FulliconAddon_poisonOakLeaves.png"
+				},
+				{
+					"name": "Marshal's Badge",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/12/FulliconAddon_marshalsBadge.png"
+				},
+				{
+					"name": "Jaw Smasher",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f0/FulliconAddon_jawSmasher.png"
+				},
+				{
+					"name": "Chewing Tobacco",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/50/FulliconAddon_chewingTobacco.png"
+				},
+				{
+					"name": "Warden's Keys",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/62/FulliconAddon_wardensKeys.png"
+				},
+				{
+					"name": "Wanted Poster",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6f/FulliconAddon_wantedPoster.png"
+				},
+				{
+					"name": "Tin Oil Can",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/43/FulliconAddon_tinOilCan.png"
+				},
+				{
+					"name": "Honey Locust Thorn",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/dc/FulliconAddon_honeyLocustThorn.png"
+				},
+				{
+					"name": "Bayshore's Gold Tooth",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/41/FulliconAddon_bayshoresGoldTooth.png"
+				},
+				{
+					"name": "Prison Chain",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/91/FulliconAddon_prisonChain.png"
+				},
+				{
+					"name": "Gold Creek Whiskey",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/94/FulliconAddon_goldCreekWhiskey.png"
+				},
+				{
+					"name": "Bayshore's Cigar",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/53/FulliconAddon_bayshoresCigar.png"
+				},
+				{
+					"name": "Barbed Wire",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/70/FulliconAddon_barbedWire.png"
+				},
+				{
+					"name": "Iridescent Coin",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3e/FulliconAddon_iridescentCoin.png"
+				},
+				{
+					"name": "Hellshire Iron",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d1/FulliconAddon_hellshireIron.png"
+				}
+			]
+		},
+		{
+			"name": "The Executioner",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/95/K20_charSelect_portrait.png",
+			"addons": [
+				{
+					"name": "Lead Ring",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/06/FulliconAddon_leadRing.png"
+				},
+				{
+					"name": "Dead Butterfly",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c5/FulliconAddon_deadButterfly.png"
+				},
+				{
+					"name": "Copper Ring",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/bc/FulliconAddon_copperRing.png"
+				},
+				{
+					"name": "Black Strap",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/ec/FulliconAddon_blackStrap.png"
+				},
+				{
+					"name": "Wax Doll",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c7/FulliconAddon_waxDoll.png"
+				},
+				{
+					"name": "Spearhead",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/93/FulliconAddon_spearhead.png"
+				},
+				{
+					"name": "Leopard-Print Fabric",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/45/FulliconAddon_leopardprintFabric.png"
+				},
+				{
+					"name": "Forgotten Videotape",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/28/FulliconAddon_forgottenVideotape.png"
+				},
+				{
+					"name": "Cinderella Music Box",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b3/FulliconAddon_cinderellaMusicBox.png"
+				},
+				{
+					"name": "Valtiel Sect Photograph",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b5/FulliconAddon_valtielSectPhotograph.png"
+				},
+				{
+					"name": "Tablet of the Oppressor",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/bf/FulliconAddon_tabletOfTheOppressor.png"
+				},
+				{
+					"name": "Misty Day, Remains of Judgement",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c8/FulliconAddon_mistyDay.png"
+				},
+				{
+					"name": "Mannequin Foot",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/24/FulliconAddon_mannequinFoot.png"
+				},
+				{
+					"name": "Burning Man Painting",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c7/FulliconAddon_burningManPainting.png"
+				},
+				{
+					"name": "Scarlet Egg",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/19/FulliconAddon_scarletEgg.png"
+				},
+				{
+					"name": "Rust-Coloured Egg",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d2/FulliconAddon_rustColoredEgg.png"
+				},
+				{
+					"name": "Lost Memories Book",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/26/FulliconAddon_lostMemoriesBook.png"
+				},
+				{
+					"name": "Crimson Ceremony Book",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3a/FulliconAddon_crimsonCeremonyBook.png"
+				},
+				{
+					"name": "Obsidian Goblet",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a5/FulliconAddon_obsidianGoblet.png"
+				},
+				{
+					"name": "Iridescent Seal of Metatron",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f9/FulliconAddon_iridescentSealOfMetatron.png"
+				}
+			]
+		},
+		{
+			"name": "The Blight",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0b/K21_charSelect_portrait.png",
+			"addons": [
+				{
+					"name": "Placebo Tablet",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d1/FulliconAddon_placeboTablet.png"
+				},
+				{
+					"name": "Foxglove",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/41/FulliconAddon_foxglove.png"
+				},
+				{
+					"name": "Compound Seven",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1f/FulliconAddon_compoundSeven.png"
+				},
+				{
+					"name": "Chipped Monocle",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1c/FulliconAddon_chippedMonocle.png"
+				},
+				{
+					"name": "Shredded Notes",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/37/FulliconAddon_shreddedNotes.png"
+				},
+				{
+					"name": "Pustula Dust",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/09/FulliconAddon_pustulaDust.png"
+				},
+				{
+					"name": "Plague Bile",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e9/FulliconAddon_plagueBile.png"
+				},
+				{
+					"name": "Canker Thorn",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ab/FulliconAddon_cankerThorn.png"
+				},
+				{
+					"name": "Blighted Rat",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/46/FulliconAddon_blightedRat.png"
+				},
+				{
+					"name": "Umbra Salts",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/07/FulliconAddon_umbraSalts.png"
+				},
+				{
+					"name": "Rose Tonic",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e9/FulliconAddon_roseTonic.png"
+				},
+				{
+					"name": "Compound Twenty-One",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/91/FulliconAddon_compoundTwentyOne.png"
+				},
+				{
+					"name": "Blighted Crow",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a5/FulliconAddon_blightedCrow.png"
+				},
+				{
+					"name": "Adrenaline Vial",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d5/FulliconAddon_adrenalineVial.png"
+				},
+				{
+					"name": "Vigo's Journal",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e3/FulliconAddon_vigosJournal.png"
+				},
+				{
+					"name": "Summoning Stone",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/63/FulliconAddon_summoningStone.png"
+				},
+				{
+					"name": "Soul Chemical",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/69/FulliconAddon_soulChemical.png"
+				},
+				{
+					"name": "Alchemist's Ring",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/63/FulliconAddon_alchemistsRing.png"
+				},
+				{
+					"name": "Iridescent Blight Tag",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3e/FulliconAddon_iridescentBlightTag.png"
+				},
+				{
+					"name": "Compound Thirty-Three",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b4/FulliconAddon_compoundThirtyThree.png"
+				}
+			]
+		},
+		{
+			"name": "The Twins",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/03/K22_charSelect_portrait.png",
+			"addons": [
+				{
+					"name": "Toy Sword",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/49/FulliconAddon_toySword.png"
+				},
+				{
+					"name": "Tiny Fingernail",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/bd/FulliconAddon_tinyFingernail.png"
+				},
+				{
+					"name": "Soured Milk",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f1/FulliconAddon_souredMilk.png"
+				},
+				{
+					"name": "Cat Figurine",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5f/FulliconAddon_catFigurine.png"
+				},
+				{
+					"name": "Madeleine's Glove",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/74/FulliconAddon_madeleinesGlove.png"
+				},
+				{
+					"name": "Ceremonial Candelabrum",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/87/FulliconAddon_ceremonialCandelabrum.png"
+				},
+				{
+					"name": "Cat's Eye",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/59/FulliconAddon_catsEye.png"
+				},
+				{
+					"name": "Bloody Black Hood",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1e/FulliconAddon_bloodyBlackHood.png"
+				},
+				{
+					"name": "Baby Teeth",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/cf/FulliconAddon_babyTeeth.png"
+				},
+				{
+					"name": "Weighty Rattle",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d4/FulliconAddon_weightyRattle.png"
+				},
+				{
+					"name": "Stale Biscuit",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4f/FulliconAddon_staleBiscuit.png"
+				},
+				{
+					"name": "Sewer Sludge",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/74/FulliconAddon_sewerSludge.png"
+				},
+				{
+					"name": "Rusted Needle",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e5/FulliconAddon_rustedNeedle.png"
+				},
+				{
+					"name": "Madeleine's Scarf",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/42/FulliconAddon_madeleinesScarf.png"
+				},
+				{
+					"name": "Victor's Soldier",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e8/FulliconAddon_victorsSoldier.png"
+				},
+				{
+					"name": "Spinning Top",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/94/FulliconAddon_spinningTop.png"
+				},
+				{
+					"name": "Forest Stew",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/76/FulliconAddon_forestStew.png"
+				},
+				{
+					"name": "Drop of Perfume",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6e/FulliconAddon_dropOfPerfume.png"
+				},
+				{
+					"name": "Silencing Cloth",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c8/FulliconAddon_silencingCloth.png"
+				},
+				{
+					"name": "Iridescent Pendant",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/de/FulliconAddon_iridescentPendant.png"
+				}
+			]
+		},
+		{
+			"name": "The Trickster",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3e/K23_charSelect_portrait.png",
+			"addons": [
+				{
+					"name": "Trick Pouch",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/bb/FulliconAddon_trickPouch.png"
+				},
+				{
+					"name": "Memento Blades",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/12/FulliconAddon_mementoBlades.png"
+				},
+				{
+					"name": "Killing Part Chords",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/af/FulliconAddon_killingPartChords.png"
+				},
+				{
+					"name": "Inferno Wires",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c4/FulliconAddon_infernoWires.png"
+				},
+				{
+					"name": "Tequila Moonrock",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6d/FulliconAddon_tequilaMoonrock.png"
+				},
+				{
+					"name": "On Target Single",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5f/FulliconAddon_onTargetSingle.png"
+				},
+				{
+					"name": "Lucky Blade",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/64/FulliconAddon_luckyBlade.png"
+				},
+				{
+					"name": "Ji-Woon's Autograph",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/13/FulliconAddon_ji-WoonsAutograph.png"
+				},
+				{
+					"name": "Caged Heart Shoes",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/50/FulliconAddon_cagedHeartShoes.png"
+				},
+				{
+					"name": "Melodious Murder",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7c/FulliconAddon_melodiousMurder.png"
+				},
+				{
+					"name": "Waiting For You Watch",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/cf/FulliconAddon_waitingForYouWatch.png"
+				},
+				{
+					"name": "Ripper Brace",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0e/FulliconAddon_ripperBrace.png"
+				},
+				{
+					"name": "Fizz-Spin Soda",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/17/FulliconAddon_fizz-SpinSoda.png"
+				},
+				{
+					"name": "Bloody Boa",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9d/FulliconAddon_bloodyBoa.png"
+				},
+				{
+					"name": "Trick Blades",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f7/FulliconAddon_trickBlades.png"
+				},
+				{
+					"name": "Edge of Revival Album",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/bb/FulliconAddon_edgeOfRevivalAlbum.png"
+				},
+				{
+					"name": "Diamond Cufflinks",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/65/FulliconAddon_diamondCufflinks.png"
+				},
+				{
+					"name": "Cut Thru U Single",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/51/FulliconAddon_cutThruUSingle.png"
+				},
+				{
+					"name": "Iridescent Photocard",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/cb/FulliconAddon_iridescentPhotocard.png"
+				},
+				{
+					"name": "Death Throes Compilation",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fc/FulliconAddon_deathThroesCompilation.png"
+				}
+			]
+		},
+		{
+			"name": "The Nemesis",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/84/K24_charSelect_portrait.png",
+			"addons": [
+				{
+					"name": "Visitor Wristband",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/41/FulliconAddon_visitorWristband.png"
+				},
+				{
+					"name": "S.T.A.R.S. Field Combat Manual",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3b/FulliconAddon_starsFieldCombatManual.png"
+				},
+				{
+					"name": "Damaged Syringe",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0c/FulliconAddon_damagedSyringe.png"
+				},
+				{
+					"name": "Brian's Intestine",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e6/FulliconAddon_briansIntestine.png"
+				},
+				{
+					"name": "Zombie Heart",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5f/FulliconAddon_zombieHeart.png"
+				},
+				{
+					"name": "Mikhail's Eye",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5a/FulliconAddon_mikhailsEye.png"
+				},
+				{
+					"name": "Marvin's Blood",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/83/FulliconAddon_marvinsBlood.png"
+				},
+				{
+					"name": "Adrenaline Injector",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/47/FulliconAddon_adrenalineInjector.png"
+				},
+				{
+					"name": "Admin Wristband",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a1/FulliconAddon_adminWristband.png"
+				},
+				{
+					"name": "Tyrant Gore",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/75/FulliconAddon_tyrantGore.png"
+				},
+				{
+					"name": "T-Virus Sample",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/cb/FulliconAddon_t-VirusSample.png"
+				},
+				{
+					"name": "Serotonin Injector",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b9/FulliconAddon_serotoninInjector.png"
+				},
+				{
+					"name": "Plant 43 Vines",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/16/FulliconAddon_plant43Vines.png"
+				},
+				{
+					"name": "Licker Tongue",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/51/FulliconAddon_lickerTongue.png"
+				},
+				{
+					"name": "NE-a Parasite",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/03/FulliconAddon_ne-AParasite.png"
+				},
+				{
+					"name": "Jill's Sandwich",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d4/FulliconAddon_jillsSandwich.png"
+				},
+				{
+					"name": "Depleted Ink Ribbon",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9d/FulliconAddon_depletedInkRibbon.png"
+				},
+				{
+					"name": "Broken Recovery Coin",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8b/FulliconAddon_brokenRecoveryCoin.png"
+				},
+				{
+					"name": "Shattered S.T.A.R.S. Badge",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7b/FulliconAddon_shatteredSTARSBadge.png"
+				},
+				{
+					"name": "Iridescent Umbrella Badge",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c1/FulliconAddon_iridescentUmbrellaBadge.png"
+				}
+			]
+		},
+		{
+			"name": "The Cenobite",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/35/K25_charSelect_portrait.png",
+			"addons": [
+				{
+					"name": "Leather Strip",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5e/FulliconAddon_leatherStrip.png"
+				},
+				{
+					"name": "Lively Crickets",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8d/FulliconAddon_livelyCrickets.png"
+				},
+				{
+					"name": "Burning Candle",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f6/FulliconAddon_burningCandle.png"
+				},
+				{
+					"name": "Bent Nail",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/bf/FulliconAddon_bentNail.png"
+				},
+				{
+					"name": "Wriggling Maggots",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6c/FulliconAddon_wrigglingMaggots.png"
+				},
+				{
+					"name": "Spoiled Meal",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e0/FulliconAddon_spoiledMeal.png"
+				},
+				{
+					"name": "Skewered Rat",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/05/FulliconAddon_skeweredRat.png"
+				},
+				{
+					"name": "Liquified Gore",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0d/FulliconAddon_liquifiedGore.png"
+				},
+				{
+					"name": "Flickering Television",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b0/FulliconAddon_flickeringTelevision.png"
+				},
+				{
+					"name": "Torture Pillar",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/62/FulliconAddon_torturePillar.png"
+				},
+				{
+					"name": "Slice of Frank",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/53/FulliconAddon_sliceOfFrank.png"
+				},
+				{
+					"name": "Larry's Remains",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/35/FulliconAddon_larrysRemains.png"
+				},
+				{
+					"name": "Larry's Blood",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9b/FulliconAddon_larrysBlood.png"
+				},
+				{
+					"name": "Frank's Heart",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5d/FulliconAddon_franksHeart.png"
+				},
+				{
+					"name": "Original Pain",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3c/FulliconAddon_originalPain.png"
+				},
+				{
+					"name": "Impaling Wire",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/80/FulliconAddon_impalingWire.png"
+				},
+				{
+					"name": "Greasy Black Lens",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/58/FulliconAddon_greasyBlackLens.png"
+				},
+				{
+					"name": "Chatterer's Tooth",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/52/FulliconAddon_chatterersTooth.png"
+				},
+				{
+					"name": "Iridescent Lament Configuration",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/02/FulliconAddon_iridescentLamentConfiguration.png"
+				},
+				{
+					"name": "Engineer's Fang",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/ca/FulliconAddon_engineersFang.png"
+				}
+			]
+		},
+		{
+			"name": "The Artist",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/19/K26_charSelect_portrait.png",
+			"addons": [
+				{
+					"name": "Vibrant Obituary",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/01/FulliconAddon_vibrantObituary.png"
+				},
+				{
+					"name": "Thick Tar",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/24/FulliconAddon_thickTar.png"
+				},
+				{
+					"name": "Oil Paints",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9f/FulliconAddon_oilPaints.png"
+				},
+				{
+					"name": "Choclo Corn",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/60/FulliconAddon_chocloCorn.png"
+				},
+				{
+					"name": "Velvet Fabric",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ac/FulliconAddon_velvetFabric.png"
+				},
+				{
+					"name": "Untitled Agony",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/48/FulliconAddon_untitledAgony.png"
+				},
+				{
+					"name": "Still Life Crow",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/72/FulliconAddon_stillLifeCrow.png"
+				},
+				{
+					"name": "Festering Carrion",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/17/FulliconAddon_festeringCarrion.png"
+				},
+				{
+					"name": "Automatic Drawing",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/66/FulliconAddon_automaticDrawing.png"
+				},
+				{
+					"name": "Thorny Nest",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d9/FulliconAddon_thornyNest.png"
+				},
+				{
+					"name": "Silver Bell",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/51/FulliconAddon_silverBell.png"
+				},
+				{
+					"name": "O Grief, O Lover",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/43/FulliconAddon_oGriefOLover.png"
+				},
+				{
+					"name": "Darkest Ink",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5a/FulliconAddon_darkestInk.png"
+				},
+				{
+					"name": "Charcoal Stick",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a7/FulliconAddon_charcoalStick.png"
+				},
+				{
+					"name": "Severed Tongue",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b6/FulliconAddon_severedTongue.png"
+				},
+				{
+					"name": "Severed Hands",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/90/FulliconAddon_severedHands.png"
+				},
+				{
+					"name": "Matias' Baby Shoes",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/30/FulliconAddon_matiasBabyShoes.png"
+				},
+				{
+					"name": "Ink Egg",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9e/FulliconAddon_inkEgg.png"
+				},
+				{
+					"name": "Iridescent Feather",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/70/FulliconAddon_iridescentFeather.png"
+				},
+				{
+					"name": "Garden of Rot",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0a/FulliconAddon_gardenOfRot.png"
+				}
+			]
+		}
+	],
+	"perks": [
+		{
+			"name": "A Nurse's Calling",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fe/IconPerks_aNursesCalling.png",
+			"description": ""
+		},
+		{
+			"name": "Agitation",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ac/IconPerks_agitation.png",
+			"description": ""
+		},
+		{
+			"name": "Bamboozle",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7a/IconPerks_bamboozle.png",
+			"description": ""
+		},
+		{
+			"name": "Barbecue & Chilli",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/51/IconPerks_barbecueAndChilli.png",
+			"description": ""
+		},
+		{
+			"name": "Beast of Prey",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/77/IconPerks_beastOfPrey.png",
+			"description": ""
+		},
+		{
+			"name": "Bitter Murmur",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5a/IconPerks_bitterMurmur.png",
+			"description": ""
+		},
+		{
+			"name": "Blood Echo",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c3/IconPerks_bloodEcho.png",
+			"description": ""
+		},
+		{
+			"name": "Blood Warden",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/eb/IconPerks_bloodWarden.png",
+			"description": ""
+		},
+		{
+			"name": "Bloodhound",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e0/IconPerks_bloodhound.png",
+			"description": ""
+		},
+		{
+			"name": "Brutal Strength",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3d/IconPerks_brutalStrength.png",
+			"description": ""
+		},
+		{
+			"name": "Claustrophobia",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c6/IconPerks_cruelLimits.png",
+			"description": ""
+		},
+		{
+			"name": "Corrupt Intervention",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/10/IconPerks_corruptIntervention.png",
+			"description": ""
+		},
+		{
+			"name": "Coulrophobia",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/45/IconPerks_coulrophobia.png",
+			"description": ""
+		},
+		{
+			"name": "Coup de Grâce",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/bd/IconPerks_coupDeGr%C3%A2ce.png",
+			"description": ""
+		},
+		{
+			"name": "Dark Devotion",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4f/IconPerks_darkDevotion.png",
+			"description": ""
+		},
+		{
+			"name": "Dead Man's Switch",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c3/IconPerks_deadMansSwitch.png",
+			"description": ""
+		},
+		{
+			"name": "Deadlock",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d3/IconPerks_deadlock.png",
+			"description": ""
+		},
+		{
+			"name": "Deathbound",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e7/IconPerks_deathbound.png",
+			"description": ""
+		},
+		{
+			"name": "Deerstalker",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/01/IconPerks_deerstalker.png",
+			"description": ""
+		},
+		{
+			"name": "Discordance",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/82/IconPerks_discordance.png",
+			"description": ""
+		},
+		{
+			"name": "Distressing",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/94/IconPerks_distressing.png",
+			"description": ""
+		},
+		{
+			"name": "Dragon's Grip",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/ff/IconPerks_dragonsGrip.png",
+			"description": ""
+		},
+		{
+			"name": "Dying Light",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/48/IconPerks_dyingLight.png",
+			"description": ""
+		},
+		{
+			"name": "Enduring",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/94/IconPerks_enduring.png",
+			"description": ""
+		},
+		{
+			"name": "Eruption",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/dd/IconPerks_eruption.png",
+			"description": ""
+		},
+		{
+			"name": "Fearmonger",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0f/IconPerks_mindbreaker.png",
+			"description": ""
+		},
+		{
+			"name": "Fire Up",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5c/IconPerks_fireUp.png",
+			"description": ""
+		},
+		{
+			"name": "Forced Penance",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1d/IconPerks_forcedPenance.png",
+			"description": ""
+		},
+		{
+			"name": "Franklin's Demise",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b2/IconPerks_franklinsDemise.png",
+			"description": ""
+		},
+		{
+			"name": "Furtive Chase",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/94/IconPerks_furtiveChase.png",
+			"description": ""
+		},
+		{
+			"name": "Gearhead",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fd/IconPerks_gearhead.png",
+			"description": ""
+		},
+		{
+			"name": "Grim Embrace",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1c/IconPerks_grimEmbrace.png",
+			"description": ""
+		},
+		{
+			"name": "Hangman's Trick",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b4/IconPerks_hangmansTrick.png",
+			"description": ""
+		},
+		{
+			"name": "Hex: Blood Favour",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6b/IconPerks_hexBloodFavour.png",
+			"description": ""
+		},
+		{
+			"name": "Hex: Crowd Control",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f1/IconPerks_hexCrowdControl.png",
+			"description": ""
+		},
+		{
+			"name": "Hex: Devour Hope",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c9/IconPerks_hexDevourHope.png",
+			"description": ""
+		},
+		{
+			"name": "Hex: Haunted Ground",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c4/IconPerks_hexHauntedGround.png",
+			"description": ""
+		},
+		{
+			"name": "Hex: Huntress Lullaby",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/11/IconPerks_hexHuntressLullaby.png",
+			"description": ""
+		},
+		{
+			"name": "Hex: No One Escapes Death",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/af/IconPerks_hexNoOneEscapesDeath.png",
+			"description": ""
+		},
+		{
+			"name": "Hex: Pentimento",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5d/IconPerks_hexPentimento.png",
+			"description": ""
+		},
+		{
+			"name": "Hex: Plaything",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/18/IconPerks_hexPlaything.png",
+			"description": ""
+		},
+		{
+			"name": "Hex: Retribution",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ab/IconPerks_hexRetribution.png",
+			"description": ""
+		},
+		{
+			"name": "Hex: Ruin",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a2/IconPerks_hexRuin.png",
+			"description": ""
+		},
+		{
+			"name": "Hex: The Third Seal",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/36/IconPerks_hexTheThirdSeal.png",
+			"description": ""
+		},
+		{
+			"name": "Hex: Thrill of the Hunt",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/02/IconPerks_hexThrillOfTheHunt.png",
+			"description": ""
+		},
+		{
+			"name": "Hex: Undying",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fe/IconPerks_hexUndying.png",
+			"description": ""
+		},
+		{
+			"name": "Hoarder",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/23/IconPerks_hoarder.png",
+			"description": ""
+		},
+		{
+			"name": "Hysteria",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3a/IconPerks_hysteria.png",
+			"description": ""
+		},
+		{
+			"name": "I'm All Ears",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e3/IconPerks_imAllEars.png",
+			"description": ""
+		},
+		{
+			"name": "Infectious Fright",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6d/IconPerks_infectiousFright.png",
+			"description": ""
+		},
+		{
+			"name": "Insidious",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/40/IconPerks_insidious.png",
+			"description": ""
+		},
+		{
+			"name": "Iron Grasp",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/14/IconPerks_ironGrasp.png",
+			"description": ""
+		},
+		{
+			"name": "Iron Maiden",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b0/IconPerks_ironMaiden.png",
+			"description": ""
+		},
+		{
+			"name": "Jolt",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3b/IconPerks_surge.png",
+			"description": ""
+		},
+		{
+			"name": "Knock Out",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/52/IconPerks_knockOut.png",
+			"description": ""
+		},
+		{
+			"name": "Lethal Pursuer",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/61/IconPerks_lethalPursuer.png",
+			"description": ""
+		},
+		{
+			"name": "Lightborn",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/48/IconPerks_lightborn.png",
+			"description": ""
+		},
+		{
+			"name": "Mad Grit",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/da/IconPerks_madGrit.png",
+			"description": ""
+		},
+		{
+			"name": "Make Your Choice",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6b/IconPerks_makeYourChoice.png",
+			"description": ""
+		},
+		{
+			"name": "Monitor & Abuse",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/60/IconPerks_monitorAndAbuse.png",
+			"description": ""
+		},
+		{
+			"name": "Monstrous Shrine",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f5/IconPerks_monstrousShrine.png",
+			"description": ""
+		},
+		{
+			"name": "Nemesis",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/33/IconPerks_nemesis.png",
+			"description": ""
+		},
+		{
+			"name": "No Way Out",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/bb/IconPerks_noWayOut.png",
+			"description": ""
+		},
+		{
+			"name": "Oppression",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a1/IconPerks_oppression.png",
+			"description": ""
+		},
+		{
+			"name": "Overcharge",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c3/IconPerks_overcharge.png",
+			"description": ""
+		},
+		{
+			"name": "Overwhelming Presence",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9a/IconPerks_overwhelmingPresence.png",
+			"description": ""
+		},
+		{
+			"name": "Play with Your Food",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/18/IconPerks_playWithYourFood.png",
+			"description": ""
+		},
+		{
+			"name": "Pop Goes the Weasel",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0f/IconPerks_popGoesTheWeasel.png",
+			"description": ""
+		},
+		{
+			"name": "Predator",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/73/IconPerks_predator.png",
+			"description": ""
+		},
+		{
+			"name": "Rancor",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a2/IconPerks_rancor.png",
+			"description": ""
+		},
+		{
+			"name": "Remember Me",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/62/IconPerks_rememberMe.png",
+			"description": ""
+		},
+		{
+			"name": "Save the Best for Last",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6a/IconPerks_saveTheBestForLast.png",
+			"description": ""
+		},
+		{
+			"name": "Scourge Hook: Gift of Pain",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/26/IconPerks_scourgeHookGiftOfPain.png",
+			"description": ""
+		},
+		{
+			"name": "Scourge Hook: Pain Resonance",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/79/IconPerks_scourgeHookPainResonance.png",
+			"description": ""
+		},
+		{
+			"name": "Shadowborn",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ac/IconPerks_shadowborn.png",
+			"description": ""
+		},
+		{
+			"name": "Sloppy Butcher",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5a/IconPerks_sloppyButcher.png",
+			"description": ""
+		},
+		{
+			"name": "Spies from the Shadows",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b1/IconPerks_spiesFromTheShadows.png",
+			"description": ""
+		},
+		{
+			"name": "Spirit Fury",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a6/IconPerks_spiritFury.png",
+			"description": ""
+		},
+		{
+			"name": "Starstruck",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6e/IconPerks_starstruck.png",
+			"description": ""
+		},
+		{
+			"name": "Stridor",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/32/IconPerks_stridor.png",
+			"description": ""
+		},
+		{
+			"name": "Surveillance",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/eb/IconPerks_surveillance.png",
+			"description": ""
+		},
+		{
+			"name": "Territorial Imperative",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2a/IconPerks_territorialImperative.png",
+			"description": ""
+		},
+		{
+			"name": "Thanatophobia",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a2/IconPerks_thanatophobia.png",
+			"description": ""
+		},
+		{
+			"name": "Thrilling Tremors",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b8/IconPerks_thrillingTremors.png",
+			"description": ""
+		},
+		{
+			"name": "Tinkerer",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d9/IconPerks_tinkerer.png",
+			"description": ""
+		},
+		{
+			"name": "Trail of Torment",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/94/IconPerks_trailOfTorment.png",
+			"description": ""
+		},
+		{
+			"name": "Unnerving Presence",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a4/IconPerks_unnervingPresence.png",
+			"description": ""
+		},
+		{
+			"name": "Unrelenting",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/57/IconPerks_unrelenting.png",
+			"description": ""
+		},
+		{
+			"name": "Whispers",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/bb/IconPerks_whispers.png",
+			"description": ""
+		},
+		{
+			"name": "Zanshin Tactics",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d3/IconPerks_zanshinTactics.png",
+			"description": ""
+		}
+	],
+	"offerings": [
+		{
+			"name": "Hollow Shell",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/63/FulliconFavors_hollowShell.png"
+		},
+		{
+			"name": "Survivor Pudding",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f0/FulliconFavors_survivorPudding.png"
+		},
+		{
+			"name": "Bloody Party Streamers",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b4/FulliconFavors_bloodyPartyStreamers.png"
+		},
+		{
+			"name": "Tanager Wreath",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/24/FulliconFavors_tanagerWreath.png"
+		},
+		{
+			"name": "Devout Tanager Wreath",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f9/FulliconFavors_devoutTanagerWreath.png"
+		},
+		{
+			"name": "Ardent Tanager Wreath",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6e/FulliconFavors_ardentTanagerWreath.png"
+		},
+		{
+			"name": "Raven Wreath",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/32/FulliconFavors_ravenWreath.png"
+		},
+		{
+			"name": "Devout Raven Wreath",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1b/FulliconFavors_devoutRavenWreath.png"
+		},
+		{
+			"name": "Ardent Raven Wreath",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c1/FulliconFavors_ardentRavenWreath.png"
+		},
+		{
+			"name": "Spotted Owl Wreath",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d8/FulliconFavors_spottedOwlWreath.png"
+		},
+		{
+			"name": "Devout Spotted Owl Wreath",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/04/FulliconFavors_devoutSpottedOwlWreath.png"
+		},
+		{
+			"name": "Ardent Spotted Owl Wreath",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8d/FulliconFavors_ardentSpottedOwlWreath.png"
+		},
+		{
+			"name": "Shrike Wreath",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/bc/FulliconFavors_shrikeWreath.png"
+		},
+		{
+			"name": "Devout Shrike Wreath",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/cc/FulliconFavors_devoutShrikeWreath.png"
+		},
+		{
+			"name": "Ardent Shrike Wreath",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/93/FulliconFavors_ardentShrikeWreath.png"
+		},
+		{
+			"name": "Scratched Coin",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/85/FulliconFavors_scratchedCoin.png"
+		},
+		{
+			"name": "Cut Coin",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8e/FulliconFavors_cutCoin.png"
+		},
+		{
+			"name": "Clear Reagent",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a4/FulliconFavors_clearReagent.png"
+		},
+		{
+			"name": "Faint Reagent",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c5/FulliconFavors_faintReagent.png"
+		},
+		{
+			"name": "Hazy Reagent",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/99/FulliconFavors_hazyReagent.png"
+		},
+		{
+			"name": "Murky Reagent",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1e/FulliconFavors_murkyReagent.png"
+		},
+		{
+			"name": "Annotated Blueprint",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/47/FulliconFavors_annotatedBlueprint.png"
+		},
+		{
+			"name": "Vigo's Blueprint",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ab/FulliconFavors_vigosBlueprint.png"
+		},
+		{
+			"name": "Mouldy Oak",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/85/FulliconFavors_moldyOak.png"
+		},
+		{
+			"name": "Rotten Oak",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9b/FulliconFavors_rottenOak.png"
+		},
+		{
+			"name": "Putrid Oak",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/43/FulliconFavors_putridOak.png"
+		},
+		{
+			"name": "Cypress Memento Mori",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/54/FulliconFavors_cypressMementoMori.png"
+		},
+		{
+			"name": "Ivory Memento Mori",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/af/FulliconFavors_ivoryMementoMori.png"
+		},
+		{
+			"name": "Ebony Memento Mori",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/86/FulliconFavors_ebonyMementoMori.png"
+		},
+		{
+			"name": "Azarov's Key",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0c/FulliconFavors_azarovsKey.png"
+		},
+		{
+			"name": "Grandma's Cookbook",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b4/FulliconFavors_granmasCookbook.png"
+		},
+		{
+			"name": "Heart Locket",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a1/FulliconFavors_heartLocket.png"
+		},
+		{
+			"name": "Charred Wedding Photograph",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/24/FulliconFavors_charredWeddingPhotograph.png"
+		},
+		{
+			"name": "Crow's Eye",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/cb/FulliconFavors_crowsEye.png"
+		},
+		{
+			"name": "Jigsaw Piece",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b9/FulliconFavors_jigsawPiece.png"
+		},
+		{
+			"name": "Dusty Noose",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8a/FulliconFavors_dustyNoose.png"
+		},
+		{
+			"name": "Strode Realty Key",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/91/FulliconFavors_strodeRealtyKey.png"
+		},
+		{
+			"name": "Shattered Glasses",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b6/FulliconFavors_shatteredGlasses.png"
+		},
+		{
+			"name": "MacMillan's Phalanx Bone",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/44/FulliconFavors_macMillansPhalanxBone.png"
+		},
+		{
+			"name": "Damaged Photo",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9d/FulliconFavors_damagedPhoto.png"
+		},
+		{
+			"name": "RPD Badge",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/55/FulliconFavors_rpdBadge.png"
+		},
+		{
+			"name": "The Last Mask",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/73/FulliconFavors_theLastMask.png"
+		},
+		{
+			"name": "Mary's Letter",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6f/FulliconFavors_marysLetter.png"
+		},
+		{
+			"name": "The Pied Piper",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fa/FulliconFavors_thePiedPiper.png"
+		},
+		{
+			"name": "Yamaoka Family Crest",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6e/FulliconFavors_yamaokaFamilyCrest.png"
+		},
+		{
+			"name": "Vigo's Shroud",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/35/FulliconFavors_vigosShroud.png"
+		},
+		{
+			"name": "Sacrificial Ward",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9f/FulliconFavors_sacrificialWard.png"
+		},
+		{
+			"name": "Black Ward",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b8/FulliconFavors_blackWard.png"
+		}
+	]
+}
