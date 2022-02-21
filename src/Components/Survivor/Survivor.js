@@ -1,6 +1,8 @@
 import survivors from '../../Data/survivors';
 import SurvivorChar from './SurvivorChar';
 import SurvivorItem from './SurvivorItem';
+import SurvivorOffering from './SurvivorOffering';
+import SurvivorPerk from './SurvivorPerk';
 
 const Survivor = () => {
 	const shuffleArray = (array) => {
@@ -13,7 +15,8 @@ const Survivor = () => {
 
 	let isEventItemsEnabled = false; // Fake Event items check, remove later
 
-	const { characters: chars, items } = survivors;
+	const { characters: chars, items, perks, offerings } = survivors;
+
 	const randomChar = shuffleArray(chars)[0];
 
 	const randomItemFamily = shuffleArray(items)[0];
@@ -31,10 +34,20 @@ const Survivor = () => {
 		? shuffleArray(randomItemFamily.addons).slice(0, 2)
 		: shuffleArray(randomAddonsNormal).slice(0, 2);
 
+	const randomPerks = shuffleArray(perks).slice(0, 4);
+
+	const randomOffering = shuffleArray(offerings)[0];
+
 	return (
 		<div>
 			<SurvivorChar char={randomChar} />
+			<div className="perk-container">
+				{randomPerks.map((perk) => {
+					return <SurvivorPerk perk={perk} key={perk.name} />;
+				})}
+			</div>
 			<SurvivorItem item={randomItemType} addons={randomItemAddons} />
+			<SurvivorOffering offering={randomOffering} />
 		</div>
 	);
 };
