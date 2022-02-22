@@ -9,9 +9,16 @@ const Killer = () => {
 
 	const randomChar = shuffleArray(chars)[0];
 
+	const randomPerks = shuffleArray(perks).slice(0, 4);
+
 	return (
 		<div>
 			<KillerChar char={randomChar} />
+			<div className="perk-container">
+				{randomPerks.map((perk) => {
+					return <KillerPerk perk={perk} key={perk.name} />;
+				})}
+			</div>
 		</div>
 	);
 };

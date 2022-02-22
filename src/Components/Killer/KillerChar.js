@@ -2,8 +2,6 @@ import KillerAddon from './KillerAddon';
 
 const KillerChar = (props) => {
 	const { addons, name, img } = props.char;
-	console.log(props);
-	console.log(name);
 
 	return (
 		<div className="killer-char">
