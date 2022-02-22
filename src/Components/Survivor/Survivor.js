@@ -1,9 +1,9 @@
 import survivors from '../../Data/survivors';
-import { shuffleArray } from '../../Utils/shuffleArray';
 import SurvivorChar from './SurvivorChar';
 import SurvivorItem from './SurvivorItem';
 import SurvivorOffering from './SurvivorOffering';
 import SurvivorPerk from './SurvivorPerk';
+import { shuffleArray } from '../../Utils/shuffleArray';
 
 const Survivor = () => {
 	let isEventItemsEnabled = false; // Fake Event items check, remove later

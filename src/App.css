@@ -22,3 +22,14 @@
 	position: absolute;
 	bottom: 10px;
 }
+
+.killer-char {
+	display: flex;
+	flex-direction: row;
+}
+
+.killer-perks {
+	display: flex;
+	flex-direction: column;
+	width: 125px;
+}
