@@ -1,5 +1,11 @@
-const KillerOffering = () => {
-	return <div></div>;
+const KillerOffering = (props) => {
+	const { name, icon } = props.offering;
+
+	return (
+		<div>
+			<img src={icon} alt={name} />
+		</div>
+	);
 };
 
 export default KillerOffering;

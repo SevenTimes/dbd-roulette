@@ -11,6 +11,8 @@ const Killer = () => {
 
 	const randomPerks = shuffleArray(perks).slice(0, 4);
 
+	const randomOffering = shuffleArray(offerings)[0];
+
 	return (
 		<div>
 			<KillerChar char={randomChar} />
@@ -19,6 +21,7 @@ const Killer = () => {
 					return <KillerPerk perk={perk} key={perk.name} />;
 				})}
 			</div>
+			<KillerOffering offering={randomOffering} />
 		</div>
 	);
 };

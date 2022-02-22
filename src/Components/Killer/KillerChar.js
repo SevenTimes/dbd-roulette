@@ -1,4 +1,4 @@
-import KillerAddon from './KillerAddon';
+import KillerAddons from './KillerAddons';
 
 const KillerChar = (props) => {
 	const { addons, name, img } = props.char;
@@ -9,7 +9,7 @@ const KillerChar = (props) => {
 				<h1>{name}</h1>
 				<img src={img} alt={name} />
 			</div>
-			<KillerAddon addons={addons} />
+			<KillerAddons addons={addons} />
 		</div>
 	);
 };

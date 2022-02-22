@@ -1,6 +1,6 @@
 import { shuffleArray } from '../../Utils/shuffleArray';
 
-const KillerAddon = (props) => {
+const KillerAddons = (props) => {
 	const randomAddons = shuffleArray(props.addons).slice(0, 2);
 
 	return (
@@ -12,4 +12,4 @@ const KillerAddon = (props) => {
 	);
 };
 
-export default KillerAddon;
+export default KillerAddons;
