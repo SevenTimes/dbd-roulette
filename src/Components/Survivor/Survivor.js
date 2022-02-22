@@ -1,18 +1,11 @@
 import survivors from '../../Data/survivors';
+import { shuffleArray } from '../../Utils/shuffleArray';
 import SurvivorChar from './SurvivorChar';
 import SurvivorItem from './SurvivorItem';
 import SurvivorOffering from './SurvivorOffering';
 import SurvivorPerk from './SurvivorPerk';
 
 const Survivor = () => {
-	const shuffleArray = (array) => {
-		for (let i = array.length - 1; i > 0; i--) {
-			let j = Math.floor(Math.random() * (i + 1));
-			[array[i], array[j]] = [array[j], array[i]];
-		}
-		return array;
-	};
-
 	let isEventItemsEnabled = false; // Fake Event items check, remove later
 
 	const { characters: chars, items, perks, offerings } = survivors;
