@@ -2,7 +2,7 @@
 	"characters": [
 		{
 			"name": "The Trapper",
-			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9f/K01_charSelect_portrait.png",
+			"img": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9f/K01_charSelect_portrait.png",
 			"addons": [
 				{
 					"name": "Trapper Gloves",
@@ -88,7 +88,7 @@
 		},
 		{
 			"name": "The Wraith",
-			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0d/K02_charSelect_portrait.png",
+			"img": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0d/K02_charSelect_portrait.png",
 			"addons": [
 				{
 					"name": "\"The Serpent\" - Soot",
@@ -174,7 +174,7 @@
 		},
 		{
 			"name": "The Hillbilly",
-			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a3/K03_charSelect_portrait.png",
+			"img": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a3/K03_charSelect_portrait.png",
 			"addons": [
 				{
 					"name": "Steel Toe Boots",
@@ -260,7 +260,7 @@
 		},
 		{
 			"name": "The Nurse",
-			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/31/K04_charSelect_portrait.png",
+			"img": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/31/K04_charSelect_portrait.png",
 			"addons": [
 				{
 					"name": "Wooden Horse",
@@ -346,7 +346,7 @@
 		},
 		{
 			"name": "The Shape",
-			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/04/K05_charSelect_portrait.png",
+			"img": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/04/K05_charSelect_portrait.png",
 			"addons": [
 				{
 					"name": "Tacky Earrings",
@@ -432,7 +432,7 @@
 		},
 		{
 			"name": "The Hag",
-			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b4/K06_charSelect_portrait.png",
+			"img": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b4/K06_charSelect_portrait.png",
 			"addons": [
 				{
 					"name": "Rope Necklet",
@@ -518,7 +518,7 @@
 		},
 		{
 			"name": "The Doctor",
-			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ad/K07_charSelect_portrait.png",
+			"img": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ad/K07_charSelect_portrait.png",
 			"addons": [
 				{
 					"name": "Mouldy Electrode",
@@ -604,7 +604,7 @@
 		},
 		{
 			"name": "The Huntress",
-			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1a/K08_charSelect_portrait.png",
+			"img": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1a/K08_charSelect_portrait.png",
 			"addons": [
 				{
 					"name": "Yellowed Cloth",
@@ -690,7 +690,7 @@
 		},
 		{
 			"name": "The Cannibal",
-			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c6/K09_charSelect_portrait.png",
+			"img": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c6/K09_charSelect_portrait.png",
 			"addons": [
 				{
 					"name": "Vegetable Oil",
@@ -776,7 +776,7 @@
 		},
 		{
 			"name": "The Nightmare",
-			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f7/K10_charSelect_portrait.png",
+			"img": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f7/K10_charSelect_portrait.png",
 			"addons": [
 				{
 					"name": "Wool Shirt",
@@ -862,7 +862,7 @@
 		},
 		{
 			"name": "The Pig",
-			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c7/K11_charSelect_portrait.png",
+			"img": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c7/K11_charSelect_portrait.png",
 			"addons": [
 				{
 					"name": "Shattered Syringe",
@@ -948,7 +948,7 @@
 		},
 		{
 			"name": "The Clown",
-			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e1/K12_charSelect_portrait.png",
+			"img": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e1/K12_charSelect_portrait.png",
 			"addons": [
 				{
 					"name": "VHS Porn",
@@ -1034,7 +1034,7 @@
 		},
 		{
 			"name": "The Spirit",
-			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b0/K13_charSelect_portrait.png",
+			"img": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b0/K13_charSelect_portrait.png",
 			"addons": [
 				{
 					"name": "Zōri",
@@ -1120,7 +1120,7 @@
 		},
 		{
 			"name": "The Legion",
-			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/af/K14_charSelect_portrait.png",
+			"img": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/af/K14_charSelect_portrait.png",
 			"addons": [
 				{
 					"name": "Smiley Face Pin",
@@ -1206,7 +1206,7 @@
 		},
 		{
 			"name": "The Plague",
-			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/68/K15_charSelect_portrait.png",
+			"img": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/68/K15_charSelect_portrait.png",
 			"addons": [
 				{
 					"name": "Prayer Tablet Fragment",
@@ -1292,7 +1292,7 @@
 		},
 		{
 			"name": "The Ghost Face",
-			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/bd/K16_charSelect_portrait.png",
+			"img": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/bd/K16_charSelect_portrait.png",
 			"addons": [
 				{
 					"name": "\"Philly\"",
@@ -1378,7 +1378,7 @@
 		},
 		{
 			"name": "The Demogorgon",
-			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6d/K17_charSelect_portrait.png",
+			"img": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6d/K17_charSelect_portrait.png",
 			"addons": [
 				{
 					"name": "Rotten Pumpkin",
@@ -1464,7 +1464,7 @@
 		},
 		{
 			"name": "The Oni",
-			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c5/K18_charSelect_portrait.png",
+			"img": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c5/K18_charSelect_portrait.png",
 			"addons": [
 				{
 					"name": "Rotting Rope",
@@ -1550,7 +1550,7 @@
 		},
 		{
 			"name": "The Deathslinger",
-			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/84/K19_charSelect_portrait.png",
+			"img": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/84/K19_charSelect_portrait.png",
 			"addons": [
 				{
 					"name": "Spit Polish Rag",
@@ -1636,7 +1636,7 @@
 		},
 		{
 			"name": "The Executioner",
-			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/95/K20_charSelect_portrait.png",
+			"img": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/95/K20_charSelect_portrait.png",
 			"addons": [
 				{
 					"name": "Lead Ring",
@@ -1722,7 +1722,7 @@
 		},
 		{
 			"name": "The Blight",
-			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0b/K21_charSelect_portrait.png",
+			"img": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0b/K21_charSelect_portrait.png",
 			"addons": [
 				{
 					"name": "Placebo Tablet",
@@ -1808,7 +1808,7 @@
 		},
 		{
 			"name": "The Twins",
-			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/03/K22_charSelect_portrait.png",
+			"img": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/03/K22_charSelect_portrait.png",
 			"addons": [
 				{
 					"name": "Toy Sword",
@@ -1894,7 +1894,7 @@
 		},
 		{
 			"name": "The Trickster",
-			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3e/K23_charSelect_portrait.png",
+			"img": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3e/K23_charSelect_portrait.png",
 			"addons": [
 				{
 					"name": "Trick Pouch",
@@ -1980,7 +1980,7 @@
 		},
 		{
 			"name": "The Nemesis",
-			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/84/K24_charSelect_portrait.png",
+			"img": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/84/K24_charSelect_portrait.png",
 			"addons": [
 				{
 					"name": "Visitor Wristband",
@@ -2066,7 +2066,7 @@
 		},
 		{
 			"name": "The Cenobite",
-			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/35/K25_charSelect_portrait.png",
+			"img": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/35/K25_charSelect_portrait.png",
 			"addons": [
 				{
 					"name": "Leather Strip",
@@ -2152,7 +2152,7 @@
 		},
 		{
 			"name": "The Artist",
-			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/19/K26_charSelect_portrait.png",
+			"img": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/19/K26_charSelect_portrait.png",
 			"addons": [
 				{
 					"name": "Vibrant Obituary",
