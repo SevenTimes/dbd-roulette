@@ -115,6 +115,10 @@
 		{
 			"name": "Jonah Vasquez",
 			"img": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c6/S29_charSelect_portrait.png"
+		},
+		{
+			"name": "Yoichi Asakawa",
+			"img": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/07/S30_charSelect_portrait.png"
 		}
 	],
 	"perks": [
@@ -186,6 +190,11 @@
 		{
 			"name": "Boon: Circle of Healing",
 			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/54/IconPerks_boonCircleOfHealing.png",
+			"description": ""
+		},
+		{
+			"name": "Boon: Dark Theory",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/60/IconPerks_boonDarkTheory.png",
 			"description": ""
 		},
 		{
@@ -301,6 +310,11 @@
 		{
 			"name": "Déjà Vu",
 			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/89/IconPerks_dejaVu.png",
+			"description": ""
+		},
+		{
+			"name": "Empathic Connection",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/14/IconPerks_empathicConnection.png",
 			"description": ""
 		},
 		{
@@ -421,6 +435,11 @@
 		{
 			"name": "Overcome",
 			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/82/IconPerks_overcome.png",
+			"description": ""
+		},
+		{
+			"name": "Parental Guidance",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/46/IconPerks_parentalGuidance.png",
 			"description": ""
 		},
 		{

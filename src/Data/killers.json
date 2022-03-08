@@ -2235,6 +2235,92 @@
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0a/FulliconAddon_gardenOfRot.png"
 				}
 			]
+		},
+		{
+			"name": "The Onryō",
+			"img": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e2/K27_charSelect_portrait.png",
+			"addons": [
+				{
+					"name": "Videotape Copy",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5d/FulliconAddon_videotapeCopy.png"
+				},
+				{
+					"name": "Old Newspaper",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b1/FulliconAddon_oldNewspaper.png"
+				},
+				{
+					"name": "Mother's Mirror",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b4/FulliconAddon_mothersMirror.png"
+				},
+				{
+					"name": "Cabin Sign",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/51/FulliconAddon_cabinSign.png"
+				},
+				{
+					"name": "Yoichi's Fishing Net",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2a/FulliconAddon_yoichisFishingNet.png"
+				},
+				{
+					"name": "Well Stone",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3a/FulliconAddon_wellStone.png"
+				},
+				{
+					"name": "Sea-Soaked Cloth",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/93/FulliconAddon_seaSoakedCloth.png"
+				},
+				{
+					"name": "Reiko's Watch",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c9/FulliconAddon_reikosWatch.png"
+				},
+				{
+					"name": "Clump of Hair",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fa/FulliconAddon_clumpOfHair.png"
+				},
+				{
+					"name": "Well Water",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/72/FulliconAddon_wellWater.png"
+				},
+				{
+					"name": "Ring Drawing",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a6/FulliconAddon_ringDrawing.png"
+				},
+				{
+					"name": "Rickety Pinwheel",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fc/FulliconAddon_ricketyPinwheel.png"
+				},
+				{
+					"name": "Mother's Comb",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d7/FulliconAddon_mothersComb.png"
+				},
+				{
+					"name": "Bloody Fingernails",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/64/FulliconAddon_bloodyFingernails.png"
+				},
+				{
+					"name": "VCR",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/12/FulliconAddon_vcr.png"
+				},
+				{
+					"name": "Telephone",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/99/FulliconAddon_telephone.png"
+				},
+				{
+					"name": "Tape Editing Deck",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4c/FulliconAddon_tapeEditingDeck.png"
+				},
+				{
+					"name": "Distorted Photo",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a4/FulliconAddon_distortedPhoto.png"
+				},
+				{
+					"name": "Remote Control",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/07/FulliconAddon_remoteControl.png"
+				},
+				{
+					"name": "Iridescent Videotape",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d9/FulliconAddon_iridescentVideotape.png"
+				}
+			]
 		}
 	],
 	"perks": [
@@ -2286,6 +2372,11 @@
 		{
 			"name": "Brutal Strength",
 			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3d/IconPerks_brutalStrength.png",
+			"description": ""
+		},
+		{
+			"name": "Call of Brine",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3b/IconPerks_callOfBrine.png",
 			"description": ""
 		},
 		{
@@ -2534,6 +2625,11 @@
 			"description": ""
 		},
 		{
+			"name": "Merciless Storm",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/36/IconPerks_mercilessStorm.png",
+			"description": ""
+		},
+		{
 			"name": "Monitor & Abuse",
 			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/60/IconPerks_monitorAndAbuse.png",
 			"description": ""
@@ -2596,6 +2692,11 @@
 		{
 			"name": "Save the Best for Last",
 			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6a/IconPerks_saveTheBestForLast.png",
+			"description": ""
+		},
+		{
+			"name": "Scourge Hook: Floods of Rage",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1c/IconPerks_scourgeHookFloodsOfRage.png",
 			"description": ""
 		},
 		{
