@@ -84,7 +84,11 @@
 					"name": "Bloody Coil",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b3/FulliconAddon_bloodyCoil.png"
 				}
-			]
+			],
+			"power": {
+				"name": "Bear Trap",
+				"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/20/FulliconPowers_trap.png"
+			}
 		},
 		{
 			"name": "The Wraith",
@@ -170,7 +174,11 @@
 					"name": "\"All Seeing\" - Spirit",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/91/FulliconAddon_allSeeing-Spirit.png"
 				}
-			]
+			],
+			"power": {
+				"name": "Wailing Bell",
+				"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/79/FulliconPowers_bell.png"
+			}
 		},
 		{
 			"name": "The Hillbilly",
@@ -256,7 +264,11 @@
 					"name": "Iridescent Brick",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f0/FulliconAddon_iridescentBrick.png"
 				}
-			]
+			],
+			"power": {
+				"name": "Chainsaw",
+				"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9e/FulliconPowers_chainsaw.png"
+			}
 		},
 		{
 			"name": "The Nurse",
@@ -342,7 +354,11 @@
 					"name": "Matchbox",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e9/FulliconAddon_matchbox.png"
 				}
-			]
+			],
+			"power": {
+				"name": "Spencer's Last Breath",
+				"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c8/FulliconPowers_breath.png"
+			}
 		},
 		{
 			"name": "The Shape",
@@ -428,7 +444,11 @@
 					"name": "Fragrant Tuft of Hair",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/37/FulliconAddon_fragrantTuftOfHair.png"
 				}
-			]
+			],
+			"power": {
+				"name": "Evil Within",
+				"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f2/FulliconPowers_stalker1.png"
+			}
 		},
 		{
 			"name": "The Hag",
@@ -514,7 +534,11 @@
 					"name": "Mint Rag",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/53/FulliconAddon_mintRag.png"
 				}
-			]
+			],
+			"power": {
+				"name": "Blackened Catalyst",
+				"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/07/FulliconPowers_blackenedCatalyst.png"
+			}
 		},
 		{
 			"name": "The Doctor",
@@ -600,7 +624,11 @@
 					"name": "Iridescent King",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f5/FulliconAddon_iridescentKing.png"
 				}
-			]
+			],
+			"power": {
+				"name": "Carter's Spark",
+				"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e3/FulliconPowers_cartersSpark.png"
+			}
 		},
 		{
 			"name": "The Huntress",
@@ -686,7 +714,11 @@
 					"name": "Iridescent Head",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8e/FulliconAddon_iridescentHead.png"
 				}
-			]
+			],
+			"power": {
+				"name": "Hunting Hatchets",
+				"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/ed/FulliconPowers_huntingHatchets.png"
+			}
 		},
 		{
 			"name": "The Cannibal",
@@ -772,7 +804,11 @@
 					"name": "Carburettor Tuning Guide",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/72/FulliconAddon_carburettorTuningGuide.png"
 				}
-			]
+			],
+			"power": {
+				"name": "Bubba's Chainsaw",
+				"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f5/FulliconPowers_bubbasChainsaw.png"
+			}
 		},
 		{
 			"name": "The Nightmare",
@@ -858,7 +894,11 @@
 					"name": "Black Box",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/64/FulliconAddon_blackBox.png"
 				}
-			]
+			],
+			"power": {
+				"name": "Dream Demon",
+				"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4b/FulliconPowers_dreamDemon.png"
+			}
 		},
 		{
 			"name": "The Pig",
@@ -944,7 +984,11 @@
 					"name": "Video Tape",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b1/FulliconAddon_videoTape.png"
 				}
-			]
+			],
+			"power": {
+				"name": "Jigsaw's Baptism",
+				"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2a/FulliconPowers_jigsawsBaptism.png"
+			}
 		},
 		{
 			"name": "The Clown",
@@ -1030,7 +1074,11 @@
 					"name": "Redhead's Pinkie Finger",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e8/FulliconAddon_redheadsPinkieFinger.png"
 				}
-			]
+			],
+			"power": {
+				"name": "The Afterpiece Tonic",
+				"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2e/FulliconPowers_gasBomb.png"
+			}
 		},
 		{
 			"name": "The Spirit",
@@ -1116,7 +1164,11 @@
 					"name": "Kintsugi Teacup",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5a/FulliconAddon_kintsugiTeacup.png"
 				}
-			]
+			],
+			"power": {
+				"name": "Yamaoka's Haunting",
+				"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0c/FulliconPowers_yamaokasHaunting.png"
+			}
 		},
 		{
 			"name": "The Legion",
@@ -1202,7 +1254,11 @@
 					"name": "Fuming Mix Tape",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b2/FulliconAddon_fumingMixTape.png"
 				}
-			]
+			],
+			"power": {
+				"name": "Feral Frenzy",
+				"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/09/FulliconPowers_feralFrenzy.png"
+			}
 		},
 		{
 			"name": "The Plague",
@@ -1288,7 +1344,11 @@
 					"name": "Black Incense",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/23/FulliconAddon_blackIncense.png"
 				}
-			]
+			],
+			"power": {
+				"name": "Vile Purge",
+				"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b5/FulliconPowers_vilePurge.png"
+			}
 		},
 		{
 			"name": "The Ghost Face",
@@ -1374,7 +1434,11 @@
 					"name": "Outdoor Security Camera",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/52/FulliconAddon_outdoorSecurityCamera.png"
 				}
-			]
+			],
+			"power": {
+				"name": "Night Shroud",
+				"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/74/FulliconPowers_nightShroud.png"
+			}
 		},
 		{
 			"name": "The Demogorgon",
@@ -1460,7 +1524,11 @@
 					"name": "Red Moss",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5d/FulliconAddon_redMoss.png"
 				}
-			]
+			],
+			"power": {
+				"name": "Of the Abyss",
+				"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3d/FulliconPowers_ofTheAbyss.png"
+			}
 		},
 		{
 			"name": "The Oni",
@@ -1546,7 +1614,11 @@
 					"name": "Iridescent Family Crest",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/02/FulliconAddon_iridescentFamilyCrest.png"
 				}
-			]
+			],
+			"power": {
+				"name": "Yamaoka's Wrath",
+				"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f2/FulliconPowers_yamaokasWrath.png"
+			}
 		},
 		{
 			"name": "The Deathslinger",
@@ -1632,7 +1704,11 @@
 					"name": "Hellshire Iron",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d1/FulliconAddon_hellshireIron.png"
 				}
-			]
+			],
+			"power": {
+				"name": "The Redeemer",
+				"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/67/FulliconPowers_theRedeemer.png"
+			}
 		},
 		{
 			"name": "The Executioner",
@@ -1718,7 +1794,11 @@
 					"name": "Iridescent Seal of Metatron",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f9/FulliconAddon_iridescentSealOfMetatron.png"
 				}
-			]
+			],
+			"power": {
+				"name": "Rites of Judgement",
+				"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/46/FulliconPowers_ritesOfJudgement.png"
+			}
 		},
 		{
 			"name": "The Blight",
@@ -1804,7 +1884,11 @@
 					"name": "Compound Thirty-Three",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b4/FulliconAddon_compoundThirtyThree.png"
 				}
-			]
+			],
+			"power": {
+				"name": "Blighted Corruption",
+				"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/ca/FulliconPowers_blightedCorruption.png"
+			}
 		},
 		{
 			"name": "The Twins",
@@ -1890,7 +1974,11 @@
 					"name": "Iridescent Pendant",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/de/FulliconAddon_iridescentPendant.png"
 				}
-			]
+			],
+			"power": {
+				"name": "Blood Bond",
+				"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/24/FulliconPowers_bloodBond_Sister.png"
+			}
 		},
 		{
 			"name": "The Trickster",
@@ -1976,7 +2064,11 @@
 					"name": "Death Throes Compilation",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fc/FulliconAddon_deathThroesCompilation.png"
 				}
-			]
+			],
+			"power": {
+				"name": "Showstopper",
+				"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d4/FulliconPowers_showstopper.png"
+			}
 		},
 		{
 			"name": "The Nemesis",
@@ -2062,7 +2154,11 @@
 					"name": "Iridescent Umbrella Badge",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c1/FulliconAddon_iridescentUmbrellaBadge.png"
 				}
-			]
+			],
+			"power": {
+				"name": "T-Virus",
+				"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/06/FulliconPowers_t-Virus_MR1.png"
+			}
 		},
 		{
 			"name": "The Cenobite",
@@ -2148,7 +2244,11 @@
 					"name": "Engineer's Fang",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/ca/FulliconAddon_engineersFang.png"
 				}
-			]
+			],
+			"power": {
+				"name": "Summons of Pain",
+				"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a6/FulliconPowers_summonsOfPain.png"
+			}
 		},
 		{
 			"name": "The Artist",
@@ -2234,7 +2334,11 @@
 					"name": "Garden of Rot",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0a/FulliconAddon_gardenOfRot.png"
 				}
-			]
+			],
+			"power": {
+				"name": "Birds of Torment",
+				"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/45/FulliconPowers_birdsOfTorment.png"
+			}
 		},
 		{
 			"name": "The Onryō",
@@ -2320,7 +2424,11 @@
 					"name": "Iridescent Videotape",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d9/FulliconAddon_iridescentVideotape.png"
 				}
-			]
+			],
+			"power": {
+				"name": "Deluge of Fear",
+				"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e8/FulliconPowers_delugeOfFear.png"
+			}
 		}
 	],
 	"perks": [
