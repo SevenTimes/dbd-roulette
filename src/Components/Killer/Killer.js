@@ -26,13 +26,16 @@ const Killer = () => {
 
 	return (
 		<div className="killer-container">
-			<KillerChar char={randomChar} />
+			<h1>{randomChar.name}</h1>
+			<>
+				<KillerOffering offering={randomOffering} />
+				<KillerChar char={randomChar} />
+			</>
 			<div className="perk-container">
 				{randomPerks.map((perk, index) => {
 					return <KillerPerk perk={perk} key={perk.name} index={index} />;
 				})}
 			</div>
-			<KillerOffering offering={randomOffering} />
 			<button onClick={handleRandom}>Randomize</button>
 		</div>
 	);

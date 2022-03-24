@@ -1,0 +1,9 @@
+.killer-char {
+	display: flex;
+	flex-direction: row;
+	margin-bottom: 10px;
+}
+
+.killer-char-icon {
+	width: 100%;
+}

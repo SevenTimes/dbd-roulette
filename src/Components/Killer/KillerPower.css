@@ -1,0 +1,10 @@
+.killer-power-container {
+	display: flex;
+	flex-direction: column;
+	margin-top: 10px;
+}
+
+.killer-power {
+	width: 90%;
+	filter: drop-shadow(-7px 7px rgba(0, 0, 0, 0.3));
+}

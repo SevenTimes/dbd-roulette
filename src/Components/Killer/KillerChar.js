@@ -1,14 +1,12 @@
 import KillerPower from './KillerPower';
+import './KillerChar.css';
 
 const KillerChar = (props) => {
 	const { addons, name, img, power } = props.char;
 
 	return (
 		<div className="killer-char">
-			<div>
-				<h1>{name}</h1>
-				<img src={img} alt={name} />
-			</div>
+			<img src={img} alt={name} className="killer-char-icon" />
 			<KillerPower power={power} addons={addons} />
 		</div>
 	);

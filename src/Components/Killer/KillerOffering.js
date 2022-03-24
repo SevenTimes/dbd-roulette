@@ -1,8 +1,10 @@
+import './KillerOffering.css';
+
 const KillerOffering = (props) => {
 	const { name, icon } = props.offering;
 
 	return (
-		<div>
+		<div className="killer-offering">
 			<img src={icon} alt={name} />
 		</div>
 	);

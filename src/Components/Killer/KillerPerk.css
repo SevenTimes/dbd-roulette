@@ -1,12 +1,12 @@
 .perk {
-	width: 150px;
-	height: 150px;
-	transform: rotate(45deg);
+	width: 100%;
+	height: 100%;
 	background-color: purple;
-	border: 5px solid black;
+	border: 2px solid black;
 	overflow: hidden;
+	filter: drop-shadow(-7px 7px 1px rgba(0, 0, 0, 0.3));
 }
 
 .perk img {
-	transform: rotate(-45deg) translateY(-40px) scale(0.9);
+	width: 100%;
 }

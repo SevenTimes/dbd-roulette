@@ -1,0 +1,26 @@
+.killer-container {
+	display: flex;
+	flex-direction: column;
+	margin-top: 10px;
+}
+
+.perk-container {
+	display: grid;
+	width: 80%;
+	align-self: center;
+	grid-template: 1fr 1fr / 1fr 1fr;
+	gap: 10px;
+}
+
+button {
+	height: 40px;
+	background-color: black;
+	color: white;
+	border: none;
+	margin-top: 15px;
+}
+
+h1 {
+	text-align: right;
+	padding-right: 15px;
+}
