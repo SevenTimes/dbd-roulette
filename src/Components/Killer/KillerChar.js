@@ -1,7 +1,7 @@
-import KillerAddons from './KillerAddons';
+import KillerPower from './KillerPower';
 
 const KillerChar = (props) => {
-	const { addons, name, img } = props.char;
+	const { addons, name, img, power } = props.char;
 
 	return (
 		<div className="killer-char">
@@ -9,7 +9,7 @@ const KillerChar = (props) => {
 				<h1>{name}</h1>
 				<img src={img} alt={name} />
 			</div>
-			<KillerAddons addons={addons} />
+			<KillerPower power={power} addons={addons} />
 		</div>
 	);
 };
