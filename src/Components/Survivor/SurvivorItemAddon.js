@@ -1,9 +1,12 @@
 const SurvivorItemAddon = (props) => {
-	const { name, icon } = props;
+	const { itemType, addon } = props;
 
 	return (
 		<div>
-			<img src={icon} alt={name} />
+			<img
+				src={`./Assets/Survivors/Items/${itemType}/Item Addons/${addon.name}.png`}
+				alt={addon.name}
+			/>
 		</div>
 	);
 };

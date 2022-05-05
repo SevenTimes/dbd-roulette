@@ -1,8 +1,11 @@
 const SurvivorOffering = (props) => {
-	const { name, icon } = props.offering;
+	const { offering } = props;
 	return (
 		<div>
-			<img src={icon} alt={name} />
+			<img
+				src={`./Assets/Survivors/Offerings/${offering.name}.png`}
+				alt={offering.name}
+			/>
 		</div>
 	);
 };
