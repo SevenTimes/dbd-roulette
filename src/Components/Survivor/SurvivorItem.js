@@ -1,19 +1,22 @@
 import SurvivorItemAddon from './SurvivorItemAddon';
 
 const SurvivorItem = (props) => {
-	const { item, addons } = props;
+	const { item, addons } = props.item;
 
 	return (
 		<div>
 			<div>
-				<img src={item.icon} alt={item.name} />
+				<img
+					src={`./Assets/Survivors/Items/${item.type}/${item.name}.png`}
+					alt={item.name}
+				/>
 				<p>{item.name}</p>
 			</div>
 			{addons.map((addon) => {
 				return (
 					<SurvivorItemAddon
-						name={addon.name}
-						icon={addon.icon}
+						itemType={item.type}
+						addon={addon}
 						key={addon.name}
 					/>
 				);

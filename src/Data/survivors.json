@@ -645,17 +645,20 @@
 	],
 	"items": [
 		{
-			"type": [
+			"item": [
 				{
 					"name": "Flashlight",
+					"type": "Flashlight",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/76/FulliconItems_flashlightItem.png"
 				},
 				{
 					"name": "Sport Flashlight",
+					"type": "Flashlight",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/03/FulliconItems_sportFlashlight.png"
 				},
 				{
 					"name": "Utility Flashlight",
+					"type": "Flashlight",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2f/FulliconItems_utilityFlashlight.png"
 				}
 			],
@@ -715,17 +718,20 @@
 			]
 		},
 		{
-			"type": [
+			"item": [
 				{
 					"name": "Broken Key",
+					"type": "Key",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/29/FulliconItems_brokenKey.png"
 				},
 				{
 					"name": "Dull Key",
+					"type": "Key",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/af/FulliconItems_dullKey.png"
 				},
 				{
 					"name": "Skeleton Key",
+					"type": "Key",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5a/FulliconItems_skeletonKey.png"
 				}
 			],
@@ -769,13 +775,15 @@
 			]
 		},
 		{
-			"type": [
+			"item": [
 				{
 					"name": "Map",
+					"type": "Map",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/26/FulliconItems_mapItem.png"
 				},
 				{
 					"name": "Rainbow Map",
+					"type": "Map",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e3/FulliconItems_rainbowMap.png"
 				}
 			],
@@ -819,21 +827,25 @@
 			]
 		},
 		{
-			"type": [
+			"item": [
 				{
 					"name": "Camping Aid Kit",
+					"type": "Med-Kit",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/62/FulliconItems_campingAidKit.png"
 				},
 				{
 					"name": "First Aid Kit",
+					"type": "Med-Kit",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/97/FulliconItems_firstAidKit.png"
 				},
 				{
 					"name": "Emergency Med-Kit",
+					"type": "Med-Kit",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c9/FulliconItems_emergencyMed-Kit.png"
 				},
 				{
 					"name": "Ranger Med-Kit",
+					"type": "Med-Kit",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/ea/FulliconItems_rangerMed-Kit.png"
 				}
 			],
@@ -893,29 +905,35 @@
 			]
 		},
 		{
-			"type": [
+			"item": [
 				{
 					"name": "Worn-Out Tools",
+					"type": "Toolbox",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/92/FulliconItems_worn-outTools.png"
 				},
 				{
 					"name": "Toolbox",
+					"type": "Toolbox",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/ce/FulliconItems_toolboxItem.png"
 				},
 				{
 					"name": "Mechanic's Toolbox",
+					"type": "Toolbox",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/22/FulliconItems_mechanicsToolbox.png"
 				},
 				{
 					"name": "Commodious Toolbox",
+					"type": "Toolbox",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6a/FulliconItems_commodiousToolbox.png"
 				},
 				{
 					"name": "Engineer's Toolbox",
+					"type": "Toolbox",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7d/FulliconItems_engineersToolbox.png"
 				},
 				{
 					"name": "Alex's Toolbox",
+					"type": "Toolbox",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/58/FulliconItems_alexsToolbox.png"
 				}
 			],
