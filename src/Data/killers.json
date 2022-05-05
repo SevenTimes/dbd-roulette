@@ -1223,8 +1223,8 @@
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f5/FulliconAddon_stolenSketchBook.png"
 				},
 				{
-					"name": "Nasty Blade",
-					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7d/FulliconAddon_nastyBlade.png"
+					"name": "Stylish Sunglasses",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4b/FulliconAddon_stylishSunglasses.png"
 				},
 				{
 					"name": "Joey's Mix Tape",
@@ -1243,8 +1243,8 @@
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/89/FulliconAddon_filthyBlade.png"
 				},
 				{
-					"name": "Cold Dirt",
-					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/15/FulliconAddon_coldDirt.png"
+					"name": "BFFs",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d3/FulliconAddon_bffs.png"
 				},
 				{
 					"name": "Iridescent Button",
@@ -1375,8 +1375,8 @@
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a0/FulliconAddon_telephotoLens.png"
 				},
 				{
-					"name": "Reusable Cinch Straps",
-					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/08/FulliconAddon_reusableCinchStraps.png"
+					"name": "Cinch Straps",
+					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c0/FulliconAddon_cinchStraps.png"
 				},
 				{
 					"name": "Olsen's Journal",
@@ -2958,6 +2958,14 @@
 		{
 			"name": "Ardent Shrike Wreath",
 			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/93/FulliconFavors_ardentShrikeWreath.png"
+		},
+		{
+			"name": "Bloodied Blueprint",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9c/FulliconFavors_bloodiedBlueprint.png"
+		},
+		{
+			"name": "Torn Blueprint",
+			"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/df/FulliconFavors_tornBlueprint.png"
 		},
 		{
 			"name": "Scratched Coin",
