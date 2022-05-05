@@ -657,16 +657,6 @@
 				{
 					"name": "Utility Flashlight",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2f/FulliconItems_utilityFlashlight.png"
-				},
-				{
-					"name": "Will O' Wisp",
-					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/03/FulliconItems_willOWisp.png",
-					"event": true
-				},
-				{
-					"name": "Anniversary Flashlight",
-					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2b/FulliconItems_anniversaryFlashlight.png",
-					"event": true
 				}
 			],
 			"addons": [
@@ -721,11 +711,6 @@
 				{
 					"name": "Odd Bulb",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/83/FulliconAddon_oddBulb.png"
-				},
-				{
-					"name": "Broken Bulb",
-					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4a/FulliconAddon_brokenBulb.png",
-					"event": true
 				}
 			]
 		},
@@ -850,16 +835,6 @@
 				{
 					"name": "Ranger Med-Kit",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/ea/FulliconItems_rangerMed-Kit.png"
-				},
-				{
-					"name": "All Hallows' Eve Lunchbox",
-					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a3/FulliconItems_allHallowsEveLunchbox.png",
-					"event": true
-				},
-				{
-					"name": "Anniversary Med-Kit",
-					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/97/FulliconItems_anniversaryMed-Kit.png",
-					"event": true
 				}
 			],
 			"addons": [
@@ -914,11 +889,6 @@
 				{
 					"name": "Anti-Haemorrhagic Syringe",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/96/FulliconAddon_anti-haemorrhagicSyringe.png"
-				},
-				{
-					"name": "Refined Serum",
-					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2e/FulliconAddon_refinedSerum.png",
-					"event": true
 				}
 			]
 		},
@@ -947,16 +917,6 @@
 				{
 					"name": "Alex's Toolbox",
 					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/58/FulliconItems_alexsToolbox.png"
-				},
-				{
-					"name": "Anniversary Toolbox",
-					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7a/FulliconItems_anniversaryToolbox.png",
-					"event": true
-				},
-				{
-					"name": "Festive Toolbox",
-					"icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0c/FulliconItems_festiveToolbox.png",
-					"event": true
 				}
 			],
 			"addons": [

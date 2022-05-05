@@ -1,33 +1,7 @@
 * {
-	box-sizing: border-box;
 	margin: 0;
 	padding: 0;
-	font-family: sans-serif;
-}
-
-.App > div {
-	display: flex;
-}
-
-.perk-container {
-	display: grid;
-	grid-template-columns: 1fr 1fr;
-	grid-template-rows: 1fr 1fr;
-	filter: drop-shadow(0 0 2rem black);
-}
-
-.perk-container p {
-	font-size: 14px;
-	text-align: center;
-}
-
-.killer-char {
-	display: flex;
-	flex-direction: row;
-}
-
-.killer-perks {
-	display: flex;
-	flex-direction: column;
-	width: 125px;
+	width: 100%;
+	box-sizing: border-box;
+	font-family: 'Roboto', sans-serif;
 }

@@ -1,9 +1,12 @@
 const KillerOffering = (props) => {
-	const { name, icon } = props.offering;
+	const { offering } = props;
 
 	return (
-		<div>
-			<img src={icon} alt={name} />
+		<div className="killer-offering">
+			<img
+				src={`./Assets/Killers/Offerings/${offering.name}.png`}
+				alt={offering.name}
+			/>
 		</div>
 	);
 };
