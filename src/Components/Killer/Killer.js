@@ -2,7 +2,6 @@ import killers from '../../Data/killers.json';
 import KillerChar from './KillerChar';
 import KillerPerk from './KillerPerk';
 import KillerOffering from './KillerOffering';
-import './Killer.css';
 
 import { shuffleArray } from '../../Utils/shuffleArray';
 import { useState } from 'react';
@@ -10,18 +9,19 @@ import { useState } from 'react';
 const Killer = () => {
 	const { characters: chars, perks, offerings } = killers;
 
-	const [randomChar, setRandomChar] = useState(shuffleArray(chars)[0]);
-	const [randomPerks, setRandomPerks] = useState(
-		shuffleArray(perks).slice(0, 4)
+	const [randomChar, setRandomChar] = useState(shuffleArray(chars));
+	const [randomAddons, setRandomAddons] = useState(
+		shuffleArray(randomChar.addons, 2)
 	);
-	const [randomOffering, setRandomOffering] = useState(
-		shuffleArray(offerings)[0]
-	);
+	const [randomPerks, setRandomPerks] = useState(shuffleArray(perks, 4));
+	const [randomOffering, setRandomOffering] = useState(shuffleArray(offerings));
 
 	const handleRandom = () => {
-		setRandomChar(shuffleArray(chars)[0]);
-		setRandomPerks(shuffleArray(perks).slice(0, 4));
-		setRandomOffering(shuffleArray(offerings)[0]);
+		const tempRandomChar = shuffleArray(chars);
+		setRandomChar(tempRandomChar);
+		setRandomAddons(shuffleArray(tempRandomChar.addons, 2));
+		setRandomPerks(shuffleArray(perks, 4));
+		setRandomOffering(shuffleArray(offerings));
 	};
 
 	return (
@@ -29,7 +29,11 @@ const Killer = () => {
 			<h1>{randomChar.name}</h1>
 			<>
 				<KillerOffering offering={randomOffering} />
-				<KillerChar char={randomChar} />
+				<KillerChar
+					char={randomChar.name}
+					power={randomChar.power.name}
+					addons={randomAddons}
+				/>
 			</>
 			<div className="perk-container">
 				{randomPerks.map((perk, index) => {

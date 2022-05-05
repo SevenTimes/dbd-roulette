@@ -1,11 +1,10 @@
-import './KillerPerk.css';
-
 const KillerPerk = (props) => {
-	const { name, icon } = props.perk;
+	const { perk } = props;
+	const perkName = perk.name.replace(/[":]+/g, '');
 
 	return (
 		<div className={`perk perk-${props.index + 1}`}>
-			<img src={icon} alt={name} />
+			<img src={`./Assets/Killers/Perks/${perkName}.png`} alt={perk.name} />
 		</div>
 	);
 };

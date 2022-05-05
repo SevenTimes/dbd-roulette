@@ -1,11 +1,12 @@
-import './KillerOffering.css';
-
 const KillerOffering = (props) => {
-	const { name, icon } = props.offering;
+	const { offering } = props;
 
 	return (
 		<div className="killer-offering">
-			<img src={icon} alt={name} />
+			<img
+				src={`./Assets/Killers/Offerings/${offering.name}.png`}
+				alt={offering.name}
+			/>
 		</div>
 	);
 };

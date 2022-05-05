@@ -1,13 +1,17 @@
-import { shuffleArray } from '../../Utils/shuffleArray';
-import './KillerAddons.css';
-
 const KillerAddons = (props) => {
-	const randomAddons = shuffleArray(props.addons).slice(0, 2);
+	const { char, addons } = props;
 
 	return (
 		<div className="killer-addons">
-			{randomAddons.map((addon) => {
-				return <img src={addon.icon} alt={addon.name} key={addon.name} />;
+			{addons.map((addon) => {
+				const addonName = addon.name.replace(/[":]+g/, '');
+				return (
+					<img
+						src={`./Assets/Killers/Characters/${char}/Addons/${addonName}.png`}
+						alt={addon.name}
+						key={addon.name}
+					/>
+				);
 			})}
 		</div>
 	);
