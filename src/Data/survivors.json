@@ -89,424 +89,439 @@
 		},
 		{
 			"name": "Yoichi Asakawa"
+		},
+		{
+			"name": "Haddie Kaur"
 		}
 	],
 	"perks": [
 		{
 			"name": "Ace in the Hole",
-			"description": ""
+			"description": "Lady Luck always seems to be throwing something good your way. <br /> When retrieving an Item from a Chest, there is a chance an Add-on  will be attached to it. <ul> <li><span class='description-value'>100 %</span> chance for an Add-on of <span class='t3'>Very Rare</span> Rarity or lower.</li> <li><span class='t1'>10</span>/<span class='t2'>25</span>/<span class='t3'>50</span> % <b>chance for a second Add-on of <span class='t1'>Uncommon</span> Rarity or lower</b>.</li> </ul> <i>Ace in the Hole</i> allows you to keep any Add-ons your Item has equipped upon escaping."
 		},
 		{
 			"name": "Adrenaline",
-			"description": ""
+			"description": "You are fuelled by unexpecting energy when on the verge of escape. <ul> <li>Once the Exit Gates are powered, <span class='description-value'>instantly heal one Health State</span> and sprint at <span class='description-value-additional'>150 %</span> of your normal Running Movement speed for <span class='description-red'>5 seconds</span>.</li> <li><i>Adrenaline</i> is on hold if you are disabled at the moment it triggers and will instead activate upon being freed.</li> <li>If playing against The Nightmare, <i>Adrenaline</i> will wake you from the Dream World upon activation.</li> </ul> Adrenaline ignores an existing <b><i>Exhaustion</i></b> timer, but causes the <b><i>Exhausted</i> Status Effect</b> for <span class='t1'>60</span>/<span class='t2'>50</span>/<span class='t3'>40</span> seconds."
 		},
 		{
 			"name": "Aftercare",
-			"description": ""
+			"description": "Unlocks potential in your Aura-reading ability. <br /> You see the Aura of the last <span class='t1'>1</span>/<span class='t2'>2</span>/<span class='t3'>3</span> Survivor(s): <ul> <li>You have rescued from a Hook, or who have rescued you from a Hook.</li> <li>You have completed a Healing action on, or who have completed a Healing action on you.</li> <li>They also see your Aura.</li> </ul> All effects of <i>Aftercare</i> are reset upon being hooked by the Killer."
 		},
 		{
 			"name": "Alert",
-			"description": ""
+			"description": "Your acute senses are on high alert. <br /> Whenever the Killer destroys a Pallet or a Breakable Wall, or damages a Generator, their Aura is revealed to you for <span class='t1'>3</span>/<span class='t2'>4</span>/<span class='t3'>5</span> seconds."
 		},
 		{
 			"name": "Any Means Necessary",
-			"description": ""
+			"description": "You stand up for yourself, using whatever's on hand to gain an advantage. <br /> You see the Aura of dropped Pallets. <br /> Press and hold the <i>Active Ability button</i> for <span class='description-value'>4 seconds</span> while standing beside a dropped Pallet to reset it to its upright position. <br /> <i>Any Means Necessary</i> has a cool-down of <span class='t1'>100</span>/<span class='t2'>80</span>/<span class='t3'>60</span> seconds."
 		},
 		{
 			"name": "Appraisal",
-			"description": ""
+			"description": "You have a careful eye that notices what many overlook. <br /> Start the Trial with <span class='description-value'>3 Tokens</span>: <ul> <li>When a Chest has already been opened, consume <span class='description-value-additional'>1 Token</span> to rummage through it for an Item.</li> <li>Rummage through Chests <span class='t1'>40</span>/<span class='t2'>60</span>/<span class='t3'>80</span> % <b>faster</b>.</li> </ul> <i>Rummaging is only available once per Chest.</i>"
 		},
 		{
 			"name": "Autodidact",
-			"description": ""
+			"description": "You start the Trial with a <span class='description-value'>-25 %</span> Progression penalty for Skill Checks to heal Survivors. For every successful Skill Check completed while healing a Survivor, <i>Autodidact</i> gains <span class='description-value'>1 Token</span> up to a maximum of <span class='t1'>3</span>/<span class='t2'>4</span>/<span class='t3'>5</span> Tokens. <ul> <li>Each Token grants a <span class='description-red'>+15 %</span> bonus Progression for a successful Skill Check while healing Survivors.</li> <li>Great Skill Checks cannot be performed while using <i>Autodidact</i>.</li> </ul> <i>Autodidact</i> is not active when using a Med-Kit to heal."
 		},
 		{
 			"name": "Balanced Landing",
-			"description": ""
+			"description": "Your agility and cat-like relexes are incomparable. <br /> When falling from great heights, you benefit from the following effects: <ul> <li><b>Reduces</b> the Stagger duration by <span class='description-value'>75 %</span>.</li> <li><b>Suppresses</b> Grunts of Exertion from falling.</li> <li>Upon landing, break into a sprint at <span class='description-value-additional'>150 %</span> of your normal Running Movement speed for <span class='description-red'>3 seconds</span>.</li> </ul> <i>Balanced Landing</i> causes the <b><i>Exhausted</i> Status Effect</b> for <span class='t1'>60</span>/<span class='t2'>50</span>/<span class='t3'>40</span> seconds. <br /> <i>Balanced Landing</i> cannot be used when <b><i>Exhausted</i></b>."
 		},
 		{
 			"name": "Bite the Bullet",
-			"description": ""
+			"description": "Pain hurts you as much as anyone, but you would prefer others do not know that. <br /> When healing yourself or another Survivor, <i>Grunts of Pain</i> and all noises related to the <i>Healing</i> action are suppressed: <ul> <li>Failed Healing Skill Checks do not trigger a <i>Loud Noise Notification</i> and only apply a Regression penalty of <span class='t1'>3</span>/<span class='t2'>2</span>/<span class='t3'>1</span> %.</li> </ul>"
 		},
 		{
 			"name": "Blast Mine",
-			"description": ""
+			"description": "When direct combat is not an option, you still find ways to strike back. <br /> After repairing Generators for a total of <span class='description-value'>66 %</span>, Blast Mine activates: <ul> <li>After repairing a Generator for at least <span class='description-value-additional'>3 seconds</span>, press the <i>Ability button</i> to install a Trap, which stays active for <span class='t1'>35</span>/<span class='t2'>40</span>/<span class='t3'>45</span> seconds.</li> <li>The Aura of Trapped Generators are revealed in <span class='description-value'>yellow</span> to all Survivors.</li> <li>When the Killer damages a Trapped Generator, the Trap explodes, stunning them and blinding anyone nearby.</li> </ul> <i>Blast Mine</i> deactivates after triggering successfully."
 		},
 		{
 			"name": "Blood Pact",
-			"description": ""
+			"description": "It is as if a latent part of yourself has awakened. <br /> You feel like you can reach out beyond yourself for assistance. <br /> When you or the <b><i>Obsession</i></b> are injured, you both see each other's Auras. <ul> <li>After healing the <b><i>Obsession</i></b> or being healed by the <b><i>Obsession</i></b>, you both gain the <b><i>Haste</i> Status Effect</b>, moving at an increased speed of <span class='t1'>5</span>/<span class='t2'>6</span>/<span class='t3'>7</span> % <b>until you are no longer within <span class='description-value'>16 metres</span> of each other</b>.</li> <li>If you are the <b><i>Obsession</i></b>, <i>Blood Pact</i> deactivates.</li> </ul> Lowers the odds of becoming the Killer's initial <b><i>Obsession</i></b> by <span class='description-value'>-100 %</span>. <br /> <i>The Killer can only be <b>obsessed</b> with one Survivor at a time.</i>"
 		},
 		{
 			"name": "Boil Over",
-			"description": ""
+			"description": "You are a battler and do everything to escape a foe's grasp. <br /> While being carried by the Killer, the following effects apply: <ul> <li><b>Increases</b> the intensity of the <i>Struggle Effects</i> on the Killer from your <i>Wiggling</i> by <span class='t1'>60</span>/<span class='t2'>70</span>/<span class='t3'>80</span> %.</li> <li><b>Obscures</b> the AurasIconHelp auras.png of all Hooks from the Killer's Aura-reading abilities within <span class='description-value'>16 metres</span>.</li> <li><b>Fills</b> your <i>Wiggle Meter</i> by <span class='description-value-additional'>33 %</span> of your current Wiggle progression upon landing, when the Killer drops from great heights.</li> </ul>"
 		},
 		{
 			"name": "Bond",
-			"description": ""
+			"description": "Unlocks potential in your Aura-reading ability: <ul> <li>The Auras of all other Survivors within <span class='t1'>20</span>/<span class='t2'>28</span>/<span class='t3'>36</span> metres <b>of your location are revealed to you</b>.</li> </ul>"
 		},
 		{
 			"name": "Boon: Circle of Healing",
-			"description": ""
+			"description": "A Boon that offers comfort amidst the terror. <br  /> Press and hold the <i>Active Ability button</i> near a Dull or Hex Totem to bless it and create a <b><i>Boon Totem</i></b>. <br  /> Soft chimes ring out within a radius of <span class='description-value'>24 metres</span>. <br /> Survivors inside the <i>Boon Totem</i>'s range benefit from the following effects: <ul> <li><span class='t1'>40</span>/<span class='t2'>45</span>/<span class='t3'>50</span> % <b>bonus to all Healing speeds</b>.</li> <li>Unlocks the <i>Self-Care</i> ability, allowing to self-heal without needing a Med-KitIconItems firstAidKit.png.</li> <li><ul> <li><b>Reduces</b> Personal Healing speed by <span class='description-value-additional'>-50 %</span>.</li> <li>Benefits from the general Healing Speed bonus.</li> </ul></li> </ul> <i>Boon: Circle of Healing</i> does not stack with other instances of itself. <br /> <i>You can only bless one Totem at a time.</i> <br /> <i>All equipped <b>Boon Perks</b> are active on the same <b>Boon Totem</b></i>."
 		},
 		{
 			"name": "Boon: Dark Theory",
-			"description": ""
+			"description": "Your obsessive study of the paranormal has given you unprecedented knowledge of other Realms and planes of existence. <br  /> Press and hold the <i>Active Ability button</i> near a Dull or Hex Totem to bless it and create a <b><i>Boon Totem</i></b>. <br  /> Soft chimes ring out within a radius of <span class='description-value'>24 metres</span>. <br /> Survivors inside the <i>Boon Totem</i>'s range benefit from the following effects: <ul> <li><span class='description-value'>2 %</span> <b><i>Haste</i> Status Effect</b>.</li> <li>This effect lingers for <span class='t1'>2</span>/<span class='t2'>3</span>/<span class='t3'>4</span> seconds <b>after leaving the Boon Totem's range</b>.</li> </ul> <i>You can only bless one Totem at a time.</i> <br /> <i>All equipped <b>Boon Perks</b> are active on the same <b>Boon Totem</b></i>."
 		},
 		{
 			"name": "Boon: Exponential",
-			"description": ""
+			"description": "When it seems like your number is up, you consider ways to recalculate the odds. <br  /> Press and hold the <i>Active Ability button</i> near a Dull or Hex Totem to bless it and create a <b><i>Boon Totem</i></b>. <br  /> Soft chimes ring out within a radius of <span class='description-value'>24 metres</span>. <br /> Survivors inside the <i>Boon Totem</i>'s range benefit from the following effects: <ul> <li><span class='t1'>90</span>/<span class='t2'>95</span>/<span class='t3'>100</span> % <b>bonus to the Recovery speed</b>.</li> <li>Unlocks the <i>Self-Recovery</i> ability, allowing you to fully recover from the Dying State.</li> </ul> <i>You can only bless one Totem at a time.</i> <br /> <i>All equipped <b>Boon Perks</b> are active on the same <b>Boon Totem</b></i>."
 		},
 		{
 			"name": "Boon: Shadow Step",
-			"description": ""
+			"description": "A Boon that conceals the truth. <br  /> Press and hold the <i>Active Ability button</i> near a Dull or Hex Totem to bless it and create a <b><i>Boon Totem</i></b>. <br  /> Soft chimes ring out within a radius of <span class='description-value'>24 metres</span>. <br /> Survivors inside the <i>Boon Totem</i>'s range benefit from the following effects: <ul> <li>Scratch Marks are suppressed.</li> <li>Auras are hidden from The Killer.</li> <li> <ul> <li>Both effects linger for <span class='t1'>2</span>/<span class='t2'>3</span>/<span class='t3'>4</span> seconds <b>after leaving the <i>Boon Totem</i>'s range</b>.</li> </ul> </li> </ul> <i>You can only bless one Totem at a time.</i> <br /> <i>All equipped <b>Boon Perks</b> are active on the same <b>Boon Totem</b></i>."
 		},
 		{
 			"name": "Borrowed Time",
-			"description": ""
+			"description": "You are fuelled with an unexpected energy when saving an Ally from a Hook. <br /> For <span class='t1'>8</span>/<span class='t2'>10</span>/<span class='t3'>12</span> seconds after unhooking a Survivor, the unhooked Survivor is protected by the <b><i>Endurance</i> Status Effect</b>. <ul> <li>Any damage taken that would put the Survivor into the Dying State will instead trigger the <b><i>Deep Wound</i> Status Effect</b>, after which the Survivor has <span class='description-value'>20 seconds</span> to Mend themselves.</li> <li>Taking damage while under the effect of <b><i>Deep Wound</i></b> or if its timer runs out will put the Survivor into the Dying State.</li> </ul>"
 		},
 		{
 			"name": "Botany Knowledge",
-			"description": ""
+			"description": "You transform plants found around The Campfire into tinctures that slow down bleeding.  <br /> <ul> <li><b>Increases</b> Healing speeds, as well as the efficiency of Med-Kits, by <span class='t1'>11</span>/<span class='t2'>22</span>/<span class='t3'>33</span> %.</li> </ul>"
 		},
 		{
 			"name": "Breakdown",
-			"description": ""
+			"description": "Each time you are unhooked or unhook yourself, the Hook breaks and the Killer's Aura is revealed to you for <span class='t1'>4</span>/<span class='t2'>5</span>/<span class='t3'>6</span> seconds. <ul> <li>A Hook broken by Breakdown takes <span class='description-value'>180 seconds</span> to respawn.</li> </ul>"
 		},
 		{
 			"name": "Breakout",
-			"description": ""
+			"description": "You kick into high gear when someone is in trouble, inspiring them to overcome any obstacle. <br /> When within <span class='description-value'>6 metres</span> of a carried Survivor, you gain the <b><i>Haste</i> Status Effect</b>, moving at an increased speed of <span class='t1'>5</span>/<span class='t2'>6</span>/<span class='t3'>7</span> %. <ul> <li>The carried Survivor's Wiggling speed is increased by <span class='description-value-additional'>20 %</span>.</li> </ul>"
 		},
 		{
 			"name": "Buckle Up",
-			"description": ""
+			"description": "Unlocks potential in your Aura-reading ability. <br /> You can determine the Recovery progress of dying Survivors by the intensity of their Aura at a distance of <span class='description-value'>48 metres</span> away. <br /> When healing another Survivor from the Dying State to the Injured State, the Killer's Aura is revealed to the both of you for <span class='t1'>6</span>/<span class='t2'>8</span>/<span class='t3'>10</span> seconds."
 		},
 		{
 			"name": "Built to Last",
-			"description": ""
+			"description": "You know how to get the most out of your tools. <br /> Hiding inside a Locker for <span class='t1'>14</span>/<span class='t2'>13</span>/<span class='t3'>12</span> seconds <b>while carrying a depleted Item will replenish its Charges to</b> <span class='description-value'>99 %</span>. <br /> Each use of Built to Last reduces this percentage by <span class='description-value-additional'>-33 %</span>."
 		},
 		{
 			"name": "Calm Spirit",
-			"description": ""
+			"description": "Animals seem to trust you as they often stay calm in your presence. <br /> <ul> <li><b>Lowers</b> the odds of alerting nearby Crows by <span class='t1'>80</span>/<span class='t2'>90</span>/<span class='t3'>100</span> %.</li> <li><b>Suppresses</b> the urge to scream from pain at all times.</li> </ul>"
 		},
 		{
 			"name": "Clairvoyance",
-			"description": ""
+			"description": "There is an intrinsic energy in you that sees beyond your vision. <br /> Whenever you cleanse a Totem, <i>Clairvoyance</i> activates: <ul> <li>When empty-handed, press and hold the <i>Ability button</i> to unlock your full Aura-reading potential, allowing you to see the Auras of the Exit Gate Switches, Generators, Hooks, Chests, and the Hatch within <span class='description-value'>64 metres</span> for <span class='t1'>8</span>/<span class='t2'>9</span>/<span class='t3'>10</span> seconds.</li> </ul>"
 		},
 		{
 			"name": "Corrective Action",
-			"description": ""
+			"description": "You quickly analyse problems and correct others' work when they make a mistake. <br /> You start the Trial with <span class='t1'>1</span>/<span class='t2'>2</span>/<span class='t3'>3</span> Token(s) <b>and gain a Token each time you succeed at a Great Skill Check, up to a maximum of</b> <span class='description-value'>5 Tokens</span>. <ul> <li>Each time another Survivor cooperating with you on the same Generator fails a Skill Check, <i>Corrective Action</i> consumes <span class='description-value-additional'>1 Token</span>, transforming their Failed Skill Check into Good Skill Check instead.</li> </ul> <i>Corrective Action</i> only applies to normal Skill Checks."
 		},
 		{
 			"name": "Counterforce",
-			"description": ""
+			"description": "You know how to withstand an enemy stronger than you, and it starts with hunting down and knocking out their support. <br /> You cleanse Totems <span class='description-value'>20 %</span> faster. <ul> <li>Gain another, stack-able <span class='description-value-additional'>20 %</span> Cleansing Speed bonus per cleansed Totem.</li> <li>After cleansing a Totem, the Aura of the Totem farthest from you is revealed to you for <span class='t1'>2</span>/<span class='t2'>3</span>/<span class='t3'>4</span> seconds.</li> </ul>"
 		},
 		{
 			"name": "Dance With Me",
-			"description": ""
+			"description": "When performing a <b>rushed</b> action to vault a Window, Pallet, or leave a Locker, you will not leave any Scratch Marks for the next <span class='description-value'>3 seconds</span>. <br /> <i>Dance With Me</i> has a cool-down of <span class='t1'>60</span>/<span class='t2'>50</span>/<span class='t3'>40</span> seconds."
 		},
 		{
 			"name": "Dark Sense",
-			"description": ""
+			"description": "Unlocks potential in your Aura-reading ability: <ul> <li>Each time a Generator is completed, the Aura of the Killer is revealed to you for <span class='description-value'>5 seconds</span>.</li> <li>Once the last Generator is completed, the Aura of the Killer is revealed to you for <span class='t1'>5</span>/<span class='t2'>7</span>/<span class='t3'>10</span> seconds.</li> </ul>"
 		},
 		{
 			"name": "Dead Hard",
-			"description": ""
+			"description": "Activate-able Perk. <br /> You can take a beating. <br /> When Injured, tap into your adrenaline bank and dash forward quickly to avoid damage. <ul> <li>Press the <i>Active Ability button</i> while running to dash forward.</li> <li>Avoid any damage during the <i>Dash</i>.</li> </ul> <i>Dead Hard</i> causes the <b><i>Exhausted</i> Status Effect</b> for <span class='t1'>60</span>/<span class='t2'>50</span>/<span class='t3'>40</span> seconds. <br /> <i>Dead Hard</i> cannot be used when <b><i>Exhausted</i></b>."
 		},
 		{
 			"name": "Deception",
-			"description": ""
+			"description": "Your adventurous lifestyle requires moments of crafty misdirection. <br /> Interact with a Locker while holding the <i>Sprint button</i> to trigger a <i>Loud Noise Notification</i> for the killer at your location instead of entering the Locker. <ul> <li>You will not leave any Scratch Marks or Pools of Blood for the next <span class='description-value'>3 seconds</span>.</li> </ul> <i>Deception</i> can only be triggered once every <span class='t1'>60</span>/<span class='t2'>50</span>/<span class='t3'>40</span> seconds."
 		},
 		{
 			"name": "Decisive Strike",
-			"description": ""
+			"description": "Using whatever is at hand, you stab your aggressor in an ultimate attempt to escape. <br /> After being unhooked or unhooking yourself, <i>Decisive Strike</i> activates for the next <span class='t1'>40</span>/<span class='t2'>50</span>/<span class='t3'>60</span> seconds: <ul> <li>When being grabbed or picked up by the Killer, succeed a Skill Check to automatically escape their grasp, stunning them for <span class='description-value'>5 seconds</span>.</li> <li>Successfuly stunning the Killer will disable <i>Decisive Strike</i> for the remainer of the Trial and result you in becoming the <b><i>Obsession</i></b>.</li> </ul> While <i>Decisive Strike</i> is active, the following interactions will deactivate it: <ul> <li>Repairing a Generator.</li> <li>Healing yourself or other Survivors.</li> <li>Cleansing or Blessing a Totem.</li> <li>Sabotaging a Hook.</li> <li>Unhooking other Survivors.</li> </ul> Increases the odds of becoming the Killer's initial <b><i>Obsession</i></b> by <span class='description-value'>+100 %</span>. <br /> <i>The Killer can only be <b>obsessed</b> with one Survivor at a time.</i>"
 		},
 		{
 			"name": "Deliverance",
-			"description": ""
+			"description": "After performing a Safe Hook Rescue on another Survivor, <i>Deliverance</i> activates: <ul> <li>Your Self-Unhook attempts will succeed <span class='description-value'>100 %</span> of the time.</li> </ul> <i>Deliverance</i> causes the <b><i>Broken</i> Status Effect</b> for <span class='t1'>100</span>/<span class='t2'>80</span>/<span class='t3'>60</span> seconds <b>after unhooking yourself</b>."
 		},
 		{
 			"name": "Desperate Measures",
-			"description": ""
+			"description": "You refuse to fail, even during your darkest hour. <br /> Increases Healing and Unhooking speeds by <span class='t1'>10</span>/<span class='t2'>12</span>/<span class='t3'>14</span> % <b>for each injured, hooked, or dying Survivor, up to a maximum of</b> <span class='t1'>40</span>/<span class='t2'>48</span>/<span class='t3'>56</span> %."
 		},
 		{
 			"name": "Detective's Hunch",
-			"description": ""
+			"description": "Unlocks potential in your Aura-reading ability. <br /> Each time a Generator is completed, the Auras of any Generators, Chests, and Totems within <span class='t1'>32</span>/<span class='t2'>48</span>/<span class='t3'>64</span> metres <b>are revealed to you for</b> <span class='description-value-additional'>10 seconds</span>. <ul> <li>If you are holding a Map, any objects revealed by <i>Detective's Hunch</i> will automatically be tracked by it.</li> </ul>"
 		},
 		{
 			"name": "Distortion",
-			"description": ""
+			"description": "You start the trial with <span class='description-value'>4 Tokens</span>. <br /> Whenever the Killer attempts to read your Aura, <i>Distortion</i> activates and a Token is consumed: <ul> <li>Your Aura will not be shown to the Killer and you will not leave any Scratch Marks for the next <span class='t1'>6</span>/<span class='t2'>8</span>/<span class='t3'>10</span> seconds.</li> </ul> <i>Distortion</i> does not activate when you are in the Dying State or in a <b>Killer Trap</b>."
 		},
 		{
 			"name": "Diversion",
-			"description": ""
+			"description": "Activate-able perk. <br /> Standing within the Killer's Terror Radius while not in a Chase for <span class='t1'>40</span>/<span class='t2'>35</span>/<span class='t3'>30</span> seconds <b>activates <i>Diversion</i></b>. <br /> Once <i>Diversion</i> is activated, press the <i>Active Ability button</i> while crouched and motionless to throw a pebble, creating a distraction for the Killer at a distance of <span class='description-value'>20 metres</span>. <br /> The distraction consists of the following: <ul> <li>A <i>Loud Noise Notification</i>.</li> <li>Scratch Marks.</li> </ul> <i>Diversion's</i> timer resets once the ability has been activated."
 		},
 		{
 			"name": "Déjà Vu",
-			"description": ""
+			"description": "Unlocks potential in your Aura-reading ability: <br /> Paranoia paired with your horror of failure helps prepare you from repeating the same mistakes. <ul> <li>The Auras of the <span class='description-value'>3 Generators</span> in closest proximity to one another are revealed to you for <span class='t1'>30</span>/<span class='t2'>45</span>/<span class='t3'>60</span> seconds <b>at the start of the Trial, and each time a Generator is completed</b>.</li> <li>If you are holding a Map, Generators revealed by <i>Déjà Vu</i> are automatically added to it.</li> </ul>"
 		},
 		{
 			"name": "Empathic Connection",
-			"description": ""
+			"description": "Your presence psychically projects itself to those in danger. <ul> <li>Whenever another Survivor is injured, they can see your Aura when within <span class='t1'>32</span>/<span class='t2'>64</span>/<span class='t3'>96</span> metres <b>of your location</b>.</li> <li>You heal other Survivors <span class='description-value'>10 %</span> faster.</li> </ul>"
 		},
 		{
 			"name": "Empathy",
-			"description": ""
+			"description": "Unlocks potential in your Aura-reading ability: <ul> <li>The Auras of Survivors in the Injured State or in the Dying State within <span class='t1'>64</span>/<span class='t2'>96</span>/<span class='t3'>128</span> metres <b>of your location are revealed to you</b>.</li> </ul> <i>Empathy</i> does not reveal the Aura of a Survivor being carried by the Killer."
 		},
 		{
 			"name": "Fast Track",
-			"description": ""
+			"description": "Sometimes the sacrifice of others is necessary to get ahead. <br /> Whenever another Survivor is hooked, <i>Fast Track</i> gains <span class='t1'>1</span>/<span class='t2'>2</span>/<span class='t3'>3</span> Tokens, <b>up to a maximum of <span class='t1'>9</span>/<span class='t2'>18</span>/<span class='t3'>27</span> Tokens</b>. <ul> <li>You consume all accumulated Tokens after a Great Skill Check on a Generator.</li> <li>Each Token grants a stack-able <span class='description-value'>1 %</span> Progression bonus in addition to the default Progression bonus for succeeding a Great Skill Check.</li> </ul>"
 		},
 		{
 			"name": "Flashbang",
-			"description": ""
+			"description": "You have adapted to a world in chaos and making what you can from the debris. <br /> After repairing Generators for a total of <span class='t1'>70</span>/<span class='t2'>60</span>/<span class='t3'>50</span> %, <b><i>Flashbang</i> activates</b>: <ul> <li>Enter a Locker while empty-handed and press the <i>Ability button</i> to craft a Flash Grenade.</li> </ul> The <i>Flashbang</i> is left behind when escaping the Trial."
 		},
 		{
 			"name": "Flip-Flop",
-			"description": ""
+			"description": "You have an uncanny ability to escape the inevitable. <br /> While in the Dying State, <span class='description-value'>50 %</span> of your Recovery progression is converted into Wiggling progression, up to a maximum of <span class='t1'>40</span>/<span class='t2'>45</span>/<span class='t3'>50</span> %, <b>once you are picked up by the Killer</b>."
 		},
 		{
 			"name": "For the People",
-			"description": ""
+			"description": "You risk life and injury for others. <br /> <i>For the People</i> is only active while at full health. <ul> <li>Press the <i>Active Ability button</i> while healing another Survivor without a Med-Kit to instantly heal them <span class='description-value'>1</span> Health State.</li> <li>You become the <b><i>Obsession</i></b>.</li> </ul> <i>For the People</i> causes the <b><i>Broken</i> Status Effect</b> for <span class='t1'>80</span>/<span class='t2'>70</span>/<span class='t3'>60</span> seconds <b>after using it</b>. <br /> Lowers the odds of becoming the Killer's initial <b><i>Obsession</i></b> by <span class='description-value'>-100 %</span>. <br /> <i>The Killer can only be <b>obsessed</b> with one Survivor at a time.</i>"
 		},
 		{
 			"name": "Guardian",
-			"description": ""
+			"description": "You risk it all to help those in need. <br /> When you unhook a Survivor, the rescued Survivor benefits from the following effects for <span class='t1'>4</span>/<span class='t2'>6</span>/<span class='t3'>8</span> seconds: <ul> <li>Scratch Marks and Pools of Blood are suppressed.</li> <li><span class='description-value'>7 %</span> <b><i>Haste</i> Status Effect</b>, boosting their Movement speed.</li> </ul> <i>Guardian</i> reveals the Killer's Aura to you for <span class='description-value-additional'>8 seconds</span>."
 		},
 		{
 			"name": "Head On",
-			"description": ""
+			"description": "When your mind is set, there better be no one standing in your way. <br /> While standing in a Locker for <span class='description-value'>3 seconds</span>, <i>Head On</i> activates: <ul> <li>When performing a <b>rushed</b> action to leave a Locker, stun the Killer for <span class='description-value-additional'>3 seconds</span> if they are within range.</li> </ul> <i>Head On</i> causes the <b><i>Exhausted</i> Status Effect</b> for <span class='t1'>60</span>/<span class='t2'>50</span>/<span class='t3'>40</span> seconds. <br /> <i>Head On</i> cannot be used when <b><i>Exhausted</i></b> or when you have accrued Stillness Crows."
 		},
 		{
 			"name": "Hope",
-			"description": ""
+			"description": "The growing odds of a successful escape fill you with hope and give you wings <ul> <li>As soon as the Exit Gates are powered, gain a <span class='t1'>5</span>/<span class='t2'>6</span>/<span class='t3'>7</span> % <b><i>Haste</i> Status Effect for</b> <span class='description-value'>120 seconds</span>.</li> </ul>"
+		},
+		{
+			"name": "Inner Focus",
+			"description": "You have honed your ability to see through the haze of the Ravage. <ul> <li>You can see the Scratch Marks of other Survivors within <span class='description-value'>32 metres</span> of you.</li> <li>Whenever another Survivor loses a Health State within <span class='description-value-additional'>32 metres</span> of you, the Killer's Aura is revealed to you for <span class='t1'>3</span>/<span class='t2'>4</span>/<span class='t3'>5</span> <b>seconds</b>.</li> </ul>"
 		},
 		{
 			"name": "Inner Healing",
-			"description": ""
+			"description": "You look inwards and trust your instincts when you feel lost and alone. <br/> Each time you cleanse a Totem, <i>Inner Healing</i> activates: <ul> <li>You are automatically healed <span class='description-value'>1 Health State</span> when hiding inside a Locker for <span class='t1'>10</span>/<span class='t2'>9</span>/<span class='t3'>8</span> seconds <b>while injured or suffering from the</b> <b><i>Deep Wound</i> Status Effect</b>.</li> </ul> <i>Inner Healing</i> does not activate if you currently suffer from the <b><i>Broken</i> Status Effect</b>."
 		},
 		{
 			"name": "Iron Will",
-			"description": ""
+			"description": "You are able to concentrate and enter a meditative-like state to numb some pain. <ul> <li><b>Lowers</b> the volume of <i>Grunts of Pain</i> by <span class='t1'>50</span>/<span class='t2'>75</span>/<span class='t3'>100</span> %.</li> </ul>"
 		},
 		{
 			"name": "Kindred",
-			"description": ""
+			"description": "Unlocks potential in your Aura-reading ability: <br /> While you are hooked: <ul> <li>The Auras of all Survivors are revealed to one another.</li> <li>Whenever the Killer is within <span class='t1'>8</span>/<span class='t2'>12</span>/<span class='t3'>16</span> metres <b>of your Hook, their Aura is revealed to all Survivors</b>.</li> </ul> While any another Survivor is hooked: <ul> <li>The Auras of all other Survivors are revealed to you.</li> <li>Whenever the Killer is within <span class='t1'>8</span>/<span class='t2'>12</span>/<span class='t3'>16</span> metres <b>of the hooked Survivor, their Aura is revealed to you</b>.</li> </ul>"
 		},
 		{
 			"name": "Kinship",
-			"description": ""
+			"description": "The importance of friendship has given you strength. <br /> While you are on the Hook in the <i>Struggle Phase</i>, <i>Kinship</i> activates: <ul> <li>If another Survivor is within <span class='description-value'>16 metres</span> of your Hook while <i>Kinship</i> is active, the <i>Struggle Phase</i> timer is paused for <span class='t1'>26</span>/<span class='t2'>30</span>/<span class='t3'>34</span> <b>seconds</b>.</li> </ul>"
 		},
 		{
 			"name": "Leader",
-			"description": ""
+			"description": "You are able to organise a team to cooperate more efficiently. <ul> <li><b>Increases</b> the Action speeds of other Survivors in Healing, Sabotaging, Unhooking, Cleansing, Opening, and Unlocking by <span class='t1'>15</span>/<span class='t2'>20</span>/<span class='t3'>25</span> % while they are within <span class='description-value'>8 metres</span> of your location.</li> <li>This effect lingers for <span class='desription-value-additional'>15 seconds</span> when leaving <i>Leader</i>'s range.</li> </ul> <i>Leader</i> does not stack with other instances of itself."
 		},
 		{
 			"name": "Left Behind",
-			"description": ""
+			"description": "You will get the job done... no matter the cost. <br /> When you are the last Survivor remaining in the Trial, the Aura of the Hatch is revealed to you when you are within <span class='t1'>24</span>/<span class='t2'>28</span>/<span class='t3'>32</span> <b>metres</b>."
 		},
 		{
 			"name": "Lightweight",
-			"description": ""
+			"description": "Your running is light and soft, making your tracks harder to follow. <ul> <li>Scratch Marks begin to fade <span class='t1'>1</span>/<span class='t2'>2</span>/<span class='t3'>3</span> <b>seconds</b> sooner.</li> </ul>"
 		},
 		{
 			"name": "Lithe",
-			"description": ""
+			"description": "After performing a <b>rushed</b> vault, break into a sprint of <span class='description-value'>150 %</span> of your normal Running Movement speed for a maximum of <span class='description-value-additional'>3 seconds</span>. <br /> <i>Lithe</i> causes the <b><i>Exhausted</i> Status Effect</b> for <span class='t1'>60</span>/<span class='t2'>50</span>/<span class='t3'>40</span> <b>seconds</b>. <br /> <i>Lithe</i> cannot be used when <b><i>Exhausted</i></b>."
 		},
 		{
 			"name": "Lucky Break",
-			"description": ""
+			"description": "You have had your share of scrapes and bruises, but luck is always on your side. <br /> Whenever you are in the Injured State, <i>Lucky Break</i> activates: <ul> <li>Bleeding and Scratch Marks are suppressed for a maximum of <span class='t1'>40</span>/<span class='t2'>50</span>/<span class='t3'>60</span> <b>seconds</b>, after which <i>Lucky Break</i> is disabled for the remainder of the Trial.</li> </ul> <i>Lucky Break</i> deactivates when you are Healthy or in the Dying State."
 		},
 		{
 			"name": "Mettle of Man",
-			"description": ""
+			"description": "Evil has a way of always finding you. <br /> After triggering your <span class='description-value'>third</span> <i>Protection Hit</i>, <i>Mettle of Man</i> activates and you are protected by the <b><i>Endurance</i> Status Effect</b>: <ul> <li>Any damage taken that would put you into the Dying State from the Injured State is blocked.</li> <li>When you are healed again, your Aura will be revealed to the Killer whenever you are farther than <span class='t1'>12</span>/<span class='t2'>14</span>/<span class='t3'>16</span> <b>metres</b> away.</li> </ul> <i>Mettle of Man</i> deactivates the next time you are put into the Dying State. Increases the odds of becoming the Killer's initial <b><i>Obsession</i></b> by <span class='description-value'>+100 %</span>. <i>The Killer can only be <b>obsessed</b> with one Survivor at a time.</i>"
 		},
 		{
 			"name": "No Mither",
-			"description": ""
+			"description": "Go on out, kid, it is just a scratch. <br /> Your thick blood coagulates practically instantly. <br /> You suffer from the <b><i>Broken</i> Status Effect</b> for the entire Trial, but benefit from the following effects: <ul> <li>Pools of Blood are suppressed.</li> <li>When injured or dying, <i>Grunts of Pain</i> are reduced by <span class='t1'>25</span>/<span class='t2'>50</span>/<span class='t3'>75</span> %.</li> <li>Your Recovery speed is increased by <span class='t1'>15</span>/<span class='t2'>20</span>/<span class='t3'>25</span> %.</li> <li>You can recover fully from the Dying State.</li> </ul>"
 		},
 		{
 			"name": "No One Left Behind",
-			"description": ""
+			"description": "It is inconceivable to leave someone behind. <br /> Once at least one Exit Gate has been opened, <i>No One Left Behind</i> activates: <ul> <li>Gain a <span class='t1'>30</span>/<span class='t2'>40</span>/<span class='t3'>50</span> % Action Speed bonus to Unhooking and Healing other Survivors.</li> <li>The Auras of all other Survivors are revealed to you.</li> <li>Grants <span class='t1'>50</span>/<span class='t2'>75</span>/<span class='t3'>100</span> % bonus Bloodpoints for actions in the Altruism Category.</li> </ul>"
 		},
 		{
 			"name": "Object of Obsession",
-			"description": ""
+			"description": "A supernatural bond links you to the Killer. <br /> Whenever the Killer reads your Aura and for the same duration as they do so, <i>Object of Obsession</i> activates: <ul> <li>The Killer's Aura is revealed to you.</li> <li><b>Increases</b> your Action speeds in Repairing, Healing, and Cleansing by <span class='t1'>2</span>/<span class='t2'>4</span>/<span class='t3'>6</span> %.</li> </ul> If you are the <b><i>Obsession</i></b>, your Aura is automatically revealed to the Killer for <span class='description-value'>3 seconds</span> every <span class='description-value-additional'>30 seconds</span>. <br /> Increases the odds of becoming the Killer's initial <b><i>Obsession</i></b> by <span class='description-value'>+100 %</span>. <br /> <i>The Killer can only be <b>obsessed</b> with one Survivor at a time.</i>"
 		},
 		{
 			"name": "Off the Record",
-			"description": ""
+			"description": "You have learnt that a quiet approach is sometimes best. <br /> After being unhooked or unhooking yourself, <i>Off the Record</i> activates for the next <span class='t1'>60</span>/<span class='t2'>70</span>/<span class='t3'>80</span> <b>seconds</b>: <ul> <li>Your Aura will not be shown to the Killer if they attempt to read it.</li> <li>When injured, <i>Grunts of Pain</i> are reduced by <span class='description-value'>100 %</span>.</li> </ul>"
 		},
 		{
 			"name": "Open-Handed",
-			"description": ""
+			"description": "Strengthens the potential in your and your team's Aura-reading abilities. <br /> <i>Open-Handed</i> increases all Aura-reading ranges by <span class='t1'>8</span>/<span class='t2'>12</span>/<span class='t3'>16</span> <b>metres</b>. <br /> <i>Open-Handed</i> does not stack with other instances of itself."
 		},
 		{
 			"name": "Overcome",
-			"description": ""
+			"description": "You have calculated how much energy you can risk to expend. <ul> <li>Whenever you become injured, you retain the Movement Speed burst for <span class='description-value'>2 additional seconds</span>.</li> </ul> <i>Overcome</i> causes the <b><i>Exhausted</i> Status Effect</b> for <span class='t1'>60</span>/<span class='t2'>50</span>/<span class='t3'>40</span> <b>seconds</b>. <br /> <i>Overcome</i> cannot be used when <b><i>Exhausted</i></b>."
+		},
+		{
+			"name": "Overzealous",
+			"description": "Fighting back against the Ravage motivates and inspires you. <br /> After cleansing a Totem, <i>Overzealous</i> activates: <ul> <li><b>Increases</b> your Repair speed by <span class='t1'>4</span>/<span class='t2'>5</span>/<span class='t3'>6</span> <b>%</b>.</li> </ul> <i>Overzealous</i> deactivates when losing a Health State by any means."
 		},
 		{
 			"name": "Parental Guidance",
-			"description": ""
+			"description": "You have inherited the ability to hear the dead — and now the dead warn you of danger. <ul> <li>After stunning the Killer by any means, <i>Parental Guidance</i> suppresses your Scratch Marks, Pools of Blood, and <i>Grunts of Pain</i> for the next <span class='t1'>5</span>/<span class='t2'>6</span>/<span class='t3'>7</span> <b>seconds</b>.</li> </ul>"
 		},
 		{
 			"name": "Pharmacy",
-			"description": ""
+			"description": "You have a knack for finding medicine. <ul> <li>Unlocking Chests is <span class='t1'>40</span>/<span class='t2'>60</span>/<span class='t3'>80</span> % faster.</li> <li>Unlocking your <span class='description-value'>first</span> Chest guarantees an Emergency Med-Kit.</li> </ul> <i>Pharmacy</i> reduces the audible range of your Chest-unlocking noises by <span class='description-value-additional'>8 metres</span>."
 		},
 		{
 			"name": "Plunderer's Instinct",
-			"description": ""
+			"description": "Unlocks potential in your Aura-reading ability: <ul> <li>The Auras of closed Chests and dropped Items in the environment within <span class='t1'>16</span>/<span class='t2'>24</span>/<span class='t3'>32</span> <b>metres</b> of your location are revealed to you.</li> <li>Grants a <span class='description-value'>considerably</span> better chance at finding an Item of a higher Rarity from Chests.</li> </ul>"
 		},
 		{
 			"name": "Poised",
-			"description": ""
+			"description": "Achieving goals boosts your confidence. <br /> After a Generator is completed, you will not leave any Scratch Marks for the next <span class='t1'>6</span>/<span class='t2'>8</span>/<span class='t3'>10</span> <b>seconds</b>."
 		},
 		{
 			"name": "Power Struggle",
-			"description": ""
+			"description": "You have never given up and you are not about to start now. <ul> <li>Reveals the Auras of available Pallets whenever you are in the Dying State.</li> </ul> While being carried by The Killer, reaching <span class='t1'>25</span>/<span class='t2'>20</span>/<span class='t3'>15</span> % Wiggling progression activates <i>Power Struggle</i>: <ul> <li>You can drop a nearby, standing Pallet to stun the Killer and escape their grasp.</li> </ul> <i>Power Struggle</i> deactivates after triggering successfully."
 		},
 		{
 			"name": "Premonition",
-			"description": ""
+			"description": "You have the undeniable capability to sense danger. <ul> <li>Receive an auditory warning upon looking in the Killer's direction within a <span class='description-value'>45 °</span> cone within <span class='description-value-additional'>36 metres</span>.</li> </ul> <i>Premonition</i> has a cool-down of <span class='t1'>60</span>/<span class='t2'>45</span>/<span class='t3'>30</span> <b>seconds</b> each time it activates."
 		},
 		{
 			"name": "Prove Thyself",
-			"description": ""
+			"description": "<ul> <li><b>Increases</b> your Repair speed by <span class='description-value'>+15 %</span> for each other Survivor within <span class='description-value-additional'>4 metres</span> of your location, up to a maximum of <span class='description-red'>+45 %</span>.</li> <li>This effect is also applied to all other Survivors within that range.</li> <li>Grants ?<span class='t1'></span>/<span class='t2'>75</span>/<span class='t3'>100</span> % bonus Bloodpoints for Co-operative actions.</li> </ul> <i>Prove Thyself</i> does not stack with other instances of itself."
 		},
 		{
 			"name": "Quick & Quiet",
-			"description": ""
+			"description": "You do not make as much noise as others when quickly vaulting over obstacles or hiding in Lockers. <ul> <li><b>Suppresses</b> both the <i>Loud Noise Notification</i> and the sound effects triggered by rushing to vault Windows, Pallets, or rushing to enter or exit Lockers.</li> </ul> <i>Quick & Quiet</i> has a cool-down of <span class='t1'>30</span>/<span class='t2'>25</span>/<span class='t3'>20</span> <b>seconds</b>."
 		},
 		{
 			"name": "Red Herring",
-			"description": ""
+			"description": "You have noticed that people pay attention to whatever makes the loudest noise. <br /> After repairing a Generator for at least <span class='description-value'>3 seconds</span>, its Aura is highlighted to you in <span class='description-value'>yellow</span>. <ul> <li>The Generator stays highlighted until it is either fully repaired, you start repairing another Generator, or enter a Locker.</li> <li>Entering a Locker will trigger a <i>Loud Noise Notification</i> for the Killer at the highlighted Generator's location.</li> </ul> <i>Red Herring</i> has a cool-down of <span class='t1'>60</span>/<span class='t2'>50</span>/<span class='t3'>40</span> <b>seconds</b>."
 		},
 		{
 			"name": "Renewal",
-			"description": ""
+			"description": "When you heal another Survivor for the equivalent of <span class='description-value'>1</span> Health State, <i>Renewal</i> activates: <ul> <li>The next time you are unhooked or unhook yourself, you suffer from the <b><i>Broken</i> Status Effect</b> until <i>Renewal</i> deactivates.</li> <li>You are automatically healed <span class='description-value-additional'>1 Health State</span> after <span class='t1'>28</span>/<span class='t2'>24</span>/<span class='t3'>20</span> seconds.</li> </ul> While <i>Renewal</i> is active, the following conditions will deactivate it: <ul> <li>Successfully being healed by <i>Renewal</i>.</li> <li>Being put into the Dying State before the timer elapses.</li> </ul> <i>Renewal</i> does not activate if you already suffer from the <b><i>Broken</i> Status Effect</b>."
 		},
 		{
 			"name": "Repressed Alliance",
-			"description": ""
+			"description": "You are accustomed to being hunted by malicious forces, and you have begun using it to your advantage. <br /> After repairing Generators for a total of <span class='t1'>55</span>/<span class='t2'>50</span>/<span class='t3'>45</span> <b>seconds</b>, <i>Repressed Alliance</i> activates: <ul> <li>Press the <i>Active Ability button</i> to call upon The Entity to block the Generator you are currently repairing for <span class='description-value'>30 seconds</span>, after which <i>Repressed Alliance</i> deactivates.</li> <li>The Aura of the blocked Generator is revealed to all Survivors in <span class='desription-white'>white</span>.</li> </ul>"
+		},
+		{
+			"name": "Residual Manifest",
+			"description": "A lifetime of chasing the darkness has taught you that the best disinfectant is light. <ul> <li>After a successful <i>Killer Blind</i>, the Killer suffers from the <b><i>Blindness</i> Status Effect</b> for <span class='t1'>20</span>/<span class='t2'>25</span>/<span class='t3'>30</span> <b>seconds</b>.</li> <li><i>Residual Manifest</i> grants the ability to rummage through an opened Chest once per Trial and will guarantee a basic Flashlight.</li> </ul>"
 		},
 		{
 			"name": "Resilience",
-			"description": ""
+			"description": "You are motivated in dire situations. <ul> <li><b>Increases</b> your Action speeds in Repairing, Healing, Sabotaging, Unhooking, Vaulting, Cleansing, Opening, and Unlocking by <span class='t1'>3</span>/<span class='t2'>6</span>/<span class='t3'>9</span> % when in the Injured State.</li> </ul>"
 		},
 		{
 			"name": "Resurgence",
-			"description": ""
+			"description": "You have come back from near impossible odds... and you will do it again. <br /> After being unhooked or unhooking yourself, instantly gain <span class='t1'>40</span>/<span class='t2'>45</span>/<span class='t3'>50</span> % to your Healing progress."
 		},
 		{
 			"name": "Rookie Spirit",
-			"description": ""
+			"description": "You keep a careful eye on objectives when they are slipping away. <br /> While repairing Generators, complete <span class='t1'>5</span>/<span class='t2'>4</span>/<span class='t3'>3</span> Good or Great Skill Checks to activate <i>Rookie Spirit</i> for the remainder of the Trial: <ul> <li>Once active, the Auras of any regressing Generators are revealed to you.</li> </ul>"
 		},
 		{
 			"name": "Saboteur",
-			"description": ""
+			"description": "Unlocks potential in your Aura-reading ability: <ul> <li>While a Survivor is being carried, the Auras of all Hooks within <span class='description-value'>56 metres</span> of their Pick-up location are revealed to you.</li> </ul> Unlocks the ability to sabotage Hooks without needing a Toolbox: <ul> <li>Sabotaging a Hook without a Toolbox takes <span class='description-value-additional'>2.5 seconds</span>.</li> <li>The Sabotage action has a cool-down of <span class='t1'>90</span>/<span class='t2'>75</span>/<span class='t3'>60</span> seconds.</li> </ul>"
 		},
 		{
 			"name": "Self-Aware",
-			"description": ""
+			"description": "You know your weaknesses and refuse to hide from them. <br /> You walk <span class='t1'>10</span>/<span class='t2'>15</span>/<span class='t3'>20</span> % faster and can see your own Scratch Marks."
 		},
 		{
 			"name": "Self-Care",
-			"description": ""
+			"description": "<ul> <li>Unlocks the <i>Self-Care</i> ability, allowing to self-heal without needing a Med-Kit.</li> <li><ul> <li><b>Reduces</b> Personal Healing speed by <span class='description-value'>-50 %</span>.</li> </ul></li> <li><b>Decreases</b> the Depletion rate of Med-Kits while self-healing by <span class='t1'>10</span>/<span class='t2'>15</span>/<span class='t3'>20</span> %.</li> </ul>"
 		},
 		{
 			"name": "Self-Preservation",
-			"description": ""
+			"description": "Life is unforgiving. <br /> The more confirmation you get of that, the more prepared you become. <br /> Whenever another Survivor is hit with a <i>Basic Attack</i> or <i>Special Attack</i> within <span class='description-value'>16 metres</span> of you, <i>Self-Preservation</i> activates: <ul> <li>Scratch Marks, <i>Grunts of Pain</i> when injured, and Bleeding are suppressed for the next <span class='t1'>6</span>/<span class='t2'>8</span>/<span class='t3'>10</span> <b>seconds</b>.</li> </ul>"
 		},
 		{
 			"name": "Situational Awareness",
-			"description": ""
+			"description": "You are aware of your surroundings and share the information with others. <br /> While repairing a Generator, its Aura is revealed in <span class='description-value'>yellow</span> to all other Survivors located within <span class='description-value'>32 metres</span>. <br /> If the Killer downs a Survivor while you are repairing a Generator, you see the Auras of all other Survivors for <span class='t1'>8</span>/<span class='t2'>9</span>/<span class='t3'>10</span> <b>seconds</b>."
 		},
 		{
 			"name": "Slippery Meat",
-			"description": ""
+			"description": "You have developed an efficient way to get off Hooks. <ul> <li>Grants <span class='description-value'>3</span> additional Self-Unhook attempts.</li> <li><b>Increases</b> the Self-Unhook chance by <span class='t1'>2</span>/<span class='t2'>3</span>/<span class='t3'>4</span> %.</li> </ul>"
 		},
 		{
 			"name": "Small Game",
-			"description": ""
+			"description": "You have the undeniable capability to sense danger. <ul> <li>Receive an auditory warning upon looking in the direction of Totems in a <span class='description-value'>45 °</span> cone within <span class='t1'>8</span>/<span class='t2'>10</span>/<span class='t3'>12</span> <b>metres</b>.</li> </ul> <i>Small Game</i> has a cool-down of <span class='t1'>14</span>/<span class='t2'>12</span>/<span class='t3'>10</span> <b>seconds</b> each time it activates. <br /> For each Dull or Hex Totem cleansed by any Player, <i>Small Game</i> gains <span class='description-value-additional'>1 Token</span>: <ul> <li>Each Token decreases the Detection cone's angle by <span class='description-red'>5 °</span>, down to a minimum of <span class='t3'>20 °</span>.</li> </ul>"
 		},
 		{
 			"name": "Smash Hit",
-			"description": ""
+			"description": "When your rival makes a mistake, you seize the opportunity. <br /> After stunning the Killer with a Pallet, break into a sprint at <span class='description-value'>150 %</span> of your normal Running Movement speed for <span class='description-value-additional'>4 seconds</span>. <br /> <i>Smash Hit</i> causes the <b><i>Exhausted</i> Status Effect</b> for <span class='t1'>60</span>/<span class='t2'>50</span>/<span class='t3'>40</span> <b>seconds</b>. <br /> <i>Smash Hit</i> cannot be used when <b><i>Exhausted</i></b>."
 		},
 		{
 			"name": "Sole Survivor",
-			"description": ""
+			"description": "As more of your friends fall to the Killer, you become shrouded in isolation and the Killer's Aura-reading abilities towards you are disrupted. <br /> Each time a Survivor other than yourself is killed or sacrificed, <i>Sole Survivor</i> gains <span class='description-value'>1 Token</span>, up to a maximum of <span class='description-value-additional'>3 Tokens</span>: <ul> <li>Each Token grants a stack-able radius of <span class='t1'>20</span>/<span class='t2'>22</span>/<span class='t3'>24</span> <b>metres</b> within which the Killer is unable to read your Aura, up to a maximum of <span class='t1'>60</span>/<span class='t2'>66</span>/<span class='t3'>72</span> <b>metres</b>.</li> </ul> Increases the odds of becoming the Killer's initial <b><i>Obsession</i></b> by <span class='description-value'>+100 %</span>. <br /> <i>The Killer can only be <b>obsessed</b> with one Survivor at a time.</i>"
 		},
 		{
 			"name": "Solidarity",
-			"description": ""
+			"description": "Sharing painful experiences has the power to heal. <br /> When injured, healing another Survivor without using a Med-Kit also heals you with a Conversion rate of <span class='t1'>40</span>/<span class='t2'>45</span>/<span class='t3'>50</span> %."
 		},
 		{
 			"name": "Soul Guard",
-			"description": ""
+			"description": "You have been through immense hardship and you're stronger for it. <br /> After being healed from or having recovered from the Dying State, <i>Soul Guard</i> grants you the <b><i>Endurance</i> Status Effect</b> for the next <span class='t1'>4</span>/<span class='t2'>6</span>/<span class='t3'>8</span> <b>seconds</b>. <ul> <li>Any damage taken that would put you into the Dying State will instead trigger the <b><i>Deep Wound</i> Status Effect</b>, after which you have <span class='description-value'>20 seconds</span> to Mend yourself.</li> <li>Taking any damage while under the effect of <b><i>Deep Wound</i></b> or if its timer runs out will put you into the Dying State.</li> </ul> <i>Soul Guard</i> allows you to completely recover from the Dying State when you are affected by the <b><i>Cursed</i> Status Effect</b>. <br /> <i>Soul Guard</i> has a cool-down of <span class='description-value-additional'>30 seconds</span>."
 		},
 		{
 			"name": "Spine Chill",
-			"description": ""
+			"description": "An unnatural tingle warns you of impending doom. <br /> Whenever the Killer is looking in your direction when they are within <span class='description-value'>36 metres</span> of you, <i>Spine Chill</i> activates: <ul> <li><b>Increases</b> the Trigger odds of Skill Check by <span class='description-value-additional'>10 %</span>.</li> <li><b>Decreases</b> the Skill Check Success zone by <spam class='description-red'>10 %</spam>.</li> <li><b>Increases</b> your Action speeds in Repairing, Healing, Sabotaging, Unhooking, Vaulting, Cleansing, Opening, and Unlocking by <span class='t1'>2</span>/<span class='t2'>4</span>/<span class='t3'>6</span> %.</li> </ul>"
 		},
 		{
 			"name": "Sprint Burst",
-			"description": ""
+			"description": "<ul> <li>When starting to run, break into a sprint at <span class='description-value'>150 %</span> of your normal Running Movement speed for <span class='description-value-additional'>3 seconds</span>.</li> </ul> <i>Sprint Burst</i> causes the <b><i>Exhausted</i> Status Effect</b> for <span class='t1'>60</span>/<span class='t2'>50</span>/<span class='t3'>40</span> <b>seconds</b>. <br /> <i>Sprint Burst</i> cannot be used when <b><i>Exhausted</i></b>."
 		},
 		{
 			"name": "Stake Out",
-			"description": ""
+			"description": "Getting close to the Killer fills you with determination. <br /> Every <span class='description-value'>15 seconds</span> you are standing within the Killer's Terror Radius without being chased, <i>Stake Out</i> gains <span class='description-value-additional'>1 Token</span>, up to a maximum of <span class='t1'>2</span>/<span class='t2'>3</span>/<span class='t3'>4</span> <b>Tokens</b>. <ul> <li>When <i>Stake Out</i> has at least <span class='description-red'>1 Token</span>, Good Skill Checks consume <span class='t3'>1 Token</span> and are considered Great Skill Checks, granting an additional Progression bonus of <span class='t2'>1 %</span>.</li> <li>Great Skill Checks do not consume any Tokens.</li> </ul>"
 		},
 		{
 			"name": "Streetwise",
-			"description": ""
+			"description": "Long nights out taught you to do a lot with what you have got. <ul> <li><b>Decreases</b> the Depletion rate of your Items by <span class='t1'>15</span>/<span class='t2'>20</span>/<span class='t3'>25</span> %.</li> </ul> <i>Streetwise</i> extends its effect to all other Survivors within <span class='description-value'>8 metres</span> of your location and lingers for <span class='description-value-additional'>15 seconds</span>."
 		},
 		{
 			"name": "Technician",
-			"description": ""
+			"description": "You are apt at handling machinery with the greatest care and precision. <br /> Failing a Skill Check while repairing: <ul> <li>Prevents the <i>Generator Explosion</i>.</li> <li>Applies the default Regression penalty.</li> <li>Applies an additional Regression penalty of <span class='t1'>5</span>/<span class='t2'>4</span>/<span class='t3'>3</span> %.</li> </ul> <i>Technician</i> reduces the audible range of your Generator-repairing noises by <span class='description-value'>8 metres</span>."
 		},
 		{
 			"name": "Tenacity",
-			"description": ""
+			"description": "There is nothing stopping you. <br /> Your ferocious tenacity in dire situations allows you to crawl <span class='t1'>30</span>/<span class='t2'>40</span>/<span class='t3'>50</span> % faster and also recover at the same time."
 		},
 		{
 			"name": "This Is Not Happening",
-			"description": ""
+			"description": "You perform at your best when you are under extreme stress. <ul> <li><b>Increases</b> the Success zone of Great Skill Checks while Repairing and Healing by <span class='t1'>10</span>/<span class='t2'>20</span>/<span class='t3'>30</span> % when in the Injured State.</li> </ul>"
 		},
 		{
 			"name": "Unbreakable",
-			"description": ""
+			"description": "Past battles have taught you a thing or two about survival. <br /> Once per Trial, you can completely recover from the Dying State. <ul> <li>Your Recovery speed is increased by <span class='t1'>25</span>/<span class='t2'>30</span>/<span class='t3'>35</span> %.</li> </ul>"
 		},
 		{
 			"name": "Up the Ante",
-			"description": ""
+			"description": "All will be well in the end; you just know it. <br /> Your confidence strengthens the feeling of hope for those around you. <br /> For Each Survivor still in the Trial, <i>Up the Ante</i> gains <span class='description-value'>1 Token</span>. <ul> <li>Each Token applies a stack-able <span class='t1'>1</span>/<span class='t2'>2</span>/<span class='t3'>3</span> % bonus to the Luck of all Survivors, up to a maximum of <span class='t1'>3</span>/<span class='t2'>6</span>/<span class='t3'>9</span> %.</li> </ul>"
 		},
 		{
 			"name": "Urban Evasion",
-			"description": ""
+			"description": "Years of evading the cops taught you a thing or two about stealth. <ul> <li><b>Increases</b> your Crouching Movement speed by <span class='t1'>90</span>/<span class='t2'>95</span>/<span class='t3'>100</span> %.</li> </ul>"
 		},
 		{
 			"name": "Vigil",
-			"description": ""
+			"description": "You look over your friends even in dire situations. <ul> <li><b>Increases</b> your Recovery rate from the <b><i>Blindness</i></b>, <b><i>Broken</i></b>, <b><i>Exhaustion</i></b>, <b><i>Exposed</i></b>, <b><i>Haemorrhage</i></b>, <b><i>Hindered</i></b>, and <b><i>Oblivious</i> Status Effects</b> by <span class='t1'>20</span>/<span class='t2'>25</span>/<span class='t3'>30</span> %.</li> <li>This effect also applies to all other Survivors within <span class='description-value'>8 metres</span> of your location and lingers for <span class='description-value-additional'>15 seconds</span>.</li> </ul>"
 		},
 		{
 			"name": "Visionary",
-			"description": ""
+			"description": "You are remarkably focused on your means of escape. <br /> The Auras of Generatorsg are revealed to you within <span class='description-value'>32 metres</span>. <ul> <li>Each time a Generator is completed, <i>Visionary</i> is disabled for <span class='t1'>20</span>/<span class='t2'>18</span>/<span class='t3'>16</span> <b>seconds</b>.</li> </ul>"
 		},
 		{
 			"name": "Wake Up!",
-			"description": ""
+			"description": "Unlocks potential in your Aura-reading ability. <br /> Once all GeneratorsIconHelpLoading generators.png are completed, <i>Wake Up!</i> activates: <ul> <li>The Auras of the Exit Gate Switches are revealed to you within <span class='description-value'>128 metres</span>.</li> <li>When opening an Exit Gate, your Aura is revealed to all other Survivors within <span class='description-value-additional'>128 metres</span>.</li> <li>You open Exit Gates <span class='t1'>15</span>/<span class='t2'>20</span>/<span class='t3'>25</span> % faster.</li> </ul>"
 		},
 		{
 			"name": "We'll Make It",
-			"description": ""
+			"description": "Helping others heightens your morale. <ul> <li><b>Increases</b> your Altruistic Healing speed by <span class='description-value'>100 %</span> for the next <span class='t1'>30</span>/<span class='t2'>60</span>/<span class='t3'>90</span> <b>seconds</b> whenever you rescue another Survivor from a Hook.</li> </ul>"
 		},
 		{
 			"name": "We're Gonna Live Forever",
-			"description": ""
+			"description": "Your few friends deserve the best protection. <br /> When healing a dying Survivor, your Healing speed is increased by <span class='description-value'>100 %</span>. <br /> Performing any of the following actions has <i>We're Gonna Live Forever</i> gain <span class='description-value-additional'>1 Token</span>: <ul> <li>Performing a Safe Hook Rescue</li> <li>Taking a <i>Protection Hit</i> for an injured Survivor.</li> <li>Stunning or Blinding the Killer to rescue a carried Survivor</li> </ul> Each Token grants a stack-able <span class='description-red'>25 %</span> bonus to all Bloodpoint gains, up to a maximum of <span class='t1'>50</span>/<span class='t2'>75</span>/<span class='t3'>100</span> %. <br /> <i>The bonus Bloodpoints are only awarded post-Trial.</i>"
 		},
 		{
 			"name": "Windows of Opportunity",
-			"description": ""
+			"description": "Unlocks potential in your Aura-reading ability. <br /> The Auras of Breakable Walls, Pallets, and Windows are revealed to you within <span class='t1'>24</span>/<span class='t2'>28</span>/<span class='t3'>32</span> <b>metres</b>."
 		}
 	],
 	"items": [
@@ -514,56 +529,72 @@
 			"item": [
 				{
 					"name": "Flashlight",
+					"description": "A standard Flashlight. <br /> Can be used to light your way in the darkness. <br /> The <i>Flashlight</i> has a Battery Life of <span class='description-value'>8 seconds</span>.",
 					"type": "Flashlight"
 				},
 				{
 					"name": "Sport Flashlight",
+					"description": "A very portable Flashlight with a good grip. <br /> Its efficient technology produces a powerful light while consuming less power. <ul> <li><b>Increased</b> Aim accuracy of <span class='description-value'>+20 %</span>.</li> <li><b>Decreased</b> Battery Depletion rate of <span class='description-value-additional'>-11 %</span>.</li> </ul> The <i>Sport Flashlight</i> has a Battery Life of <span class='description-red'>8 seconds</span>.",
 					"type": "Flashlight"
 				},
 				{
 					"name": "Utility Flashlight",
+					"description": "A sturdy but heavy Flashlight that packs a lot of power. <ul> <li><b>Increased</b> Beam brightness of <span class='description-value'>+30 %</span>.</li> <li><b>Increased</b> Blindness duration of <span class='description-value-additional'>+15 %</span>.</li> <li><b>Reduced</b> Aim accuracy of <span class='description-red'>-20 %</span>.</li> </ul> The <i>Utility Flashlight</i> has a Battery Life of <span class='t3'>12 seconds</span>.",
 					"type": "Flashlight"
 				}
 			],
 			"addons": [
 				{
-					"name": "Wide Lens"
+					"name": "Wide Lens",
+					"description": "A thing wide lens in perfect condition. <br /> Designed to spread the Flashlight beam at the cost of reducing its range of effectiveness. <ul> <li><b>Increases</b> the Beam width of the <i>Flashlight</i> by <span class='description-value'>+25 %</span>.</li> <li><b>Shortens</b> the Beam reach of the <i>Flashlight</i> by <span class='description-value-additional'>-25 %</span>.</li> </ul>"
 				},
 				{
-					"name": "Power Bulb"
+					"name": "Power Bulb",
+					"description": "A tiny Flashlight bulb that packs more wattage for a brighter, more powerful light beam. <ul> <li><b>Increases</b> the Beam brightness of the <i>Flashlight</i> by <span class='description-value'>+20 %</span>.</li> <li><b>Increases</b> the Blindness duration of the <i>Flashlight</i> by <span class='description-value-additional'>+10 %</span>.</li> </ul>"
 				},
 				{
-					"name": "Leather Grip"
+					"name": "Leather Grip",
+					"description": "A leather strip wrapped around the Flashlight for more grip. <ul> <li><b>Increases</b> the Aim accuracy of the <i>Flashlight</i> by <span class='description-value'>+20 %</span>.</li> </ul>"
 				},
 				{
-					"name": "Battery"
+					"name": "Battery",
+					"description": "A standard battery of unknown brand. <ul> <li><b>Extends</b> the Battery life of the <i>Flashlight</i> by <span class='description-value'>+2 seconds</span>.</li> </ul>"
 				},
 				{
-					"name": "TIR Optic"
+					"name": "TIR Optic",
+					"description": "A lens and reflector combo which can magnify a Flashlight's beam. <ul> <li><b>Increases</b> the Beam brightness of the <i>Flashlight</i> by <span class='description-value'>+30 %</span>.</li> <li><b>Increases</b> the Blindness duration of the <i>Flashlight</i> by <span class='description-value-additional'>+15 %</span>.</li> </ul>"
 				},
 				{
-					"name": "Rubber Grip"
+					"name": "Rubber Grip",
+					"description": "A rubber grip specifically fitting Flashlights for more grip. <l> <li><b>Increases</b> the Aim accuracy of the <i>Flashlight</i> by <span class='description-value'>+40 %</span>.</li> </l>"
 				},
 				{
-					"name": "Low Amp Filament"
+					"name": "Low Amp Filament",
+					"description": "A filament bulb designed to extend a Flashlight battery's life. <ul> <li><b>Decreases</b> the Battery Depletion rate of the <i>Flashlight</i> by <span class='description-value'>-20 %</span>.</li> </ul>"
 				},
 				{
-					"name": "Heavy Duty Battery"
+					"name": "Heavy Duty Battery",
+					"description": "A battery marked as \"<i>industrial strength</i>\". <ul> <li><b>Extends</b> the Battery life of the <i>Flashlight</i> by <span class='description-value'>+4 seconds</span>.</li> </ul>"
 				},
 				{
-					"name": "Focus Lens"
+					"name": "Focus Lens",
+					"description": "A thick glass lens that focuses the Flashlight beam to increase its intensity. <ul> <li><i>Extends</i> the Beam reach of the <i>Flashlight</i> by <span class='description-value'>+25 %</span>.</li> <li><i>Increases</i> the Beam brightness of the <i>Flashlight</i> by <span class='description-value-additional'>+20 %</span>.</li> <li><i>Increases</i> the Blindness duration of the <i>Flashlight</i> by <span class='description-red'>+10 %</span>.</li> <li><i>Decreases</i> the Beam width of the <i>Flashlight</i> by <span class='t3'>-15 %</span>.</li> </ul>"
 				},
 				{
-					"name": "Long Life Battery"
+					"name": "Long Life Battery",
+					"description": "A recent model of battery that lasts longer. <ul> <li><b>Extends</b> the Battery life of the <i>Flashlight</i> by <span class='description-value'>+6 seconds</span>.</li> </ul>"
 				},
 				{
-					"name": "Intense Halogen"
+					"name": "Intense Halogen",
+					"description": "A chemical bulb that generates an intensely clear light. <ul> <li><b>Increases</b> the Beam brightness of the <i>Flashlight</i> by <span class='description-value'>+40 %</span>.</li> <li><b>Increases</b> the Blindness duration of the <i>Flashlight</i> by <span class='description-value-additional'>+20 %</span>.</li> </ul>"
 				},
 				{
-					"name": "High-End Sapphire Lens"
+					"name": "High-End Sapphire Lens",
+					"description": "A wide lens made of un-scratch-able sapphire that optimises the power and range of the light beam. <ul> <li><b>Extends</b> the Beam reach of the <i>Flashlight</i> by <span class='description-value'>+25 %</span>.</li> <li><b>Increases</b> the Beam brightness of the <i>Flashlight</i> by <span class='description-value-additional'>+30 %</span>.</li> <li><b>Increases</b> the Blindness duration of the <i>Flashlight</i> by <span class='description-red'>+15 %</span>.</li> <li><b>Decreases</b> the Beam width of the <i>Flashlight</i> by <span class='t3'>+25 %</span>.</li> </ul>"
 				},
 				{
-					"name": "Odd Bulb"
+					"name": "Odd Bulb",
+					"description": "A heavy and completely opaque bulb of unknown origin which emits a faint light even when turned off. <ul> <li><b>Increases</b> the Beam brightness of the <i>Flashlight</i> by <span class='description-value'>+50 %</span>.</li> <li><b>Increases</b> the Blindness duration of the <i>Flashlight</i> by <span class='description-value-additional'>+25 %</span>.</li> <li><b>Increases</b> the Battery Depletion rate of the <i>Flashlight</i> by <span class='description-red'>+14 %</span>.</li> </ul>"
 				}
 			]
 		},
@@ -571,44 +602,56 @@
 			"item": [
 				{
 					"name": "Broken Key",
+					"description": "The bow and shank of a key, vibrating with remnant power. <br /> Its power cannot be triggered by itself. <br /> Various objects can be attached to its jump ring, which channels the <i>Broken Key's</i> power into various effects. <ul> <li>Must be equipped with Add-ons to unlock its Aura-reading abilities.</li> <li>Cannot be used to open a closed Hatch.</li> </ul> The <i>Broken Key's</i> Aura-reading abilities can be used for <span class='description-value'>10 seconds</span>.",
 					"type": "Key"
 				},
 				{
 					"name": "Dull Key",
+					"description": "A bent and dull Key that once held great power. <br /> Its power cannot be triggered by itself. <br /> Various objects can be attached to its jump ring, which channels the <i>Dull Key's</i> power into various effects. <ul> <li>Must be equipped with Add-ons to unlock its Aura-reading abilities.</li> <li>Can be consumed to open a closed Hatch, if not depleted of Charges.</li> </ul> The <i>Dull Key's</i> Aura-reading abilities can be used for <span class='description-value'>5 seconds</span>.",
 					"type": "Key"
 				},
 				{
 					"name": "Skeleton Key",
+					"description": "A tarnished and crooked Key, vibrating with ominous power. <br /> Its power cannot be triggered by itself. <br /> Various objects can be attached to its jump ring, which channels the <i>Skeleton Key's</i> power into various effects. <ul> <li>Must be equipped with Add-ons to unlock its Aura-reading abilities.</li> <li>Can be consumed to open a closed Hatch, if not depleted of Charges.</li> </ul> The <i>Skeleton Key's</i> Aura-reading abilities can be used for <span class='description-value'>30 seconds</span>.",
 					"type": "Key"
 				}
 			],
 			"addons": [
 				{
-					"name": "Prayer Rope"
+					"name": "Prayer Rope",
+					"description": "Tightly knitted rope used in praying rituals. <ul> <li><b>Adds</b> <span class='description-value'>10 seconds</span> of use to the <i>Key</i>.</li> </ul>"
 				},
 				{
-					"name": "Scratched Pearl"
+					"name": "Scratched Pearl",
+					"description": "A porous and scratched white pearl. <br /> A minuscule jump ring allows the pearl to be attached to the Key. <ul> <li><b>Increases</b> the <i>Key's</i> Aura-reading range by <span class='description-value'>+12 metres</span>.</li> </ul>"
 				},
 				{
-					"name": "Prayer Beads"
+					"name": "Prayer Beads",
+					"description": "A chain of matte beads of various sizes used in praying ritual. <ul> <li><b>Adds</b> <span class='description-value'>15 seconds</span> of use to the <i>Key</i>.</li> </ul>"
 				},
 				{
-					"name": "Eroded Token"
+					"name": "Eroded Token",
+					"description": "A heavily worn out token made of brass. <br /> If an inscription or drawing was once engraved in it, it has today completely disappeared. <br /> Can be attached to the Key using its jump ring to channel the Key's Aura-reading ability. <ul> <li>Unlocks the ability to reveal the Auras of other Survivors within <span class='description-value'>24 metres</span>.</li> </ul>"
 				},
 				{
-					"name": "Gold Token"
+					"name": "Gold Token",
+					"description": "A gold token with a dull appearance. <br /> Both faces are smooth and void of any inscriptions. <br /> Can be attached to the Key using its jump ring to channel the Key's Aura-reading ability. <ul> <li>Unlocks the ability to reveal the Auras of other Survivors within <span class='description-value'>48 metres</span>.</li> </ul>"
 				},
 				{
-					"name": "Weaved Ring"
+					"name": "Weaved Ring",
+					"description": "A mundane key ring in appearance with an unusual bluish dark sheen. <br /> The ring binds the Key to the user, preventing its loss even in the darkest of times. <ul> <li>In case of death, lose this Add-on instead of the <i>Key</i> itself.</li> </ul>"
 				},
 				{
-					"name": "Milky Glass"
+					"name": "Milky Glass",
+					"description": "This opaque piece of glass emits a dull vibrating noise. <br /> When the Key is used to unlock the Hatch, the glass token protects the Key from breaking, channelling The Black Fog's energy into the glass instead. <ul> <li>Opening the Hatch with a <i>Key</i> loses this Add-on instead of the <i>Key</i> itself.</li> </ul>"
 				},
 				{
-					"name": "Blood Amber"
+					"name": "Blood Amber",
+					"description": "A blood-red amber striped with black veins. <br /> The amber is warm to the touch. <br /> Can be attached to the Key using its jump ring to channel the Key's Aura-reading ability. <ul> <li>Unlocks the ability to reveal the Aura of the Killer within <span class='description-value'>32 metres</span>.</li> <li><b>Increases</b> the <i>Key's</i> Depletion rate by <span class='description-value'>+100 %</span>.</li> </ul>"
 				},
 				{
-					"name": "Unique Wedding Ring"
+					"name": "Unique Wedding Ring",
+					"description": "An engraved wedding ring that emerged from The Fog and resonates with an indescribable and incomprehensible energy. <ul> <li>Reveals the Aura of the <b><i>Obsession</i></b> at all times, without the need to channel the <i>Key's</i> energy.</li> </ul> Lowers the odds of becoming the Killer's initial <b><i>Obsession</i></b> by <span class='description-value'>-100 %</span>."
 				}
 			]
 		},
@@ -616,40 +659,51 @@
 			"item": [
 				{
 					"name": "Map",
+					"description": "An old piece of parchment made out of a skin-like material that is rolled and sealed with an uncoloured leather string. <br /> Holding and channelling the <i>Map</i> unlocks great potential in your Aura-reading abilities, revealing the Aura of all tracked objects at the cost of slowly burning it. <ul> <li>Start the Trial with <span class='description-value'>1 Generator</span> tracked.</li> </ul> The <i>Map</i> tracks any of the following objects: <ul> <li>Generators within <span class='description-value-additional'>8 metres</span>.</li> <li>Generators, Chests, and Totems revealed by Detective's Hunch.</li> </ul> The <i>Map</i> lasts for <span class='description-red'>20 seconds</span>.",
 					"type": "Map"
 				},
 				{
 					"name": "Rainbow Map",
+					"description": "An piece of parchment made out of oddly fresh skin with blood on its edge that has yet to dry, and that is rolled and sealed with multiple coloured ropes and cords. <br /> Holding and channelling the <i>Rainbow Map</i> unlocks great potential in your Aura-reading abilities, revealing the Aura of all tracked objects at the cost of slowly burning it. <ul> <li>Start the Trial with <span class='description-value'>3 random objects</span> tracked.</li> </ul> The <i>Rainbow Map</i> tracks any of the following objects: <ul> <li>Exit Gate Switches, Generators, and the Hatch when you come within <span class='description-value-additional'>8 metres</span>.</li> <li>Various Killer Belongings when you come within <span class='description-red'>8 metres</span></li> <li>Generators, Chests, and Totems revealed by Detective's Hunch.</li> </ul> The <i>Rainbow Map</i> lasts for <span class='t3'>20 seconds</span>.",
 					"type": "Map"
 				}
 			],
 			"addons": [
 				{
-					"name": "Map Addendum"
+					"name": "Map Addendum",
+					"description": "A fragmented piece of a thick fibrous material. <br /> A partial and faded map is drawn on it which by itself is useless. <ul> <li><b>Adds</b> <span class='description-value'>5 seconds</span> of use to the <i>Map</i>.</li> </ul>"
 				},
 				{
-					"name": "Yellow Wire"
+					"name": "Yellow Wire",
+					"description": "A small electrical wire. <br /> Both ends are heavily damaged like it has been forcefully torn out of its intended location. <br /> Can be tied around the Map to enhance its Aura-reading ability. <ul> <li>Unlocks the ability to track the Exit Gate Switches.</li> </ul>"
 				},
 				{
-					"name": "Unusual Stamp"
+					"name": "Unusual Stamp",
+					"description": "A wooden stamp with a cross-hatched rubber pad used to mark documents. <br /> It is unclear as to how or by whom this stamp was originally used. <ul> <li><b>Increases</b> the <i>Map's</i> Tracking range by <span class='description-value'>+8 metres</span>.</li> </ul>"
 				},
 				{
-					"name": "Retardant Jelly"
+					"name": "Retardant Jelly",
+					"description": "A slimy, translucent substance with a ghastly lavender shade. <br /> This jelly from unknown origin is highly resistant to heat. <ul> <li><b>Decreases</b> the <i>Map's</i> Depletion rate by <span class='description-value'>-20 %</span>.</li> </ul>"
 				},
 				{
-					"name": "Red Twine"
+					"name": "Red Twine",
+					"description": "A bristly and rough piece of twine of a deep red colour. <br /> Can be tied around the Map to enhance its Aura-reading ability. <ul> <li>Unlocks the ability to track <b>Killer Belongings</b>.</li> </ul>"
 				},
 				{
-					"name": "Glass Bead"
+					"name": "Glass Bead",
+					"description": "A strange bead circled with gold that can be used to magnify the map and mark a specific position. <br /> The bead emits an energy which can be felt and seen by Survivors. <br /> Press the <i>Secondary Action button</i> while using the Map to use the <i>Glass Bead</i>: <ul> <li>Place a <b>Pillar of Light</b> at your current location that can be seen by all Survivors.</li> </ul>"
 				},
 				{
-					"name": "Odd Stamp"
+					"name": "Odd Stamp",
+					"description": "A stamp carved out of sturdy blonde wood. <br /> The text found at the base is incomprehensible: \"<i>kw'zvre'od</i>\". <ul> <li><b>Increases</b> the <i>Map's</i> Tracking range by <span class='description-value'>+12 metres</span>.</li> </ul>"
 				},
 				{
-					"name": "Black Silk Cord"
+					"name": "Black Silk Cord",
+					"description": "A smooth black cord with a soft appearance. <br /> Can be tied around the Map to enhance its Aura-reading ability. <ul> <li>Unlocks the ability to track the Hatch.</li> </ul>"
 				},
 				{
-					"name": "Crystal Bead"
+					"name": "Crystal Bead",
+					"description": "An intricate set of lenses wrapped up in an astonishingly complex apparatus. <br /> The gears controlling the lenses' focus move by themselves as to focus on something invisible to humans. <ul> <li>Reveals the Auras generated by the <i>Map</i> to all Survivors.</li> </ul>"
 				}
 			]
 		},
@@ -657,60 +711,77 @@
 			"item": [
 				{
 					"name": "Camping Aid Kit",
+					"description": "A rudimentary First Aid Kit which can save lives in emergencies, even if it's lacking some of its supplies. <ul> <li>Unlocks the Self-Heal action.</li> <li><b>Increased</b> Altruistic Healing speed of <span class='description-value'>+25 %</span>.</li> </ul> The <i>Camping Aid Kit</i> has a Capacity of <span class='description-value-additional'>16 Charges</span>.",
 					"type": "Med-Kit"
 				},
 				{
 					"name": "First Aid Kit",
+					"description": "A standard First Aid Kit with all the necessary equipment for treating common to more serious injuries. <ul> <li>Unlocks the Self-Heal action.</li> <li><b>Increased</b> Altruistic Healing speed of <span class='description-value'>+35 %</span>.</li> </ul> The <i>First Aid Kit</i> has a Capacity of <span class='description-value-additional'>24 Charges</span>.",
 					"type": "Med-Kit"
 				},
 				{
 					"name": "Emergency Med-Kit",
+					"description": "A sturdy and well organised Med-Kit equipped with top condition emergency supplies. <ul> <li>Unlocks the Self-Heal action.</li> <li><b>Increased</b> Personal Healing speed of <span class='description-value'>+50 %</span>.</li> <li><b>Increased</b> Altruistic Healing speed of <span class='description-value-additional'>+50 %</span>.</li> </ul> The <i>Emergency Med-Kit</i> has a Capacity of <span class='description-red'>16 Charges</span>.",
 					"type": "Med-Kit"
 				},
 				{
 					"name": "Ranger Med-Kit",
+					"description": "A large metal box containing medical supplies aimed at emergency rescues in hard to reach, often isolated locations. <ul> <li>Unlocks the Self-Heal action.</li> <li><b>Increased</b> Altruistic Healing speed of <span class='description-value'>+50 %</span>.</li> <li><b>Increased</b> Good Skill Check zone of <span class='description-value-additional'>+14 %</span>.</li> <li><b>Increased</b> Great Skill Check zone of <span class='description-red'>+15 %</span>.</li> </ul> The <i>Ranger Med-Kit</i> has a Capacity of <span class='t3'>32 Charges</span>.",
 					"type": "Med-Kit"
 				}
 			],
 			"addons": [
 				{
-					"name": "Rubber Gloves"
+					"name": "Rubber Gloves",
+					"description": "Disposable medical gloves to avoid cross-contamination. <ul> <li><b>Increases</b> the Progression bonus of <i>Great Healing Skill Checks</i> by <span class='description-value'>+3 %</span>.</li> </ul>"
 				},
 				{
-					"name": "Butterfly Tape"
+					"name": "Butterfly Tape",
+					"description": "Medical quality tape used to close small wounds. <ul> <li><b>Increases</b> the <i>Med-Kit's</i> Healing speeds by <span class='description-value'>+5 %</span>.</li> </ul>"
 				},
 				{
-					"name": "Bandages"
+					"name": "Bandages",
+					"description": "A pack of bandages usually found in First Aid Kits. <ul> <li><b>Increases</b> the <i>Med-Kit's</i> Capacity by <span class='description-value'>+8 Charges</span>.</li> </ul>"
 				},
 				{
-					"name": "Sponge"
+					"name": "Sponge",
+					"description": "A mundane sponge used to soak up extra blood, providing easier access to wounds. <ul> <li><b>Increases</b> the Progression bonus of <i>Great Healing Skill Checks</i> by <span class='description-value'>+5 %</span>.</li> </ul>"
 				},
 				{
-					"name": "Self Adherent Wrap"
+					"name": "Self Adherent Wrap",
+					"description": "A pack of bandages that stick to themselves without the need of clips for a faster patch-up that requires less readjustments. <ul> <li><b>Increases</b> the <i>Med-Kit's</i> Healing speeds by <span class='description-value'>+5 %</span>.</li> <li><b>Increases</b> the <i>Med-Kit's</i> Capacity by <span class='description-value-additional'>+8 Charges</span>.</li> </ul>"
 				},
 				{
-					"name": "Needle & Thread"
+					"name": "Needle & Thread",
+					"description": "Not exactly a medical device. <br /> However, it can be used to quickly and painfully close up a wound. <ul> <li><b>Increases</b> the <i>Med-Kit's</i> Healing speeds by <span class='description-value'>+15 %</span>.</li> <li><b>Increases</b> the Trigger odds of Healing Skill Checks by <span class='description-value-additional'>+10 %</span>.</li> <li>Grants <span class='description-red'>100 %</span> bonus Bloodpoints for <i>Great Healing Skill Checks</i>.</li> </ul>"
 				},
 				{
-					"name": "Medical Scissors"
+					"name": "Medical Scissors",
+					"description": "Scissors designed to easily cut through textiles. <ul> <li><b>Increases</b> the <i>Med-Kit's</i> Healing speeds by <span class='description-value'>+15 %</span>.</li> </ul>"
 				},
 				{
-					"name": "Gauze Roll"
+					"name": "Gauze Roll",
+					"description": "A sterile gauze used for a variety of wounds. <br /> Part of a total wound care system. <ul> <li><b>Increases</b> the <i>Med-Kit's</i> Capacity by <span class='description-value'>+12 Charges</span>.</li> </ul>"
 				},
 				{
-					"name": "Surgical Suture"
+					"name": "Surgical Suture",
+					"description": "A medical device used to close and hold body tissue. <br /> Even though it is very effective, the surgical suture is challenging to use. <ul> <li><b>Increases</b> the <i>Med-Kit's</i> Healing speeds by <span class='description-value'>+15 %</span>.</li> <li><b>Increases</b> the Trigger odds of Healing Skill Checks by <span class='description-value-additional'>+15 %</span>.</li> <li>Grants <span class='description-red'>150 %</span> bonus Bloodpoints for <i>Great Healing Skill Checks</i>.</li> </ul>"
 				},
 				{
-					"name": "Gel Dressings"
+					"name": "Gel Dressings",
+					"description": "A pack of gel forming pads used to patch up heavily exuding wounds. <ul> <li><b>Increases</b> the <i>Med-Kit's</i> Capacity by <span class='description-value'>+16 Charges</span>.</li> </ul>"
 				},
 				{
-					"name": "Abdominal Dressing"
+					"name": "Abdominal Dressing",
+					"description": "A highly absorbent pad that prevents bodily fluid leakage when applied to large abdominal wounds. <ul> <li><b>Increases</b> the <i>Med-Kit's</i> Healing speeds by <span class='description-value'>+25 %</span>.</li> <li><b>Reduces</b> the <i>Med-Kit's</i> Capacity by <span class='description-value-additional'>-8 Charges</span>.</li> </ul>"
 				},
 				{
-					"name": "Styptic Agent"
+					"name": "Styptic Agent",
+					"description": "A white powder with coagulant properties. <br /> Apply the agent to a wound to stop it from haemorrhaging. <br /> Press the <i>Secondary Action button</i> while healing an injured Survivor with the <i>Med-Kit</i> to use the <i>Styptic Agent</i>: <ul> <li>Grants the <b><i>Endurance</i> Status Effect</b> for <span class='description-value'>8 seconds</span>.</li> <li>Can be used on other Survivors or yourself.</li> <li>Consumes the <i>Med-Kit</i> on use.</li> </ul>"
 				},
 				{
-					"name": "Anti-Haemorrhagic Syringe"
+					"name": "Anti-Haemorrhagic Syringe",
+					"description": "An anti-haemorrhagic substance that stops the bleeding in a matter of seconds. <br /> Press the <i>Secondary Action button</i> while healing with the <i>Med-Kit</i> to use the <i>Anti-Haemorrhagic Syringe</i>: <ul> <li>Over the next <span class='description-value'>16 seconds</span>, the affected Survivor will passively gain <span class='description-value-additional'>1 Health State</span>.</li> <li>This time is affected by Healing Speed modifiers.</li> <li>The effect is cancelled if the affected Survivor changes their Health State or is picked up by the Killer.</li> <li>Can be used on other Survivors or yourself.</li> <li>Consumes the <i>Med-Kit</i> on use.</li> </ul>"
 				}
 			]
 		},
@@ -718,228 +789,358 @@
 			"item": [
 				{
 					"name": "Worn-Out Tools",
+					"description": "A metal box containing out of condition tools that could break at any moment. <br /> Even without training, can be used to repair or break various mechanical components. <ul> <li><b>Increased</b> Generator Repair speed of <span class='description-value'>+50 %</span>.</li> <li><b>Decreased</b> Good Skill Check zone of <span class='description-value-additional'>-10 %</span>.</li> <li>Unlocks the Sabotage action.</li> </ul> The <i>Worn-Out Toolbox</i> has a Capacity of <span class='description-red'>16 Charges</span>.",
 					"type": "Toolbox"
 				},
 				{
 					"name": "Toolbox",
+					"description": "A metal box containing a set of basic tools. <br /> Even without training, can be used to repair or break various mechanical components. <ul> <li><b>Increased</b> Generator Repair speed of <span class='description-value'>+50 %</span>.</li> <li>Unlocks the Sabotage action.</li> <li><b>Increased</b> Hook Sabotage speed of <span class='description-value-additional'>+10 %</span>.</li> </ul> The <i>Toolbox</i> has a Capacity of <span class='description-red'>20 Charges</span>.",
 					"type": "Toolbox"
 				},
 				{
 					"name": "Mechanic's Toolbox",
+					"description": "A metal box with specialised mechanics tools. <br /> Even without training, can be used to repair or break various mechanical components. <ul> <li><b>Increased</b> Generator Repair speed of <span class='description-value'>+75 %</span>.</li> <li>Unlocks the Sabotage action.</li> <li><b>Decreased</b> Hook Sabotage speed of<span class='description-value-additional'>-10 %</span>.</li> </ul> The <i>Mechanic's Toolbox</i> has a Capacity of <span class='description-red'>16 Charges</span>.",
 					"type": "Toolbox"
 				},
 				{
 					"name": "Commodious Toolbox",
+					"description": "A large metal box containing basic tool and extra mechanical parts. <br /> Even without training, can be used to repair or break various mechanical components. <ul> <li>Increased Generator Repair speed by <span class='description-value'>+50 %</span>.</li> <li>Unlocks the Sabotage action.</li> </ul> The <i>Commodious Toolbox</i> has a Capacity of <span class='description-value-additional'>32 Charges</span>.",
 					"type": "Toolbox"
 				},
 				{
 					"name": "Engineer's Toolbox",
+					"description": "A metal box with highly specialised tools meant for engineering. <br /> Most of the tools can be used by neophytes to make quick repairs or break various mechanical components. <ul> <li><b>Increased</b> Generator Repair speed of <span class='description-value'>+100 %</span>.</li> <li>Unlocks the Sabotage action.</li> <li><b>Decreased</b> Hook Sabotage speed of <span class='description-value-additional'>-25 %</span>.</li> </ul> The <i>Engineer's Toolbox</i> has a Capacity of <span class='description-red'>16 Charges</span>.",
 					"type": "Toolbox"
 				},
 				{
 					"name": "Alex's Toolbox",
+					"description": "A metal box containing mainly saws and vice grips of varying sizes but also other tools. <br /> Even though the content of this Toolbox is clearly aimed at destructive deeds, it can be used to repair various mechanical components as well. <ul> <li><b>Increased</b> Generator Repair speed of <span class='description-value'>+10 %</span>.</li> <li>Unlocks the Sabotage action.</li> <li><b>Increased</b> Hook Sabotage speed of <span class='description-value-additional'>+50 %</span>.</li> </ul> <i>Alex's Toolbox</i> has a Capacity of <span class='description-red'>24 Charges</span>.",
 					"type": "Toolbox"
 				}
 			],
 			"addons": [
 				{
-					"name": "Scraps"
+					"name": "Scraps",
+					"description": "Springs, screws and gears. <br /> Mostly unusable junk. <ul> <li><b>Increases</b> the Capacity of the <i>Toolbox</i> by <span class='description-value'>+8 charges</span>.</li> </ul>"
 				},
 				{
-					"name": "Instructions"
+					"name": "Instructions",
+					"description": "Someone quickly painted what seems to be repair instructions on this piece of bark. <ul> <li><b>Suppresses</b> all normal Skill Checks that are usually triggered while repairing a Generator.</li> </ul>"
 				},
 				{
-					"name": "Clean Rag"
+					"name": "Clean Rag",
+					"description": "A mundane rag. <br /> Suspiciously clean. <ul> <li><b>Increases</b> the Repair speed of the <i>Toolbox</i> by <span class='description-value'>+20 %</span>.</li> </ul>"
 				},
 				{
-					"name": "Wire Spool"
+					"name": "Wire Spool",
+					"description": "A portable but heavy spool of copper wire. <ul> <li><b>Increases</b> the Capacity of the <i>Toolbox</i> by <span class='description-value'>+12 charges</span>.</li> </ul>"
 				},
 				{
-					"name": "Spring Clamp"
+					"name": "Spring Clamp",
+					"description": "Useful tool to clamp hoses or hold wires in place and prevent damage or injury. <ul> <li><b>Reduces</b> the range at which your Generator-Repair noises can be heard by <span class='description-value'>-8 metres</span>.</li> </ul>"
 				},
 				{
-					"name": "Socket Swivels"
+					"name": "Socket Swivels",
+					"description": "Swivels provide bend and flexibility for bolts that are out of reach, deep within mechanical devices. <ul> <li><b>Increases</b> the Repair speed of the <i>Toolbox</i> by <span class='description-value'>+30 %</span>.</li> </ul>"
 				},
 				{
-					"name": "Protective Gloves"
+					"name": "Protective Gloves",
+					"description": "Thick gloves, which reduce manual dexterity but protect hands from injury. <ul> <li><b>Suppresses</b> the <i>Loud Noise Notification</i> to the Killer that is usually triggered after sabotaging a Hook.</li> </ul>"
 				},
 				{
-					"name": "Cutting Wire"
+					"name": "Cutting Wire",
+					"description": "A rudimentary cutting tool made from a jagged metal wire and two wooden handles. <ul> <li><b>Increases</b> the Sabotage speed of the <i>Toolbox</i> by <span class='description-value'>+15 %</span>.</li> </ul>"
 				},
 				{
-					"name": "Hacksaw"
+					"name": "Hacksaw",
+					"description": "A small hand saw mounted with a metal cutting blade. <ul> <li><b>Increases</b> the Sabotage speed of the <i>Toolbox</i> by <span class='description-value'>+20 %</span>.</li> </ul>"
 				},
 				{
-					"name": "Grip Wrench"
+					"name": "Grip Wrench",
+					"description": "An adjustable wrench with a tough grip. <br /> Essential in any Toolbox. <ul> <li><b>Increases</b> the Auto-Repair timer for sabotaged Hooks by <span class='description-value'>+15 seconds</span>.</li> </ul>"
 				},
 				{
-					"name": "Brand New Part"
+					"name": "Brand New Part",
+					"description": "This intricate mechanical part feels oddly out of place. <br /> It is clean and shiny as if straight out of the factory. <ul> <li>Replaces the \"Toolbox Repair\" prompt with \"Install Brand New Part\" instead:</li> <li><ul> <li>Installing the <i>Brand New Part</i> takes <span class='description-value'>5 seconds</span> to complete and adds <span class='description-value-additional'>15 %</span> to the Generator Progression.</li> <li>Triggers <span class='description-red'>2</span> difficult Skill Checks during the Installation process.</li> <li>Succedding each Skill Check adds an additional <span class='t3'>5 %</span> bonus Progression, up to a maximum of <span class='t2'>10 %</span> bonus Progression, and a combined total of up to <span class='description-blue'>25 %</span> Generator Progression.</li> </ul></li> </ul>"
 				}
 			]
 		}
 	],
 	"offerings": [
 		{
-			"name": "Escape! Cake"
+			"name": "Escape! Cake",
+			"description": "<ul> <li>Grants <span class='description-value'>100 %</span> bonus Bloodpoints in all Categories.</li> </ul>",
+			"rarity": "uncommon"
 		},
 		{
-			"name": "Sealed Envelope"
+			"name": "Sealed Envelope",
+			"description": "<ul> <li>Grants <span class='description-value'>25 %</span> bonus Bloodpoints in all Categories.</li> </ul>",
+			"rarity": "uncommon"
 		},
 		{
-			"name": "Bloody Party Streamers"
+			"name": "Bloody Party Streamers",
+			"description": "<ul> <li>Grants <span class='description-value'>100 %</span> bonus Bloodpoints in all Categories to all Players.</li> </ul>",
+			"rarity": "rare"
 		},
 		{
-			"name": "Bound Envelope"
+			"name": "Bound Envelope",
+			"description": "<ul> <li>Grants <span class='description-value'>25 %</span> bonus Bloodpoints in all Categories to all Survivors.</li> </ul>",
+			"rarity": "rare"
 		},
 		{
-			"name": "Primrose Blossom Sachet"
+			"name": "Primrose Blossom Sachet",
+			"description": "<ul> <li>Grants <span class='description-value'>50 %</span> bonus Bloodpoints in the Altruism Category.</li> </ul>",
+			"rarity": "common"
 		},
 		{
-			"name": "Fresh Primrose Blossom"
+			"name": "Fresh Primrose Blossom",
+			"description": "<ul> <li>Grants <span class='description-value'>75 %</span> bonus Bloodpoints in the Altruism Category.</li> </ul>",
+			"rarity": "uncommon"
 		},
 		{
-			"name": "Fragrant Primrose Blossom"
+			"name": "Fragrant Primrose Blossom",
+			"description": "<ul> <li>Grants <span class='description-value'>100 %</span> bonus Bloodpoints in the Altruism Category.</li> </ul>",
+			"rarity": "rare"
 		},
 		{
-			"name": "Sweet William Sachet"
+			"name": "Sweet William Sachet",
+			"description": "<ul> <li>Grants <span class='description-value'>50 %</span> bonus Bloodpoints in the Boldness Category.</li> </ul>",
+			"rarity": "common"
 		},
 		{
-			"name": "Fresh Sweet William"
+			"name": "Fresh Sweet William",
+			"description": "<ul> <li>Grants <span class='description-value'>75 %</span> bonus Bloodpoints in the Boldness Category.</li> </ul>",
+			"rarity": "uncommon"
 		},
 		{
-			"name": "Fragrant Sweet William"
+			"name": "Fragrant Sweet William",
+			"description": "<ul> <li>Grants <span class='description-value'>100 %</span> bonus Bloodpoints in the Boldness Category.</li> </ul>",
+			"rarity": "rare"
 		},
 		{
-			"name": "Bog Laurel Sachet"
+			"name": "Bog Laurel Sachet",
+			"description": "<ul> <li>Grants <span class='description-value'>50 %</span> bonus Bloodpoints in the Objectives Category.</li> </ul>",
+			"rarity": "common"
 		},
 		{
-			"name": "Fresh Bog Laurel"
+			"name": "Fresh Bog Laurel",
+			"description": "<ul> <li>Grants <span class='description-value'>75 %</span> bonus Bloodpoints in the Objectives Category.</li> </ul>",
+			"rarity": "uncommon"
 		},
 		{
-			"name": "Fragrant Bog Laurel"
+			"name": "Fragrant Bog Laurel",
+			"description": "<ul> <li>Grants <span class='description-value'>100 %</span> bonus Bloodpoints in the Objectives Category.</li> </ul>",
+			"rarity": "rare"
 		},
 		{
-			"name": "Crispleaf Amaranth Sachet"
+			"name": "Crispleaf Amaranth Sachet",
+			"description": "<ul> <li>Grants <span class='description-value'>50 %</span> bonus Bloodpoints in the Survival Category.</li> </ul>",
+			"rarity": "common"
 		},
 		{
-			"name": "Fresh Crispleaf Amaranth"
+			"name": "Fresh Crispleaf Amaranth",
+			"description": "<ul> <li>Grants <span class='description-value'>75 %</span> bonus Bloodpoints in the Survival Category.</li> </ul>",
+			"rarity": "uncommon"
 		},
 		{
-			"name": "Fragrant Crispleaf Amaranth"
+			"name": "Fragrant Crispleaf Amaranth",
+			"description": "<ul> <li>Grants <span class='description-value'>100 %</span> bonus Bloodpoints in the Survival Category.</li> </ul>",
+			"rarity": "rare"
 		},
 		{
-			"name": "Chalk Pouch"
+			"name": "Chalk Pouch",
+			"description": "<ul> <li><b>Increases</b> your Luck by <span class='description-value'>+1 %</span>.</li> </ul>",
+			"rarity": "common"
 		},
 		{
-			"name": "Cream Chalk Pouch"
+			"name": "Cream Chalk Pouch",
+			"description": "<ul> <li><b>Increases</b> your Luck by <span class='description-value'>+2 %</span>.</li> </ul>",
+			"rarity": "uncommon"
 		},
 		{
-			"name": "Ivory Chalk Pouch"
+			"name": "Ivory Chalk Pouch",
+			"description": "<ul> <li><b>Increases</b> your Luck by <span class='description-value'>+3 %</span>.</li> </ul>",
+			"rarity": "rare"
 		},
 		{
-			"name": "Salt Pouch"
+			"name": "Salt Pouch",
+			"description": "<ul> <li><b>Increases</b> the Luck of all Survivors by <span class='description-value'>+1 %</span>.</li> </ul>",
+			"rarity": "uncommon"
 		},
 		{
-			"name": "Black Salt Statuette"
+			"name": "Black Salt Statuette",
+			"description": "<ul> <li><b>Increases</b> the Luck of all Survivors by <span class='description-value'>+2 %</span>.</li> </ul>",
+			"rarity": "rare"
 		},
 		{
-			"name": "Vigo's Jar of Salty Lips"
+			"name": "Vigo's Jar of Salty Lips",
+			"description": "<ul> <li><b>Increases</b> the Luck of all Survivors by <span class='description-value'>+3 %</span>.</li> </ul>",
+			"rarity": "veryRare"
 		},
 		{
-			"name": "Bloodied Blueprint"
+			"name": "Bloodied Blueprint",
+			"description": "<ul><li>Reveals the Aura of the Basement Hooks to you for <span class='description-value'>20</span> seconds at the start of the Trial.</li><li><b>Increases</b> the Odds of spawning the Basement in the Killer Shack (if available) by <span class='description-value'>+100 %</span>.</li></ul>",
+			"rarity": "common"
 		},
 		{
-			"name": "Torn Blueprint"
+			"name": "Torn Blueprint",
+			"description": "<ul><li>Reveals the Aura of the Basement Hooks to you for <span class='description-value'>20</span> seconds at the start of the Trial.</li><li><b>Increases</b> the Odds of spawning the Basement in the Main Landmark Building (if available) by <span class='description-value'>+100 %</span>.</li></ul>",
+			"rarity": "common"
 		},
 		{
-			"name": "Tarnished Coin"
+			"name": "Tarnished Coin",
+			"description": "<ul> <li>Calms The Entity to <b>increase</b> the number of Chests by <span class='description-value'>+1 Chest</span>.</li> </ul>",
+			"rarity": "uncommon"
 		},
 		{
-			"name": "Shiny Coin"
+			"name": "Shiny Coin",
+			"description": "<ul> <li>Calms The Entity to <b>increase</b> the number of Chests by <span class='description-value'>+2 Chest</span>.</li> </ul>",
+			"rarity": "veryRare"
 		},
 		{
-			"name": "Clear Reagent"
+			"name": "Clear Reagent",
+			"description": "<ul> <li><b>Reduces</b> the Thickness of the Dark Mist by <span class='description-value'>-50 %</span>.</li> </ul>",
+			"rarity": "common"
 		},
 		{
-			"name": "Faint Reagent"
+			"name": "Faint Reagent",
+			"description": "<ul> <li><b>Increases</b> the Thickness of the Dark Mist by <span class='description-value'>+25 %</span>.</li> </ul>",
+			"rarity": "common"
 		},
 		{
-			"name": "Hazy Reagent"
+			"name": "Hazy Reagent",
+			"description": "<ul> <li><b>Increases</b> the Thickness of the Dark Mist by <span class='description-value'>+50 %</span>.</li> </ul>",
+			"rarity": "uncommon"
 		},
 		{
-			"name": "Murky Reagent"
+			"name": "Murky Reagent",
+			"description": "<ul> <li><b>Increases</b> the Thickness of the Dark Mist by <span class='description-value'>+75 %</span>.</li> </ul>",
+			"rarity": "veryRare"
 		},
 		{
-			"name": "Annotated Blueprint"
+			"name": "Annotated Blueprint",
+			"description": "<ul> <li><b>Increases</b> the Odds of spawning the Hatch near the Killer Shack (if available) by <span class='description-value'>100 %</span>.</li> </ul>",
+			"rarity": "common"
 		},
 		{
-			"name": "Vigo's Blueprint"
+			"name": "Vigo's Blueprint",
+			"description": "<ul> <li><b>Increases</b> the Odds of spawning the Hatch in the Main Landmark Building (if available) by <span class='description-value'>100 %</span>.</li> </ul>",
+			"rarity": "common"
 		},
 		{
-			"name": "Petrified Oak"
+			"name": "Petrified Oak",
+			"description": "<ul> <li>Calms The Entity to <b>increase</b> the minimum Spawn distance between Hooks by <span class='description-value'>+1 metre</span>.</li> </ul>",
+			"rarity": "veryRare"
 		},
 		{
-			"name": "Azarov's Key"
+			"name": "Azarov's Key",
+			"description": "<ul> <li><b>Increases</b> the Odds of being sent to the Autohaven Wreckers Realm by <span class='description-value'>9,999 %</span>.</li> </ul>",
+			"rarity": "rare"
 		},
 		{
-			"name": "Grandma's Cookbook"
+			"name": "Grandma's Cookbook",
+			"description": "<ul> <li><b>Increases</b> the Odds of being sent to the Backwater Swamp Realm by <span class='description-value'>9,999 %</span>.</li> </ul>",
+			"rarity": "rare"
 		},
 		{
-			"name": "Heart Locket"
+			"name": "Heart Locket",
+			"description": "<ul> <li><b>Increases</b> the Odds of being sent to the Coldwind Farm Realm by <span class='description-value'>9,999 %</span>.</li> </ul>",
+			"rarity": "rare"
 		},
 		{
-			"name": "Charred Wedding Photograph"
+			"name": "Charred Wedding Photograph",
+			"description": "<ul> <li><b>Increases</b> the Odds of being sent to the Crotus Prenn Asylum Realm by <span class='description-value'>9,999 %</span>.</li> </ul>",
+			"rarity": "rare"
 		},
 		{
-			"name": "Crow's Eye"
+			"name": "Crow's Eye",
+			"description": "<ul> <li><b>Increases</b> the Odds of being sent to the Forsaken Boneyard Realm by <span class='description-value'>9,999 %</span>.</li> </ul>",
+			"rarity": "rare"
 		},
 		{
-			"name": "Jigsaw Piece"
+			"name": "Jigsaw Piece",
+			"description": "<ul> <li><b>Increases</b> the Odds of being sent to the Gideon Meat Plant Realm by <span class='description-value'>9,999 %</span>.</li> </ul>",
+			"rarity": "rare"
 		},
 		{
-			"name": "Dusty Noose"
+			"name": "Dusty Noose",
+			"description": "<ul> <li><b>Increases</b> the Odds of being sent to the Grave of Glenvale Realm by <span class='description-value'>9,999 %</span>.</li> </ul>",
+			"rarity": "rare"
 		},
 		{
-			"name": "Strode Realty Key"
+			"name": "Strode Realty Key",
+			"description": "<ul> <li><b>Increases</b> the Odds of being sent to the Haddonfield Realm by <span class='description-value'>9,999 %</span>.</li> </ul>",
+			"rarity": "rare"
 		},
 		{
-			"name": "Shattered Glasses"
+			"name": "Shattered Glasses",
+			"description": "<ul> <li><b>Increases</b> the Odds of being sent to the Léry's Memorial Institute Realm by <span class='description-value'>9,999 %</span>.</li> </ul>",
+			"rarity": "rare"
 		},
 		{
-			"name": "MacMillan's Phalanx Bone"
+			"name": "MacMillan's Phalanx Bone",
+			"description": "<ul> <li><b>Increases</b> the Odds of being sent to the The MacMillan Estate Realm by <span class='description-value'>9,999 %</span>.</li> </ul>",
+			"rarity": "rare"
 		},
 		{
-			"name": "Damaged Photo"
+			"name": "Damaged Photo",
+			"description": "<ul> <li><b>Increases</b> the Odds of being sent to the Ormond Realm by <span class='description-value'>9,999 %</span>.</li> </ul>",
+			"rarity": "rare"
 		},
 		{
-			"name": "RPD Badge"
+			"name": "RPD Badge",
+			"description": "<ul> <li><b>Increases</b> the Odds of being sent to the Raccoon City Realm by <span class='description-value'>9,999 %</span>.</li> </ul>",
+			"rarity": "rare"
 		},
 		{
-			"name": "The Last Mask"
+			"name": "The Last Mask",
+			"description": "<ul> <li><b>Increases</b> the Odds of being sent to the Red Forest Realm by <span class='description-value'>9,999 %</span>.</li> </ul>",
+			"rarity": "rare"
 		},
 		{
-			"name": "Mary's Letter"
+			"name": "Mary's Letter",
+			"description": "<ul> <li><b>Increases</b> the Odds of being sent to the Silent Hill Realm by <span class='description-value'>9,999 %</span>.</li> </ul>",
+			"rarity": "rare"
 		},
 		{
-			"name": "The Pied Piper"
+			"name": "The Pied Piper",
+			"description": "<ul> <li><b>Increases</b> the Odds of being sent to the Springwood Realm by <span class='description-value'>9,999 %</span>.</li> </ul>",
+			"rarity": "rare"
 		},
 		{
-			"name": "Yamaoka Family Crest"
+			"name": "Ichorous Loam",
+			"description": "<ul> <li><b>Increases</b> the Odds of being sent to the Withered Isle Realm by <span class='description-value'>9,999 %</span>.</li> </ul>",
+			"rarity": "rare"
 		},
 		{
-			"name": "Shroud of Union"
+			"name": "Yamaoka Family Crest",
+			"description": "<ul> <li><b>Increases</b> the Odds of being sent to the Yamaoka Estate Realm by <span class='description-value'>9,999 %</span>.</li> </ul>",
+			"rarity": "rare"
 		},
 		{
-			"name": "Vigo's Shroud"
+			"name": "Shroud of Union",
+			"description": "<ul> <li>Calms the Entity to spawn all Survivors in pairs.</li> </ul>",
+			"rarity": "uncommon"
 		},
 		{
-			"name": "Shroud of Binding"
+			"name": "Vigo's Shroud",
+			"description": "<ul> <li>Calms the Entity to spawn you as far away from The Killer as possible.</li> </ul>",
+			"rarity": "uncommon"
 		},
 		{
-			"name": "Sacrificial Ward"
+			"name": "Shroud of Binding",
+			"description": "<ul> <li>Calms the Entity to spawn all Survivors together.</li> </ul>",
+			"rarity": "veryRare"
 		},
 		{
-			"name": "White Ward"
+			"name": "Sacrificial Ward",
+			"description": "<ul><li>Calls upon The Entity to reject all <b>Offerings</b> that alter the Odds of being sent to a specific Realm.</li></ul> Sacrificial Ward is only cancelled if <span class='description-value'>4 identical Realm Selection Offerings</span> are played.",
+			"rarity": "rare"
+		},
+		{
+			"name": "White Ward",
+			"description": "<ul> <li>Grants protection against the loss of your Item and its Add-ons.</li> </ul>",
+			"rarity": "veryRare"
 		}
 	]
 }
