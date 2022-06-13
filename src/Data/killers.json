@@ -41,7 +41,7 @@
 				},
 				{
 					"name": "Trapper Bag",
-					"description": "A cured leather waist bag. <br /> Large and sturdy to transport hunting equipment. <ul> <li>Start with ?<span class='description-value'></span>.</li> <li><b>Increases</b> the <b>Bear Trap</b> Carrying capacity by <span class='description-value-additional'>1 Bear Trap</span>.</li> </ul>"
+					"description": "A cured leather waist bag. <br /> Large and sturdy to transport hunting equipment. <ul> <li>Start with <span class='description-value'>1 additional Bear Trap</span>.</li> <li><b>Increases</b> the <b>Bear Trap</b> Carrying capacity by <span class='description-value-additional'>1 Bear Trap</span>.</li> </ul>"
 				},
 				{
 					"name": "Tar Bottle",

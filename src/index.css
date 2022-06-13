@@ -1,0 +1,94 @@
+:root {
+	--BG: #00060d;
+	--common-color: #ab713c;
+	--uncommon-color: #e8c252;
+	--rare-color: #199b1e;
+	--very-rare-color: #ac3ee3;
+	--ultra-rare-color: #ff0955;
+	--teachable-color: #ff8800;
+	--red: #d41c1c;
+	--white: #ffffff;
+	--blue: #0e98ff;
+	--vile-purge: #8ad672;
+	--corrupt-purge: #900a0a;
+	--laceration-meter: #b57edc;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Roboto', sans-serif;
+}
+
+a {
+	text-decoration: none;
+}
+
+ul {
+	list-style-position: inside;
+}
+
+.description-value,
+.description-value-additional,
+.description-red,
+.description-white,
+.description-blue,
+.description-vile,
+.description-corrupt,
+.description-laceration,
+.t1,
+.t2,
+.t3 {
+	font-weight: bold;
+}
+
+.description-value {
+	color: var(--uncommon-color);
+}
+
+.description-value-additional {
+	color: var(--teachable-color);
+}
+
+.description-red {
+	color: var(--red);
+}
+
+.description-white {
+	color: var(--white);
+}
+
+.description-blue {
+	color: var(--blue);
+}
+
+.description-vile {
+	color: var(--vile-purge);
+	font-style: italic;
+}
+
+.description-corrupt {
+	color: var(--corrupt-purge);
+	font-style: italic;
+}
+
+.description-laceration {
+	color: var(--laceration-meter);
+}
+
+.t1 {
+	color: var(--uncommon-color);
+}
+
+.t2 {
+	color: var(--rare-color);
+}
+
+.t3 {
+	color: var(--very-rare-color);
+}
+
+.tooltip {
+	max-width: 600px;
+}

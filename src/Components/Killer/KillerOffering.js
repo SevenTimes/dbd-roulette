@@ -1,3 +1,6 @@
+import ReactTooltip from 'react-tooltip';
+import { Markup } from 'interweave';
+
 const KillerOffering = (props) => {
 	const { offering } = props;
 
@@ -6,7 +9,13 @@ const KillerOffering = (props) => {
 			<img
 				src={`./Assets/Killers/Offerings/${offering.name}.png`}
 				alt={offering.name}
+				data-tip
+				data-for="offering"
 			/>
+			<ReactTooltip className="tooltip" id="offering">
+				<h4>{offering.name}</h4> <br />
+				<Markup content={offering.description} />
+			</ReactTooltip>
 		</div>
 	);
 };
