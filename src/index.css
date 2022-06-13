@@ -21,6 +21,10 @@
 	font-family: 'Roboto', sans-serif;
 }
 
+body {
+	background-color: var(--BG);
+}
+
 a {
 	text-decoration: none;
 }

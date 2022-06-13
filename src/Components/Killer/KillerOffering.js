@@ -6,6 +6,7 @@ const KillerOffering = (props) => {
 
 	return (
 		<div className="killer-offering">
+			<span>Offering</span>
 			<img
 				src={`./Assets/Killers/Offerings/${offering.name}.png`}
 				alt={offering.name}

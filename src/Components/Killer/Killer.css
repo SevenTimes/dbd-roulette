@@ -1,0 +1,62 @@
+.killer-char > span,
+.killer-power > span,
+.killer-addons > span,
+.killer-offering > span,
+.perk-container > span {
+	text-transform: uppercase;
+}
+
+.killer-container,
+.top-row,
+.perk-container > div,
+.addons-container {
+	display: flex;
+	align-items: center;
+}
+
+.killer-container > div,
+.killer-offering,
+.killer-power {
+	display: flex;
+	flex-direction: column;
+}
+
+.top-row {
+	align-items: center;
+}
+
+.top-row > span {
+	font-size: 48px;
+	font-weight: bold;
+}
+
+.perk-container img {
+	background-image: url('../../../public/Assets/perk-bg.png');
+}
+
+.addons-container img {
+	width: 80%;
+	background-image: url('../../../public/Assets/addon-bg-ph.png');
+}
+
+.killer-power img {
+	background-image: url('../../../public/Assets/addon-bg-ph.png');
+	opacity: 50%;
+}
+
+.killer-char div {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 326px;
+	height: 468px;
+	margin-right: 8px;
+	border: 3px solid black;
+	background-color: rgba(255, 255, 255, 0.05);
+	overflow: hidden;
+}
+
+.killer-char img {
+	width: 512px;
+	height: 512px;
+}

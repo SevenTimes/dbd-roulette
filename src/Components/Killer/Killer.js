@@ -1,7 +1,11 @@
 import killers from '../../Data/killers.json';
 import KillerChar from './KillerChar';
-import KillerPerk from './KillerPerk';
+import KillerPower from './KillerPower';
+import KillerAddons from './KillerAddons';
 import KillerOffering from './KillerOffering';
+import KillerPerk from './KillerPerk';
+
+import './Killer.css';
 
 import { shuffleArray } from '../../Utils/shuffleArray';
 import { useState } from 'react';
@@ -24,24 +28,31 @@ const Killer = () => {
 		setRandomOffering(shuffleArray(offerings));
 	};
 
+	const getPerks = () => {
+		return randomPerks.map((perk, index) => {
+			return <KillerPerk perk={perk} key={perk.name} index={index} />;
+		});
+	};
+
 	return (
-		<div className="killer-container">
-			<h1>{randomChar.name}</h1>
-			<>
-				<KillerOffering offering={randomOffering} />
-				<KillerChar
-					char={randomChar.name}
-					power={randomChar.power.name}
-					addons={randomAddons}
-				/>
-			</>
-			<div className="perk-container">
-				{randomPerks.map((perk, index) => {
-					return <KillerPerk perk={perk} key={perk.name} index={index} />;
-				})}
+		<>
+			<div className="killer-container">
+				<KillerChar char={randomChar.name} />
+				<div>
+					<div className="top-row">
+						<KillerPower char={randomChar.name} power={randomChar.power.name} />
+						<span>+</span>
+						<KillerAddons char={randomChar.name} addons={randomAddons} />
+						<KillerOffering offering={randomOffering} />
+					</div>
+					<div className="perk-container">
+						<span>Perks</span>
+						<div>{getPerks()}</div>
+					</div>
+				</div>
 			</div>
 			<button onClick={handleRandom}>Randomize</button>
-		</div>
+		</>
 	);
 };
 
