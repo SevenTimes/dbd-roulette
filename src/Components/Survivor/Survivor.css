@@ -1,0 +1,65 @@
+.survivor-char > span,
+.survivor-item > span,
+.item-addons > span,
+.survivor-offering > span,
+.perk-container > span {
+	text-transform: uppercase;
+}
+
+.survivor-container,
+.top-row,
+.perk-container > div,
+.addons-container {
+	display: flex;
+	align-items: center;
+}
+
+.survivor-container > div,
+.survivor-offering,
+.survivor-item {
+	display: flex;
+	flex-direction: column;
+}
+
+.top-row {
+	align-items: center;
+}
+
+.survivor-char div {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 326px;
+	height: 460px;
+	margin-right: 8px;
+	border: 3px solid black;
+	background-color: rgba(255, 255, 255, 0.05);
+	overflow: hidden;
+}
+
+.survivor-char img {
+	width: 512px;
+	height: 512px;
+}
+
+.item-common {
+	background-image: url('../../../public/Assets/item-bgs/common.png');
+}
+.item-uncommon {
+	background-image: url('../../../public/Assets/item-bgs/uncommon.png');
+}
+.item-rare {
+	background-image: url('../../../public/Assets/item-bgs/rare.png');
+}
+.item-veryRare {
+	background-image: url('../../../public/Assets/item-bgs/veryRare.png');
+}
+.item-ultraRare {
+	background-image: url('../../../public/Assets/item-bgs/ultraRare.png');
+}
+
+.survivor-offering img {
+	background-position: center;
+	background-size: contain;
+	background-repeat: no-repeat;
+}

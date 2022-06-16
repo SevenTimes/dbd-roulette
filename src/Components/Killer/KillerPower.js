@@ -1,5 +1,3 @@
-import KillerAddons from './KillerAddons';
-
 const KillerPower = (props) => {
 	const { char, power } = props;
 

@@ -8,7 +8,6 @@ const KillerChar = (props) => {
 				<img
 					src={`./Assets/Killers/Characters/${char}/${char}.png`}
 					alt={char}
-					className="killer-char-icon"
 				/>
 			</div>
 		</div>

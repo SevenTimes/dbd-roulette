@@ -3,11 +3,11 @@ import KillerChar from './KillerChar';
 import KillerPower from './KillerPower';
 import KillerAddons from './KillerAddons';
 import KillerOffering from './KillerOffering';
-import KillerPerk from './KillerPerk';
 
 import './Killer.css';
 
 import { shuffleArray } from '../../Utils/shuffleArray';
+import { getPerks } from '../../Utils/getPerks';
 import { useState } from 'react';
 
 const Killer = () => {
@@ -28,12 +28,6 @@ const Killer = () => {
 		setRandomOffering(shuffleArray(offerings));
 	};
 
-	const getPerks = () => {
-		return randomPerks.map((perk, index) => {
-			return <KillerPerk perk={perk} key={perk.name} index={index} />;
-		});
-	};
-
 	return (
 		<>
 			<div className="killer-container">
@@ -47,7 +41,7 @@ const Killer = () => {
 					</div>
 					<div className="perk-container">
 						<span>Perks</span>
-						<div>{getPerks()}</div>
+						<div>{getPerks('killer', randomPerks)}</div>
 					</div>
 				</div>
 			</div>

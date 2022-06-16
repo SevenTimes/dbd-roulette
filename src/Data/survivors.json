@@ -530,71 +530,87 @@
 				{
 					"name": "Flashlight",
 					"description": "A standard Flashlight. <br /> Can be used to light your way in the darkness. <br /> The <i>Flashlight</i> has a Battery Life of <span class='description-value'>8 seconds</span>.",
-					"type": "Flashlight"
+					"type": "Flashlight",
+					"rarity": "uncommon"
 				},
 				{
 					"name": "Sport Flashlight",
 					"description": "A very portable Flashlight with a good grip. <br /> Its efficient technology produces a powerful light while consuming less power. <ul> <li><b>Increased</b> Aim accuracy of <span class='description-value'>+20 %</span>.</li> <li><b>Decreased</b> Battery Depletion rate of <span class='description-value-additional'>-11 %</span>.</li> </ul> The <i>Sport Flashlight</i> has a Battery Life of <span class='description-red'>8 seconds</span>.",
-					"type": "Flashlight"
+					"type": "Flashlight",
+					"rarity": "rare"
 				},
 				{
 					"name": "Utility Flashlight",
 					"description": "A sturdy but heavy Flashlight that packs a lot of power. <ul> <li><b>Increased</b> Beam brightness of <span class='description-value'>+30 %</span>.</li> <li><b>Increased</b> Blindness duration of <span class='description-value-additional'>+15 %</span>.</li> <li><b>Reduced</b> Aim accuracy of <span class='description-red'>-20 %</span>.</li> </ul> The <i>Utility Flashlight</i> has a Battery Life of <span class='t3'>12 seconds</span>.",
-					"type": "Flashlight"
+					"type": "Flashlight",
+					"rarity": "veryRare"
 				}
 			],
 			"addons": [
 				{
 					"name": "Wide Lens",
-					"description": "A thing wide lens in perfect condition. <br /> Designed to spread the Flashlight beam at the cost of reducing its range of effectiveness. <ul> <li><b>Increases</b> the Beam width of the <i>Flashlight</i> by <span class='description-value'>+25 %</span>.</li> <li><b>Shortens</b> the Beam reach of the <i>Flashlight</i> by <span class='description-value-additional'>-25 %</span>.</li> </ul>"
+					"description": "A thing wide lens in perfect condition. <br /> Designed to spread the Flashlight beam at the cost of reducing its range of effectiveness. <ul> <li><b>Increases</b> the Beam width of the <i>Flashlight</i> by <span class='description-value'>+25 %</span>.</li> <li><b>Shortens</b> the Beam reach of the <i>Flashlight</i> by <span class='description-value-additional'>-25 %</span>.</li> </ul>",
+					"rarity": "common"
 				},
 				{
 					"name": "Power Bulb",
-					"description": "A tiny Flashlight bulb that packs more wattage for a brighter, more powerful light beam. <ul> <li><b>Increases</b> the Beam brightness of the <i>Flashlight</i> by <span class='description-value'>+20 %</span>.</li> <li><b>Increases</b> the Blindness duration of the <i>Flashlight</i> by <span class='description-value-additional'>+10 %</span>.</li> </ul>"
+					"description": "A tiny Flashlight bulb that packs more wattage for a brighter, more powerful light beam. <ul> <li><b>Increases</b> the Beam brightness of the <i>Flashlight</i> by <span class='description-value'>+20 %</span>.</li> <li><b>Increases</b> the Blindness duration of the <i>Flashlight</i> by <span class='description-value-additional'>+10 %</span>.</li> </ul>",
+					"rarity": "common"
 				},
 				{
 					"name": "Leather Grip",
-					"description": "A leather strip wrapped around the Flashlight for more grip. <ul> <li><b>Increases</b> the Aim accuracy of the <i>Flashlight</i> by <span class='description-value'>+20 %</span>.</li> </ul>"
+					"description": "A leather strip wrapped around the Flashlight for more grip. <ul> <li><b>Increases</b> the Aim accuracy of the <i>Flashlight</i> by <span class='description-value'>+20 %</span>.</li> </ul>",
+					"rarity": "common"
 				},
 				{
 					"name": "Battery",
-					"description": "A standard battery of unknown brand. <ul> <li><b>Extends</b> the Battery life of the <i>Flashlight</i> by <span class='description-value'>+2 seconds</span>.</li> </ul>"
+					"description": "A standard battery of unknown brand. <ul> <li><b>Extends</b> the Battery life of the <i>Flashlight</i> by <span class='description-value'>+2 seconds</span>.</li> </ul>",
+					"rarity": "common"
 				},
 				{
 					"name": "TIR Optic",
-					"description": "A lens and reflector combo which can magnify a Flashlight's beam. <ul> <li><b>Increases</b> the Beam brightness of the <i>Flashlight</i> by <span class='description-value'>+30 %</span>.</li> <li><b>Increases</b> the Blindness duration of the <i>Flashlight</i> by <span class='description-value-additional'>+15 %</span>.</li> </ul>"
+					"description": "A lens and reflector combo which can magnify a Flashlight's beam. <ul> <li><b>Increases</b> the Beam brightness of the <i>Flashlight</i> by <span class='description-value'>+30 %</span>.</li> <li><b>Increases</b> the Blindness duration of the <i>Flashlight</i> by <span class='description-value-additional'>+15 %</span>.</li> </ul>",
+					"rarity": "uncommon"
 				},
 				{
 					"name": "Rubber Grip",
-					"description": "A rubber grip specifically fitting Flashlights for more grip. <l> <li><b>Increases</b> the Aim accuracy of the <i>Flashlight</i> by <span class='description-value'>+40 %</span>.</li> </l>"
+					"description": "A rubber grip specifically fitting Flashlights for more grip. <l> <li><b>Increases</b> the Aim accuracy of the <i>Flashlight</i> by <span class='description-value'>+40 %</span>.</li> </l>",
+					"rarity": "uncommon"
 				},
 				{
 					"name": "Low Amp Filament",
-					"description": "A filament bulb designed to extend a Flashlight battery's life. <ul> <li><b>Decreases</b> the Battery Depletion rate of the <i>Flashlight</i> by <span class='description-value'>-20 %</span>.</li> </ul>"
+					"description": "A filament bulb designed to extend a Flashlight battery's life. <ul> <li><b>Decreases</b> the Battery Depletion rate of the <i>Flashlight</i> by <span class='description-value'>-20 %</span>.</li> </ul>",
+					"rarity": "uncommon"
 				},
 				{
 					"name": "Heavy Duty Battery",
-					"description": "A battery marked as \"<i>industrial strength</i>\". <ul> <li><b>Extends</b> the Battery life of the <i>Flashlight</i> by <span class='description-value'>+4 seconds</span>.</li> </ul>"
+					"description": "A battery marked as \"<i>industrial strength</i>\". <ul> <li><b>Extends</b> the Battery life of the <i>Flashlight</i> by <span class='description-value'>+4 seconds</span>.</li> </ul>",
+					"rarity": "uncommon"
 				},
 				{
 					"name": "Focus Lens",
-					"description": "A thick glass lens that focuses the Flashlight beam to increase its intensity. <ul> <li><i>Extends</i> the Beam reach of the <i>Flashlight</i> by <span class='description-value'>+25 %</span>.</li> <li><i>Increases</i> the Beam brightness of the <i>Flashlight</i> by <span class='description-value-additional'>+20 %</span>.</li> <li><i>Increases</i> the Blindness duration of the <i>Flashlight</i> by <span class='description-red'>+10 %</span>.</li> <li><i>Decreases</i> the Beam width of the <i>Flashlight</i> by <span class='t3'>-15 %</span>.</li> </ul>"
+					"description": "A thick glass lens that focuses the Flashlight beam to increase its intensity. <ul> <li><i>Extends</i> the Beam reach of the <i>Flashlight</i> by <span class='description-value'>+25 %</span>.</li> <li><i>Increases</i> the Beam brightness of the <i>Flashlight</i> by <span class='description-value-additional'>+20 %</span>.</li> <li><i>Increases</i> the Blindness duration of the <i>Flashlight</i> by <span class='description-red'>+10 %</span>.</li> <li><i>Decreases</i> the Beam width of the <i>Flashlight</i> by <span class='t3'>-15 %</span>.</li> </ul>",
+					"rarity": "uncommon"
 				},
 				{
 					"name": "Long Life Battery",
-					"description": "A recent model of battery that lasts longer. <ul> <li><b>Extends</b> the Battery life of the <i>Flashlight</i> by <span class='description-value'>+6 seconds</span>.</li> </ul>"
+					"description": "A recent model of battery that lasts longer. <ul> <li><b>Extends</b> the Battery life of the <i>Flashlight</i> by <span class='description-value'>+6 seconds</span>.</li> </ul>",
+					"rarity": "rare"
 				},
 				{
 					"name": "Intense Halogen",
-					"description": "A chemical bulb that generates an intensely clear light. <ul> <li><b>Increases</b> the Beam brightness of the <i>Flashlight</i> by <span class='description-value'>+40 %</span>.</li> <li><b>Increases</b> the Blindness duration of the <i>Flashlight</i> by <span class='description-value-additional'>+20 %</span>.</li> </ul>"
+					"description": "A chemical bulb that generates an intensely clear light. <ul> <li><b>Increases</b> the Beam brightness of the <i>Flashlight</i> by <span class='description-value'>+40 %</span>.</li> <li><b>Increases</b> the Blindness duration of the <i>Flashlight</i> by <span class='description-value-additional'>+20 %</span>.</li> </ul>",
+					"rarity": "rare"
 				},
 				{
 					"name": "High-End Sapphire Lens",
-					"description": "A wide lens made of un-scratch-able sapphire that optimises the power and range of the light beam. <ul> <li><b>Extends</b> the Beam reach of the <i>Flashlight</i> by <span class='description-value'>+25 %</span>.</li> <li><b>Increases</b> the Beam brightness of the <i>Flashlight</i> by <span class='description-value-additional'>+30 %</span>.</li> <li><b>Increases</b> the Blindness duration of the <i>Flashlight</i> by <span class='description-red'>+15 %</span>.</li> <li><b>Decreases</b> the Beam width of the <i>Flashlight</i> by <span class='t3'>+25 %</span>.</li> </ul>"
+					"description": "A wide lens made of un-scratch-able sapphire that optimises the power and range of the light beam. <ul> <li><b>Extends</b> the Beam reach of the <i>Flashlight</i> by <span class='description-value'>+25 %</span>.</li> <li><b>Increases</b> the Beam brightness of the <i>Flashlight</i> by <span class='description-value-additional'>+30 %</span>.</li> <li><b>Increases</b> the Blindness duration of the <i>Flashlight</i> by <span class='description-red'>+15 %</span>.</li> <li><b>Decreases</b> the Beam width of the <i>Flashlight</i> by <span class='t3'>+25 %</span>.</li> </ul>",
+					"rarity": "veryRare"
 				},
 				{
 					"name": "Odd Bulb",
-					"description": "A heavy and completely opaque bulb of unknown origin which emits a faint light even when turned off. <ul> <li><b>Increases</b> the Beam brightness of the <i>Flashlight</i> by <span class='description-value'>+50 %</span>.</li> <li><b>Increases</b> the Blindness duration of the <i>Flashlight</i> by <span class='description-value-additional'>+25 %</span>.</li> <li><b>Increases</b> the Battery Depletion rate of the <i>Flashlight</i> by <span class='description-red'>+14 %</span>.</li> </ul>"
+					"description": "A heavy and completely opaque bulb of unknown origin which emits a faint light even when turned off. <ul> <li><b>Increases</b> the Beam brightness of the <i>Flashlight</i> by <span class='description-value'>+50 %</span>.</li> <li><b>Increases</b> the Blindness duration of the <i>Flashlight</i> by <span class='description-value-additional'>+25 %</span>.</li> <li><b>Increases</b> the Battery Depletion rate of the <i>Flashlight</i> by <span class='description-red'>+14 %</span>.</li> </ul>",
+					"rarity": "ultraRare"
 				}
 			]
 		},
@@ -603,55 +619,67 @@
 				{
 					"name": "Broken Key",
 					"description": "The bow and shank of a key, vibrating with remnant power. <br /> Its power cannot be triggered by itself. <br /> Various objects can be attached to its jump ring, which channels the <i>Broken Key's</i> power into various effects. <ul> <li>Must be equipped with Add-ons to unlock its Aura-reading abilities.</li> <li>Cannot be used to open a closed Hatch.</li> </ul> The <i>Broken Key's</i> Aura-reading abilities can be used for <span class='description-value'>10 seconds</span>.",
-					"type": "Key"
+					"type": "Key",
+					"rarity": "rare"
 				},
 				{
 					"name": "Dull Key",
 					"description": "A bent and dull Key that once held great power. <br /> Its power cannot be triggered by itself. <br /> Various objects can be attached to its jump ring, which channels the <i>Dull Key's</i> power into various effects. <ul> <li>Must be equipped with Add-ons to unlock its Aura-reading abilities.</li> <li>Can be consumed to open a closed Hatch, if not depleted of Charges.</li> </ul> The <i>Dull Key's</i> Aura-reading abilities can be used for <span class='description-value'>5 seconds</span>.",
-					"type": "Key"
+					"type": "Key",
+					"rarity": "veryRare"
 				},
 				{
 					"name": "Skeleton Key",
 					"description": "A tarnished and crooked Key, vibrating with ominous power. <br /> Its power cannot be triggered by itself. <br /> Various objects can be attached to its jump ring, which channels the <i>Skeleton Key's</i> power into various effects. <ul> <li>Must be equipped with Add-ons to unlock its Aura-reading abilities.</li> <li>Can be consumed to open a closed Hatch, if not depleted of Charges.</li> </ul> The <i>Skeleton Key's</i> Aura-reading abilities can be used for <span class='description-value'>30 seconds</span>.",
-					"type": "Key"
+					"type": "Key",
+					"rarity": "ultraRare"
 				}
 			],
 			"addons": [
 				{
 					"name": "Prayer Rope",
-					"description": "Tightly knitted rope used in praying rituals. <ul> <li><b>Adds</b> <span class='description-value'>10 seconds</span> of use to the <i>Key</i>.</li> </ul>"
+					"description": "Tightly knitted rope used in praying rituals. <ul> <li><b>Adds</b> <span class='description-value'>10 seconds</span> of use to the <i>Key</i>.</li> </ul>",
+					"rarity": "common"
 				},
 				{
 					"name": "Scratched Pearl",
-					"description": "A porous and scratched white pearl. <br /> A minuscule jump ring allows the pearl to be attached to the Key. <ul> <li><b>Increases</b> the <i>Key's</i> Aura-reading range by <span class='description-value'>+12 metres</span>.</li> </ul>"
+					"description": "A porous and scratched white pearl. <br /> A minuscule jump ring allows the pearl to be attached to the Key. <ul> <li><b>Increases</b> the <i>Key's</i> Aura-reading range by <span class='description-value'>+12 metres</span>.</li> </ul>",
+					"rarity": "uncommon"
 				},
 				{
 					"name": "Prayer Beads",
-					"description": "A chain of matte beads of various sizes used in praying ritual. <ul> <li><b>Adds</b> <span class='description-value'>15 seconds</span> of use to the <i>Key</i>.</li> </ul>"
+					"description": "A chain of matte beads of various sizes used in praying ritual. <ul> <li><b>Adds</b> <span class='description-value'>15 seconds</span> of use to the <i>Key</i>.</li> </ul>",
+					"rarity": "uncommon"
 				},
 				{
 					"name": "Eroded Token",
-					"description": "A heavily worn out token made of brass. <br /> If an inscription or drawing was once engraved in it, it has today completely disappeared. <br /> Can be attached to the Key using its jump ring to channel the Key's Aura-reading ability. <ul> <li>Unlocks the ability to reveal the Auras of other Survivors within <span class='description-value'>24 metres</span>.</li> </ul>"
+					"description": "A heavily worn out token made of brass. <br /> If an inscription or drawing was once engraved in it, it has today completely disappeared. <br /> Can be attached to the Key using its jump ring to channel the Key's Aura-reading ability. <ul> <li>Unlocks the ability to reveal the Auras of other Survivors within <span class='description-value'>24 metres</span>.</li> </ul>",
+					"rarity": "uncommon"
 				},
 				{
 					"name": "Gold Token",
-					"description": "A gold token with a dull appearance. <br /> Both faces are smooth and void of any inscriptions. <br /> Can be attached to the Key using its jump ring to channel the Key's Aura-reading ability. <ul> <li>Unlocks the ability to reveal the Auras of other Survivors within <span class='description-value'>48 metres</span>.</li> </ul>"
+					"description": "A gold token with a dull appearance. <br /> Both faces are smooth and void of any inscriptions. <br /> Can be attached to the Key using its jump ring to channel the Key's Aura-reading ability. <ul> <li>Unlocks the ability to reveal the Auras of other Survivors within <span class='description-value'>48 metres</span>.</li> </ul>",
+					"rarity": "rare"
 				},
 				{
 					"name": "Weaved Ring",
-					"description": "A mundane key ring in appearance with an unusual bluish dark sheen. <br /> The ring binds the Key to the user, preventing its loss even in the darkest of times. <ul> <li>In case of death, lose this Add-on instead of the <i>Key</i> itself.</li> </ul>"
+					"description": "A mundane key ring in appearance with an unusual bluish dark sheen. <br /> The ring binds the Key to the user, preventing its loss even in the darkest of times. <ul> <li>In case of death, lose this Add-on instead of the <i>Key</i> itself.</li> </ul>",
+					"rarity": "veryRare"
 				},
 				{
 					"name": "Milky Glass",
-					"description": "This opaque piece of glass emits a dull vibrating noise. <br /> When the Key is used to unlock the Hatch, the glass token protects the Key from breaking, channelling The Black Fog's energy into the glass instead. <ul> <li>Opening the Hatch with a <i>Key</i> loses this Add-on instead of the <i>Key</i> itself.</li> </ul>"
+					"description": "This opaque piece of glass emits a dull vibrating noise. <br /> When the Key is used to unlock the Hatch, the glass token protects the Key from breaking, channelling The Black Fog's energy into the glass instead. <ul> <li>Opening the Hatch with a <i>Key</i> loses this Add-on instead of the <i>Key</i> itself.</li> </ul>",
+					"rarity": "veryRare"
 				},
 				{
 					"name": "Blood Amber",
-					"description": "A blood-red amber striped with black veins. <br /> The amber is warm to the touch. <br /> Can be attached to the Key using its jump ring to channel the Key's Aura-reading ability. <ul> <li>Unlocks the ability to reveal the Aura of the Killer within <span class='description-value'>32 metres</span>.</li> <li><b>Increases</b> the <i>Key's</i> Depletion rate by <span class='description-value'>+100 %</span>.</li> </ul>"
+					"description": "A blood-red amber striped with black veins. <br /> The amber is warm to the touch. <br /> Can be attached to the Key using its jump ring to channel the Key's Aura-reading ability. <ul> <li>Unlocks the ability to reveal the Aura of the Killer within <span class='description-value'>32 metres</span>.</li> <li><b>Increases</b> the <i>Key's</i> Depletion rate by <span class='description-value'>+100 %</span>.</li> </ul>",
+					"rarity": "veryRare"
 				},
 				{
 					"name": "Unique Wedding Ring",
-					"description": "An engraved wedding ring that emerged from The Fog and resonates with an indescribable and incomprehensible energy. <ul> <li>Reveals the Aura of the <b><i>Obsession</i></b> at all times, without the need to channel the <i>Key's</i> energy.</li> </ul> Lowers the odds of becoming the Killer's initial <b><i>Obsession</i></b> by <span class='description-value'>-100 %</span>."
+					"description": "An engraved wedding ring that emerged from The Fog and resonates with an indescribable and incomprehensible energy. <ul> <li>Reveals the Aura of the <b><i>Obsession</i></b> at all times, without the need to channel the <i>Key's</i> energy.</li> </ul> Lowers the odds of becoming the Killer's initial <b><i>Obsession</i></b> by <span class='description-value'>-100 %</span>.",
+					"rarity": "veryRare"
 				}
 			]
 		},
@@ -660,50 +688,61 @@
 				{
 					"name": "Map",
 					"description": "An old piece of parchment made out of a skin-like material that is rolled and sealed with an uncoloured leather string. <br /> Holding and channelling the <i>Map</i> unlocks great potential in your Aura-reading abilities, revealing the Aura of all tracked objects at the cost of slowly burning it. <ul> <li>Start the Trial with <span class='description-value'>1 Generator</span> tracked.</li> </ul> The <i>Map</i> tracks any of the following objects: <ul> <li>Generators within <span class='description-value-additional'>8 metres</span>.</li> <li>Generators, Chests, and Totems revealed by Detective's Hunch.</li> </ul> The <i>Map</i> lasts for <span class='description-red'>20 seconds</span>.",
-					"type": "Map"
+					"type": "Map",
+					"rarity": "rare"
 				},
 				{
 					"name": "Rainbow Map",
 					"description": "An piece of parchment made out of oddly fresh skin with blood on its edge that has yet to dry, and that is rolled and sealed with multiple coloured ropes and cords. <br /> Holding and channelling the <i>Rainbow Map</i> unlocks great potential in your Aura-reading abilities, revealing the Aura of all tracked objects at the cost of slowly burning it. <ul> <li>Start the Trial with <span class='description-value'>3 random objects</span> tracked.</li> </ul> The <i>Rainbow Map</i> tracks any of the following objects: <ul> <li>Exit Gate Switches, Generators, and the Hatch when you come within <span class='description-value-additional'>8 metres</span>.</li> <li>Various Killer Belongings when you come within <span class='description-red'>8 metres</span></li> <li>Generators, Chests, and Totems revealed by Detective's Hunch.</li> </ul> The <i>Rainbow Map</i> lasts for <span class='t3'>20 seconds</span>.",
-					"type": "Map"
+					"type": "Map",
+					"rarity": "ultraRare"
 				}
 			],
 			"addons": [
 				{
 					"name": "Map Addendum",
-					"description": "A fragmented piece of a thick fibrous material. <br /> A partial and faded map is drawn on it which by itself is useless. <ul> <li><b>Adds</b> <span class='description-value'>5 seconds</span> of use to the <i>Map</i>.</li> </ul>"
+					"description": "A fragmented piece of a thick fibrous material. <br /> A partial and faded map is drawn on it which by itself is useless. <ul> <li><b>Adds</b> <span class='description-value'>5 seconds</span> of use to the <i>Map</i>.</li> </ul>",
+					"rarity": "common"
 				},
 				{
 					"name": "Yellow Wire",
-					"description": "A small electrical wire. <br /> Both ends are heavily damaged like it has been forcefully torn out of its intended location. <br /> Can be tied around the Map to enhance its Aura-reading ability. <ul> <li>Unlocks the ability to track the Exit Gate Switches.</li> </ul>"
+					"description": "A small electrical wire. <br /> Both ends are heavily damaged like it has been forcefully torn out of its intended location. <br /> Can be tied around the Map to enhance its Aura-reading ability. <ul> <li>Unlocks the ability to track the Exit Gate Switches.</li> </ul>",
+					"rarity": "uncommon"
 				},
 				{
 					"name": "Unusual Stamp",
-					"description": "A wooden stamp with a cross-hatched rubber pad used to mark documents. <br /> It is unclear as to how or by whom this stamp was originally used. <ul> <li><b>Increases</b> the <i>Map's</i> Tracking range by <span class='description-value'>+8 metres</span>.</li> </ul>"
+					"description": "A wooden stamp with a cross-hatched rubber pad used to mark documents. <br /> It is unclear as to how or by whom this stamp was originally used. <ul> <li><b>Increases</b> the <i>Map's</i> Tracking range by <span class='description-value'>+8 metres</span>.</li> </ul>",
+					"rarity": "uncommon"
 				},
 				{
 					"name": "Retardant Jelly",
-					"description": "A slimy, translucent substance with a ghastly lavender shade. <br /> This jelly from unknown origin is highly resistant to heat. <ul> <li><b>Decreases</b> the <i>Map's</i> Depletion rate by <span class='description-value'>-20 %</span>.</li> </ul>"
+					"description": "A slimy, translucent substance with a ghastly lavender shade. <br /> This jelly from unknown origin is highly resistant to heat. <ul> <li><b>Decreases</b> the <i>Map's</i> Depletion rate by <span class='description-value'>-20 %</span>.</li> </ul>",
+					"rarity": "uncommon"
 				},
 				{
 					"name": "Red Twine",
-					"description": "A bristly and rough piece of twine of a deep red colour. <br /> Can be tied around the Map to enhance its Aura-reading ability. <ul> <li>Unlocks the ability to track <b>Killer Belongings</b>.</li> </ul>"
+					"description": "A bristly and rough piece of twine of a deep red colour. <br /> Can be tied around the Map to enhance its Aura-reading ability. <ul> <li>Unlocks the ability to track <b>Killer Belongings</b>.</li> </ul>",
+					"rarity": "uncommon"
 				},
 				{
 					"name": "Glass Bead",
-					"description": "A strange bead circled with gold that can be used to magnify the map and mark a specific position. <br /> The bead emits an energy which can be felt and seen by Survivors. <br /> Press the <i>Secondary Action button</i> while using the Map to use the <i>Glass Bead</i>: <ul> <li>Place a <b>Pillar of Light</b> at your current location that can be seen by all Survivors.</li> </ul>"
+					"description": "A strange bead circled with gold that can be used to magnify the map and mark a specific position. <br /> The bead emits an energy which can be felt and seen by Survivors. <br /> Press the <i>Secondary Action button</i> while using the Map to use the <i>Glass Bead</i>: <ul> <li>Place a <b>Pillar of Light</b> at your current location that can be seen by all Survivors.</li> </ul>",
+					"rarity": "uncommon"
 				},
 				{
 					"name": "Odd Stamp",
-					"description": "A stamp carved out of sturdy blonde wood. <br /> The text found at the base is incomprehensible: \"<i>kw'zvre'od</i>\". <ul> <li><b>Increases</b> the <i>Map's</i> Tracking range by <span class='description-value'>+12 metres</span>.</li> </ul>"
+					"description": "A stamp carved out of sturdy blonde wood. <br /> The text found at the base is incomprehensible: \"<i>kw'zvre'od</i>\". <ul> <li><b>Increases</b> the <i>Map's</i> Tracking range by <span class='description-value'>+12 metres</span>.</li> </ul>",
+					"rarity": "rare"
 				},
 				{
 					"name": "Black Silk Cord",
-					"description": "A smooth black cord with a soft appearance. <br /> Can be tied around the Map to enhance its Aura-reading ability. <ul> <li>Unlocks the ability to track the Hatch.</li> </ul>"
+					"description": "A smooth black cord with a soft appearance. <br /> Can be tied around the Map to enhance its Aura-reading ability. <ul> <li>Unlocks the ability to track the Hatch.</li> </ul>",
+					"rarity": "rare"
 				},
 				{
 					"name": "Crystal Bead",
-					"description": "An intricate set of lenses wrapped up in an astonishingly complex apparatus. <br /> The gears controlling the lenses' focus move by themselves as to focus on something invisible to humans. <ul> <li>Reveals the Auras generated by the <i>Map</i> to all Survivors.</li> </ul>"
+					"description": "An intricate set of lenses wrapped up in an astonishingly complex apparatus. <br /> The gears controlling the lenses' focus move by themselves as to focus on something invisible to humans. <ul> <li>Reveals the Auras generated by the <i>Map</i> to all Survivors.</li> </ul>",
+					"rarity": "veryRare"
 				}
 			]
 		},
@@ -712,76 +751,93 @@
 				{
 					"name": "Camping Aid Kit",
 					"description": "A rudimentary First Aid Kit which can save lives in emergencies, even if it's lacking some of its supplies. <ul> <li>Unlocks the Self-Heal action.</li> <li><b>Increased</b> Altruistic Healing speed of <span class='description-value'>+25 %</span>.</li> </ul> The <i>Camping Aid Kit</i> has a Capacity of <span class='description-value-additional'>16 Charges</span>.",
-					"type": "Med-Kit"
+					"type": "Med-Kit",
+					"rarity": "common"
 				},
 				{
 					"name": "First Aid Kit",
 					"description": "A standard First Aid Kit with all the necessary equipment for treating common to more serious injuries. <ul> <li>Unlocks the Self-Heal action.</li> <li><b>Increased</b> Altruistic Healing speed of <span class='description-value'>+35 %</span>.</li> </ul> The <i>First Aid Kit</i> has a Capacity of <span class='description-value-additional'>24 Charges</span>.",
-					"type": "Med-Kit"
+					"type": "Med-Kit",
+					"rarity": "uncommon"
 				},
 				{
 					"name": "Emergency Med-Kit",
 					"description": "A sturdy and well organised Med-Kit equipped with top condition emergency supplies. <ul> <li>Unlocks the Self-Heal action.</li> <li><b>Increased</b> Personal Healing speed of <span class='description-value'>+50 %</span>.</li> <li><b>Increased</b> Altruistic Healing speed of <span class='description-value-additional'>+50 %</span>.</li> </ul> The <i>Emergency Med-Kit</i> has a Capacity of <span class='description-red'>16 Charges</span>.",
-					"type": "Med-Kit"
+					"type": "Med-Kit",
+					"rarity": "rare"
 				},
 				{
 					"name": "Ranger Med-Kit",
 					"description": "A large metal box containing medical supplies aimed at emergency rescues in hard to reach, often isolated locations. <ul> <li>Unlocks the Self-Heal action.</li> <li><b>Increased</b> Altruistic Healing speed of <span class='description-value'>+50 %</span>.</li> <li><b>Increased</b> Good Skill Check zone of <span class='description-value-additional'>+14 %</span>.</li> <li><b>Increased</b> Great Skill Check zone of <span class='description-red'>+15 %</span>.</li> </ul> The <i>Ranger Med-Kit</i> has a Capacity of <span class='t3'>32 Charges</span>.",
-					"type": "Med-Kit"
+					"type": "Med-Kit",
+					"rarity": "veryRare"
 				}
 			],
 			"addons": [
 				{
 					"name": "Rubber Gloves",
-					"description": "Disposable medical gloves to avoid cross-contamination. <ul> <li><b>Increases</b> the Progression bonus of <i>Great Healing Skill Checks</i> by <span class='description-value'>+3 %</span>.</li> </ul>"
+					"description": "Disposable medical gloves to avoid cross-contamination. <ul> <li><b>Increases</b> the Progression bonus of <i>Great Healing Skill Checks</i> by <span class='description-value'>+3 %</span>.</li> </ul>",
+					"rarity": "common"
 				},
 				{
 					"name": "Butterfly Tape",
-					"description": "Medical quality tape used to close small wounds. <ul> <li><b>Increases</b> the <i>Med-Kit's</i> Healing speeds by <span class='description-value'>+5 %</span>.</li> </ul>"
+					"description": "Medical quality tape used to close small wounds. <ul> <li><b>Increases</b> the <i>Med-Kit's</i> Healing speeds by <span class='description-value'>+5 %</span>.</li> </ul>",
+					"rarity": "common"
 				},
 				{
 					"name": "Bandages",
-					"description": "A pack of bandages usually found in First Aid Kits. <ul> <li><b>Increases</b> the <i>Med-Kit's</i> Capacity by <span class='description-value'>+8 Charges</span>.</li> </ul>"
+					"description": "A pack of bandages usually found in First Aid Kits. <ul> <li><b>Increases</b> the <i>Med-Kit's</i> Capacity by <span class='description-value'>+8 Charges</span>.</li> </ul>",
+					"rarity": "common"
 				},
 				{
 					"name": "Sponge",
-					"description": "A mundane sponge used to soak up extra blood, providing easier access to wounds. <ul> <li><b>Increases</b> the Progression bonus of <i>Great Healing Skill Checks</i> by <span class='description-value'>+5 %</span>.</li> </ul>"
+					"description": "A mundane sponge used to soak up extra blood, providing easier access to wounds. <ul> <li><b>Increases</b> the Progression bonus of <i>Great Healing Skill Checks</i> by <span class='description-value'>+5 %</span>.</li> </ul>",
+					"rarity": "uncommon"
 				},
 				{
 					"name": "Self Adherent Wrap",
-					"description": "A pack of bandages that stick to themselves without the need of clips for a faster patch-up that requires less readjustments. <ul> <li><b>Increases</b> the <i>Med-Kit's</i> Healing speeds by <span class='description-value'>+5 %</span>.</li> <li><b>Increases</b> the <i>Med-Kit's</i> Capacity by <span class='description-value-additional'>+8 Charges</span>.</li> </ul>"
+					"description": "A pack of bandages that stick to themselves without the need of clips for a faster patch-up that requires less readjustments. <ul> <li><b>Increases</b> the <i>Med-Kit's</i> Healing speeds by <span class='description-value'>+5 %</span>.</li> <li><b>Increases</b> the <i>Med-Kit's</i> Capacity by <span class='description-value-additional'>+8 Charges</span>.</li> </ul>",
+					"rarity": "uncommon"
 				},
 				{
 					"name": "Needle & Thread",
-					"description": "Not exactly a medical device. <br /> However, it can be used to quickly and painfully close up a wound. <ul> <li><b>Increases</b> the <i>Med-Kit's</i> Healing speeds by <span class='description-value'>+15 %</span>.</li> <li><b>Increases</b> the Trigger odds of Healing Skill Checks by <span class='description-value-additional'>+10 %</span>.</li> <li>Grants <span class='description-red'>100 %</span> bonus Bloodpoints for <i>Great Healing Skill Checks</i>.</li> </ul>"
+					"description": "Not exactly a medical device. <br /> However, it can be used to quickly and painfully close up a wound. <ul> <li><b>Increases</b> the <i>Med-Kit's</i> Healing speeds by <span class='description-value'>+15 %</span>.</li> <li><b>Increases</b> the Trigger odds of Healing Skill Checks by <span class='description-value-additional'>+10 %</span>.</li> <li>Grants <span class='description-red'>100 %</span> bonus Bloodpoints for <i>Great Healing Skill Checks</i>.</li> </ul>",
+					"rarity": "uncommon"
 				},
 				{
 					"name": "Medical Scissors",
-					"description": "Scissors designed to easily cut through textiles. <ul> <li><b>Increases</b> the <i>Med-Kit's</i> Healing speeds by <span class='description-value'>+15 %</span>.</li> </ul>"
+					"description": "Scissors designed to easily cut through textiles. <ul> <li><b>Increases</b> the <i>Med-Kit's</i> Healing speeds by <span class='description-value'>+15 %</span>.</li> </ul>",
+					"rarity": "uncommon"
 				},
 				{
 					"name": "Gauze Roll",
-					"description": "A sterile gauze used for a variety of wounds. <br /> Part of a total wound care system. <ul> <li><b>Increases</b> the <i>Med-Kit's</i> Capacity by <span class='description-value'>+12 Charges</span>.</li> </ul>"
+					"description": "A sterile gauze used for a variety of wounds. <br /> Part of a total wound care system. <ul> <li><b>Increases</b> the <i>Med-Kit's</i> Capacity by <span class='description-value'>+12 Charges</span>.</li> </ul>",
+					"rarity": "uncommon"
 				},
 				{
 					"name": "Surgical Suture",
-					"description": "A medical device used to close and hold body tissue. <br /> Even though it is very effective, the surgical suture is challenging to use. <ul> <li><b>Increases</b> the <i>Med-Kit's</i> Healing speeds by <span class='description-value'>+15 %</span>.</li> <li><b>Increases</b> the Trigger odds of Healing Skill Checks by <span class='description-value-additional'>+15 %</span>.</li> <li>Grants <span class='description-red'>150 %</span> bonus Bloodpoints for <i>Great Healing Skill Checks</i>.</li> </ul>"
+					"description": "A medical device used to close and hold body tissue. <br /> Even though it is very effective, the surgical suture is challenging to use. <ul> <li><b>Increases</b> the <i>Med-Kit's</i> Healing speeds by <span class='description-value'>+15 %</span>.</li> <li><b>Increases</b> the Trigger odds of Healing Skill Checks by <span class='description-value-additional'>+15 %</span>.</li> <li>Grants <span class='description-red'>150 %</span> bonus Bloodpoints for <i>Great Healing Skill Checks</i>.</li> </ul>",
+					"rarity": "rare"
 				},
 				{
 					"name": "Gel Dressings",
-					"description": "A pack of gel forming pads used to patch up heavily exuding wounds. <ul> <li><b>Increases</b> the <i>Med-Kit's</i> Capacity by <span class='description-value'>+16 Charges</span>.</li> </ul>"
+					"description": "A pack of gel forming pads used to patch up heavily exuding wounds. <ul> <li><b>Increases</b> the <i>Med-Kit's</i> Capacity by <span class='description-value'>+16 Charges</span>.</li> </ul>",
+					"rarity": "rare"
 				},
 				{
 					"name": "Abdominal Dressing",
-					"description": "A highly absorbent pad that prevents bodily fluid leakage when applied to large abdominal wounds. <ul> <li><b>Increases</b> the <i>Med-Kit's</i> Healing speeds by <span class='description-value'>+25 %</span>.</li> <li><b>Reduces</b> the <i>Med-Kit's</i> Capacity by <span class='description-value-additional'>-8 Charges</span>.</li> </ul>"
+					"description": "A highly absorbent pad that prevents bodily fluid leakage when applied to large abdominal wounds. <ul> <li><b>Increases</b> the <i>Med-Kit's</i> Healing speeds by <span class='description-value'>+25 %</span>.</li> <li><b>Reduces</b> the <i>Med-Kit's</i> Capacity by <span class='description-value-additional'>-8 Charges</span>.</li> </ul>",
+					"rarity": "rare"
 				},
 				{
 					"name": "Styptic Agent",
-					"description": "A white powder with coagulant properties. <br /> Apply the agent to a wound to stop it from haemorrhaging. <br /> Press the <i>Secondary Action button</i> while healing an injured Survivor with the <i>Med-Kit</i> to use the <i>Styptic Agent</i>: <ul> <li>Grants the <b><i>Endurance</i> Status Effect</b> for <span class='description-value'>8 seconds</span>.</li> <li>Can be used on other Survivors or yourself.</li> <li>Consumes the <i>Med-Kit</i> on use.</li> </ul>"
+					"description": "A white powder with coagulant properties. <br /> Apply the agent to a wound to stop it from haemorrhaging. <br /> Press the <i>Secondary Action button</i> while healing an injured Survivor with the <i>Med-Kit</i> to use the <i>Styptic Agent</i>: <ul> <li>Grants the <b><i>Endurance</i> Status Effect</b> for <span class='description-value'>8 seconds</span>.</li> <li>Can be used on other Survivors or yourself.</li> <li>Consumes the <i>Med-Kit</i> on use.</li> </ul>",
+					"rarity": "veryRare"
 				},
 				{
 					"name": "Anti-Haemorrhagic Syringe",
-					"description": "An anti-haemorrhagic substance that stops the bleeding in a matter of seconds. <br /> Press the <i>Secondary Action button</i> while healing with the <i>Med-Kit</i> to use the <i>Anti-Haemorrhagic Syringe</i>: <ul> <li>Over the next <span class='description-value'>16 seconds</span>, the affected Survivor will passively gain <span class='description-value-additional'>1 Health State</span>.</li> <li>This time is affected by Healing Speed modifiers.</li> <li>The effect is cancelled if the affected Survivor changes their Health State or is picked up by the Killer.</li> <li>Can be used on other Survivors or yourself.</li> <li>Consumes the <i>Med-Kit</i> on use.</li> </ul>"
+					"description": "An anti-haemorrhagic substance that stops the bleeding in a matter of seconds. <br /> Press the <i>Secondary Action button</i> while healing with the <i>Med-Kit</i> to use the <i>Anti-Haemorrhagic Syringe</i>: <ul> <li>Over the next <span class='description-value'>16 seconds</span>, the affected Survivor will passively gain <span class='description-value-additional'>1 Health State</span>.</li> <li>This time is affected by Healing Speed modifiers.</li> <li>The effect is cancelled if the affected Survivor changes their Health State or is picked up by the Killer.</li> <li>Can be used on other Survivors or yourself.</li> <li>Consumes the <i>Med-Kit</i> on use.</li> </ul>",
+					"rarity": "ultraRare"
 				}
 			]
 		},
@@ -790,78 +846,95 @@
 				{
 					"name": "Worn-Out Tools",
 					"description": "A metal box containing out of condition tools that could break at any moment. <br /> Even without training, can be used to repair or break various mechanical components. <ul> <li><b>Increased</b> Generator Repair speed of <span class='description-value'>+50 %</span>.</li> <li><b>Decreased</b> Good Skill Check zone of <span class='description-value-additional'>-10 %</span>.</li> <li>Unlocks the Sabotage action.</li> </ul> The <i>Worn-Out Toolbox</i> has a Capacity of <span class='description-red'>16 Charges</span>.",
-					"type": "Toolbox"
+					"type": "Toolbox",
+					"rarity": "common"
 				},
 				{
 					"name": "Toolbox",
 					"description": "A metal box containing a set of basic tools. <br /> Even without training, can be used to repair or break various mechanical components. <ul> <li><b>Increased</b> Generator Repair speed of <span class='description-value'>+50 %</span>.</li> <li>Unlocks the Sabotage action.</li> <li><b>Increased</b> Hook Sabotage speed of <span class='description-value-additional'>+10 %</span>.</li> </ul> The <i>Toolbox</i> has a Capacity of <span class='description-red'>20 Charges</span>.",
-					"type": "Toolbox"
+					"type": "Toolbox",
+					"rarity": "uncommon"
 				},
 				{
 					"name": "Mechanic's Toolbox",
 					"description": "A metal box with specialised mechanics tools. <br /> Even without training, can be used to repair or break various mechanical components. <ul> <li><b>Increased</b> Generator Repair speed of <span class='description-value'>+75 %</span>.</li> <li>Unlocks the Sabotage action.</li> <li><b>Decreased</b> Hook Sabotage speed of<span class='description-value-additional'>-10 %</span>.</li> </ul> The <i>Mechanic's Toolbox</i> has a Capacity of <span class='description-red'>16 Charges</span>.",
-					"type": "Toolbox"
+					"type": "Toolbox",
+					"rarity": "rare"
 				},
 				{
 					"name": "Commodious Toolbox",
 					"description": "A large metal box containing basic tool and extra mechanical parts. <br /> Even without training, can be used to repair or break various mechanical components. <ul> <li>Increased Generator Repair speed by <span class='description-value'>+50 %</span>.</li> <li>Unlocks the Sabotage action.</li> </ul> The <i>Commodious Toolbox</i> has a Capacity of <span class='description-value-additional'>32 Charges</span>.",
-					"type": "Toolbox"
+					"type": "Toolbox",
+					"rarity": "rare"
 				},
 				{
 					"name": "Engineer's Toolbox",
 					"description": "A metal box with highly specialised tools meant for engineering. <br /> Most of the tools can be used by neophytes to make quick repairs or break various mechanical components. <ul> <li><b>Increased</b> Generator Repair speed of <span class='description-value'>+100 %</span>.</li> <li>Unlocks the Sabotage action.</li> <li><b>Decreased</b> Hook Sabotage speed of <span class='description-value-additional'>-25 %</span>.</li> </ul> The <i>Engineer's Toolbox</i> has a Capacity of <span class='description-red'>16 Charges</span>.",
-					"type": "Toolbox"
+					"type": "Toolbox",
+					"rarity": "veryRare"
 				},
 				{
 					"name": "Alex's Toolbox",
 					"description": "A metal box containing mainly saws and vice grips of varying sizes but also other tools. <br /> Even though the content of this Toolbox is clearly aimed at destructive deeds, it can be used to repair various mechanical components as well. <ul> <li><b>Increased</b> Generator Repair speed of <span class='description-value'>+10 %</span>.</li> <li>Unlocks the Sabotage action.</li> <li><b>Increased</b> Hook Sabotage speed of <span class='description-value-additional'>+50 %</span>.</li> </ul> <i>Alex's Toolbox</i> has a Capacity of <span class='description-red'>24 Charges</span>.",
-					"type": "Toolbox"
+					"type": "Toolbox",
+					"rarity": "veryRare"
 				}
 			],
 			"addons": [
 				{
 					"name": "Scraps",
-					"description": "Springs, screws and gears. <br /> Mostly unusable junk. <ul> <li><b>Increases</b> the Capacity of the <i>Toolbox</i> by <span class='description-value'>+8 charges</span>.</li> </ul>"
+					"description": "Springs, screws and gears. <br /> Mostly unusable junk. <ul> <li><b>Increases</b> the Capacity of the <i>Toolbox</i> by <span class='description-value'>+8 charges</span>.</li> </ul>",
+					"rarity": "common"
 				},
 				{
 					"name": "Instructions",
-					"description": "Someone quickly painted what seems to be repair instructions on this piece of bark. <ul> <li><b>Suppresses</b> all normal Skill Checks that are usually triggered while repairing a Generator.</li> </ul>"
+					"description": "Someone quickly painted what seems to be repair instructions on this piece of bark. <ul> <li><b>Suppresses</b> all normal Skill Checks that are usually triggered while repairing a Generator.</li> </ul>",
+					"rarity": "common"
 				},
 				{
 					"name": "Clean Rag",
-					"description": "A mundane rag. <br /> Suspiciously clean. <ul> <li><b>Increases</b> the Repair speed of the <i>Toolbox</i> by <span class='description-value'>+20 %</span>.</li> </ul>"
+					"description": "A mundane rag. <br /> Suspiciously clean. <ul> <li><b>Increases</b> the Repair speed of the <i>Toolbox</i> by <span class='description-value'>+20 %</span>.</li> </ul>",
+					"rarity": "common"
 				},
 				{
 					"name": "Wire Spool",
-					"description": "A portable but heavy spool of copper wire. <ul> <li><b>Increases</b> the Capacity of the <i>Toolbox</i> by <span class='description-value'>+12 charges</span>.</li> </ul>"
+					"description": "A portable but heavy spool of copper wire. <ul> <li><b>Increases</b> the Capacity of the <i>Toolbox</i> by <span class='description-value'>+12 charges</span>.</li> </ul>",
+					"rarity": "uncommon"
 				},
 				{
 					"name": "Spring Clamp",
-					"description": "Useful tool to clamp hoses or hold wires in place and prevent damage or injury. <ul> <li><b>Reduces</b> the range at which your Generator-Repair noises can be heard by <span class='description-value'>-8 metres</span>.</li> </ul>"
+					"description": "Useful tool to clamp hoses or hold wires in place and prevent damage or injury. <ul> <li><b>Reduces</b> the range at which your Generator-Repair noises can be heard by <span class='description-value'>-8 metres</span>.</li> </ul>",
+					"rarity": "uncommon"
 				},
 				{
 					"name": "Socket Swivels",
-					"description": "Swivels provide bend and flexibility for bolts that are out of reach, deep within mechanical devices. <ul> <li><b>Increases</b> the Repair speed of the <i>Toolbox</i> by <span class='description-value'>+30 %</span>.</li> </ul>"
+					"description": "Swivels provide bend and flexibility for bolts that are out of reach, deep within mechanical devices. <ul> <li><b>Increases</b> the Repair speed of the <i>Toolbox</i> by <span class='description-value'>+30 %</span>.</li> </ul>",
+					"rarity": "uncommon"
 				},
 				{
 					"name": "Protective Gloves",
-					"description": "Thick gloves, which reduce manual dexterity but protect hands from injury. <ul> <li><b>Suppresses</b> the <i>Loud Noise Notification</i> to the Killer that is usually triggered after sabotaging a Hook.</li> </ul>"
+					"description": "Thick gloves, which reduce manual dexterity but protect hands from injury. <ul> <li><b>Suppresses</b> the <i>Loud Noise Notification</i> to the Killer that is usually triggered after sabotaging a Hook.</li> </ul>",
+					"rarity": "uncommon"
 				},
 				{
 					"name": "Cutting Wire",
-					"description": "A rudimentary cutting tool made from a jagged metal wire and two wooden handles. <ul> <li><b>Increases</b> the Sabotage speed of the <i>Toolbox</i> by <span class='description-value'>+15 %</span>.</li> </ul>"
+					"description": "A rudimentary cutting tool made from a jagged metal wire and two wooden handles. <ul> <li><b>Increases</b> the Sabotage speed of the <i>Toolbox</i> by <span class='description-value'>+15 %</span>.</li> </ul>",
+					"rarity": "uncommon"
 				},
 				{
 					"name": "Hacksaw",
-					"description": "A small hand saw mounted with a metal cutting blade. <ul> <li><b>Increases</b> the Sabotage speed of the <i>Toolbox</i> by <span class='description-value'>+20 %</span>.</li> </ul>"
+					"description": "A small hand saw mounted with a metal cutting blade. <ul> <li><b>Increases</b> the Sabotage speed of the <i>Toolbox</i> by <span class='description-value'>+20 %</span>.</li> </ul>",
+					"rarity": "rare"
 				},
 				{
 					"name": "Grip Wrench",
-					"description": "An adjustable wrench with a tough grip. <br /> Essential in any Toolbox. <ul> <li><b>Increases</b> the Auto-Repair timer for sabotaged Hooks by <span class='description-value'>+15 seconds</span>.</li> </ul>"
+					"description": "An adjustable wrench with a tough grip. <br /> Essential in any Toolbox. <ul> <li><b>Increases</b> the Auto-Repair timer for sabotaged Hooks by <span class='description-value'>+15 seconds</span>.</li> </ul>",
+					"rarity": "rare"
 				},
 				{
 					"name": "Brand New Part",
-					"description": "This intricate mechanical part feels oddly out of place. <br /> It is clean and shiny as if straight out of the factory. <ul> <li>Replaces the \"Toolbox Repair\" prompt with \"Install Brand New Part\" instead:</li> <li><ul> <li>Installing the <i>Brand New Part</i> takes <span class='description-value'>5 seconds</span> to complete and adds <span class='description-value-additional'>15 %</span> to the Generator Progression.</li> <li>Triggers <span class='description-red'>2</span> difficult Skill Checks during the Installation process.</li> <li>Succedding each Skill Check adds an additional <span class='t3'>5 %</span> bonus Progression, up to a maximum of <span class='t2'>10 %</span> bonus Progression, and a combined total of up to <span class='description-blue'>25 %</span> Generator Progression.</li> </ul></li> </ul>"
+					"description": "This intricate mechanical part feels oddly out of place. <br /> It is clean and shiny as if straight out of the factory. <ul> <li>Replaces the \"Toolbox Repair\" prompt with \"Install Brand New Part\" instead:</li> <li><ul> <li>Installing the <i>Brand New Part</i> takes <span class='description-value'>5 seconds</span> to complete and adds <span class='description-value-additional'>15 %</span> to the Generator Progression.</li> <li>Triggers <span class='description-red'>2</span> difficult Skill Checks during the Installation process.</li> <li>Succedding each Skill Check adds an additional <span class='t3'>5 %</span> bonus Progression, up to a maximum of <span class='t2'>10 %</span> bonus Progression, and a combined total of up to <span class='description-blue'>25 %</span> Generator Progression.</li> </ul></li> </ul>",
+					"rarity": "ultraRare"
 				}
 			]
 		}

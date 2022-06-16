@@ -2,8 +2,12 @@ import survivors from '../../Data/survivors';
 import SurvivorChar from './SurvivorChar';
 import SurvivorItem from './SurvivorItem';
 import SurvivorOffering from './SurvivorOffering';
-import SurvivorPerk from './SurvivorPerk';
+import SurvivorItemAddons from './SurvivorItemAddons';
+
+import './Survivor.css';
+
 import { shuffleArray } from '../../Utils/shuffleArray';
+import { getPerks } from '../../Utils/getPerks';
 import { useState } from 'react';
 
 const Survivor = () => {
@@ -30,17 +34,26 @@ const Survivor = () => {
 	};
 
 	return (
-		<div className="survivor-container">
-			<SurvivorChar char={randomChar} />
-			<div className="perk-container">
-				{randomPerks.map((perk) => {
-					return <SurvivorPerk perk={perk} key={perk.name} />;
-				})}
+		<>
+			<div className="survivor-container">
+				<SurvivorChar char={randomChar.name} />
+				<div>
+					<div className="top-row">
+						<SurvivorItem item={randomItem.item} />
+						<SurvivorItemAddons
+							addons={randomItem.addons}
+							itemType={randomItem.item.type}
+						/>
+						<SurvivorOffering offering={randomOffering} />
+					</div>
+					<div className="perk-container">
+						<span>Perks</span>
+						<div>{getPerks('survivor', randomPerks)}</div>
+					</div>
+				</div>
 			</div>
-			<SurvivorItem item={randomItem} />
-			<SurvivorOffering offering={randomOffering} />
 			<button onClick={handleRandom}>Randomize</button>
-		</div>
+		</>
 	);
 };
 

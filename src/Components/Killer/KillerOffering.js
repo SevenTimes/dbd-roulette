@@ -10,11 +10,12 @@ const KillerOffering = (props) => {
 			<img
 				src={`./Assets/Killers/Offerings/${offering.name}.png`}
 				alt={offering.name}
+				className={`addon-${offering.rarity}`}
 				data-tip
 				data-for="offering"
 			/>
 			<ReactTooltip className="tooltip" id="offering">
-				<h4>{offering.name}</h4> <br />
+				<h4>{offering.name}</h4>
 				<Markup content={offering.description} />
 			</ReactTooltip>
 		</div>

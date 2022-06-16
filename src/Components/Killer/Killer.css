@@ -25,11 +25,6 @@
 	align-items: center;
 }
 
-.top-row > span {
-	font-size: 48px;
-	font-weight: bold;
-}
-
 .perk-container img {
 	background-image: url('../../../public/Assets/perk-bg.png');
 }
@@ -42,6 +37,28 @@
 .killer-power img {
 	background-image: url('../../../public/Assets/addon-bg-ph.png');
 	opacity: 50%;
+}
+
+.killer-offering img {
+	background-position: center;
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+.addon-common {
+	background-image: url('../../../public/Assets/Dbd-offerings-common.png');
+}
+.addon-uncommon {
+	background-image: url('../../../public/Assets/Dbd-offerings-uncommon.png');
+}
+.addon-rare {
+	background-image: url('../../../public/Assets/Dbd-offerings-rare.png');
+}
+.addon-veryRare {
+	background-image: url('../../../public/Assets/Dbd-offerings-veryrare.png');
+}
+.addon-ultraRare {
+	background-image: url('../../../public/Assets/Dbd-offerings-ultrarare.png');
 }
 
 .killer-char div {

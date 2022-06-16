@@ -1,12 +1,11 @@
 const SurvivorChar = (props) => {
 	const { char } = props;
 	return (
-		<div>
-			<h1>{char.name}</h1>
-			<img
-				src={`./Assets/Survivors/Portraits/${char.name}.png`}
-				alt={char.name}
-			/>
+		<div className="survivor-char">
+			<span>{char}</span>
+			<div>
+				<img src={`./Assets/Survivors/Portraits/${char}.png`} alt={char} />
+			</div>
 		</div>
 	);
 };
