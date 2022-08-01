@@ -2480,7 +2480,7 @@
 		},
 		{
 			"name": "Barbecue & Chilli",
-			"description": "A deep bond with The Entity unlocks potential in one's Aura-reading ability. <br /> After hooking a Survivor, all other Survivors' are revealed to you for <span class='description-value'>4 seconds</span> when they are farther than <span class='description-value-additional'>40 metres</span> from the Hook <ul> <li> Each time a Survivor is hooked for the first time, gain a stack-able <span class='description-red'>25 %</span> bonus to all Bloodpoint gains, up to a maximum of <span class='t1'>50</span>/<span class='t2'>75</span>/<span class='t3' >100</span > %. </li> </ul> <i>The bonus Bloodpoints are only awarded post-Trial.</i>"
+			"description": "A deep bond with The Entity unlocks potential in one's Aura-reading ability. <ul> <li>After hooking a Survivor, all Survivors who are at least <span class='t1'>60</span>/<span class='t2'>50</span>/<span class='t3'>40</span> <b>metres</b> away from that Hook have their Aura revealed to you for <span class='description-value'>4 seconds</span>.</li> </ul>"
 		},
 		{
 			"name": "Beast of Prey",
@@ -2516,11 +2516,11 @@
 		},
 		{
 			"name": "Corrupt Intervention",
-			"description": "Your prayers invoke a dark power that meddles with the Survivors' chances of survival. <br /> At the start of the Trial, the <span class='description-value'>3 Generators</span> located farthest from you are blocked by The Entity for <span class='t1'>80</span>/<span class='t2'>100</span>/<span class='t3'>120</span> seconds."
+			"description": "Your prayers invoke a dark power that meddles with the Survivors' chances of survival. <br /> <ul> <li>At the start of the Trial, the <span class='description-value'>3 Generators</span> located farthest from you are blocked by The Entity for <span class='t1'>80</span>/<span class='t2'>100</span>/<span class='t3'>120</span> <b>seconds</b>.</li> </ul> <i>Corrupt Intervention</i> deactivates prematurely once the first Survivor is put into the Dying State."
 		},
 		{
 			"name": "Coulrophobia",
-			"description": "Your presence alone instils great fear. <br /> The Healing speed of Survivors within your Terror Radius is reduced by <span class='t1'>30</span>/<span class='t2'>40</span>/<span class='t3'>50</span> %."
+			"description": "Your presence alone instils great fear. <br /> <ul> <li><b>Reduces</b> the Healing speed by <span class='t1'>30</span>/<span class='t2'>40</span>/<span class='t3'>50</span> %</li> <li><b>Increases</b> the Rotation speed of Healing Skill Checks by <span class='description-value'>+50 %</span></li> </ul>"
 		},
 		{
 			"name": "Coup de Grâce",
@@ -2528,7 +2528,7 @@
 		},
 		{
 			"name": "Dark Devotion",
-			"description": "The display of your Powers creates a whirlwind of panic that spreads throughout the land. <br /> You become <b><i>obsessed</i></b> with one Survivor. <br /> Hitting the <b><i>Obsession</i></b> with a <i>Basic Attack</i> causes them to emit a Terror Radius of <span class='description-value'>32 metres</span> for the next <span class='t1'>20</span>/<span class='t2'>25</span>/<span class='t3'>30</span> seconds. <br /> <ul> <li>You are granted the <b><i>Undetectable</i> Status Effect</b>.</li> <li>The <b><i>Obsession</i></b> hears their own Terror Radius.</li> </ul> <i>You can only be <b>obsessed</b> with one Survivor at a time.</i>"
+			"description": "The display of your Powers creates a whirlwind of panic that spreads throughout the land. <br /> You become <b><i>obsessed</i></b> with one Survivor. <br /> Whenever the <b><i>Obsession</i></b> loses a Health State by any means and thus enters the Injured State, <i>Dark Devotion</i> activates: <ul> <li>Your Terror Radius transfers to the <b><i>Obsession</i></b> for <span class='t1'>20</span>/<span class='t2'>25</span>/<span class='t3'>30</span> <b>seconds</b>, and its radius is set to <span class='description-value'>32 metres</span></li> <li>Grants the <b><i>Undetectable</i> Status Effect</b> for the same duration.</li> </ul> The <b><i>Obsession</i></b> with your transferred Terror Radius is also considered to be 'inside the Terror Radius' for other purposes. <br /> <i>You can only be <b>obsessed</b> with one Survivor at a time.</i>"
 		},
 		{
 			"name": "Darkness Revealed",
@@ -2576,7 +2576,7 @@
 		},
 		{
 			"name": "Eruption",
-			"description": "The NE-α parasite provides you with the intelligence and awareness needed to set a trap. <br /> After kicking a Generator, its Aura is highlighted in <span class='description-value'>yellow</span>. <ul> <li> When you put a Survivor into the Dying State, every affected Generator explodes and starts regressing, removing the highlighted Aura. <ul> <li> Applies an immediate <span class='description-value'>6 %</span> Progression penalty. </li> </ul> </li> <li> Any Survivor repairing a Generator when it explodes will scream and suffer from the <b><i>Incapacitated</i> Status Effect</b> for <span class='t1'>12</span>/<span class='t2'>14</span>/<span class='t3'>16</span> seconds. </li> </ul> <i>Eruption</i> has a cool-down of <span class='description-value-additional'>30 seconds</span>."
+			"description": "The NE-α parasite provides you with the intelligence and awareness needed to set a trap. <br /> After kicking a Generator, its Aura is highlighted in <span class='description-value'>yellow</span>. <ul> <li> When you put a Survivor into the Dying State by any means, every affected Generator explodes and starts regressing, removing the highlighted Aura. <ul> <li> Applies an immediate <span class='description-value'>-10 %</span> Progression penalty. </li> </ul> </li> <li> Any Survivor repairing a Generator when it explodes will scream and suffer from the <b><i>Incapacitated</i> Status Effect</b> for <span class='t1'>15</span>/<span class='t2'>20</span>/<span class='t3'>25</span> seconds. </li> </ul> <i>Eruption</i> has a cool-down of <span class='description-value-additional'>30 seconds</span>."
 		},
 		{
 			"name": "Fearmonger",
@@ -2632,7 +2632,7 @@
 		},
 		{
 			"name": "Hex: No One Escapes Death",
-			"description": "A Hex rooting its power on hope. <br /> You are animated by the power of your Hex Totem when the Survivors are on the verge of escaping. <br /> Once the Exit Gates are powered and there is at least one Dull Totem remaining in the environment, <i>Hex: No One Escapes Death</i> activates and lights its Totem: <ul> <li><b>Increases</b> your Movement speed by <span class='t1'>2</span>/<span class='t2'>3</span>/<span class='t3'>4</span> %.</li> <li>Survivors suffer from a permanent <b><i>Exposed</i> Status Effect</b>.</li> </ul> <i>Hex: No One Escapes Death</i> remains inactive if no Dull Totems are available. <br /> <i>The Hex effects persist as long as the related Hex Totem is standing.</i>"
+			"description": "A Hex rooting its power on hope. <br /> You are animated by the power of your Hex Totem when the Survivors are on the verge of escaping. <br /> Once the Exit Gates are powered, if there is still a Dull Totem remaining on the map, <i>Hex: No One Escapes Death</i> activates and lights it: <ul> <li><b>Increases</b> your Movement speed by <span class='t1'>2</span>/<span class='t2'>3</span>/<span class='t3'>4</span> %.</li> <li>Survivors suffer from a permanent <b><i>Exposed</i> Status Effect</b>.</li> </ul> <i>Hex: No One Escapes Death</i> remains inactive if no Dull Totems are available. <br /> <i>Hex: No One Escapes Death</i> reveals the Aura of its <b>Hex Totem</b> to all Survivors within <span class='description-value'>4 metres</span> and gradually expands that range to <span class='description-value-additional'>24 metres</span> over the course of <span class='description-red'>30 seconds</span>. <br /> <i>The Hex effects persist until its Hex Totem is cleansed.</i>"
 		},
 		{
 			"name": "Hex: Pentimento",
@@ -2648,7 +2648,7 @@
 		},
 		{
 			"name": "Hex: Ruin",
-			"description": "A Hex that affects all Survivor's Generator Repair progress. <br /> All Generators automatically regress at <span class='t1'>100</span>/<span class='t2'>150</span>/<span class='t3'>200</span> % <b>of the normal Regression speed whenever they are not being repaired</b>. <br /> <i>The Hex effects persist as long as the related Hex Totem is standing.</i>"
+			"description": "A Hex that affects the Generator Repair progress of all Survivors. <ul> <li>Whenever a Generator is not being repaired by a Survivor, it will immediately and automatically regress its Repair progress at <span class='t1'>50</span>/<span class='t2'>75</span>/<span class='t3'>100</span> % of the normal Regression speed.</li> <li>Once any Survivor is killed by any means, <i>Hex: Ruin</i> deactivates and reverts its Hex Totem into a Dull Totem.</li> </ul> <i>The Hex effects persist until its Hex Totem is cleansed.</i>"
 		},
 		{
 			"name": "Hex: The Third Seal",
@@ -2692,15 +2692,15 @@
 		},
 		{
 			"name": "Jolt",
-			"description": "Your eerie presence charges the air and interferes with technology. <br /> When you put a Survivor into the Dying State with your <i>Basic Attack</i>, all Generators within <span class='description-value'>32 metres</span> of you instantly explode and start regressing. <ul> <li>Applies an immediate <span class='description-value-additional'>8 %</span> Progression penalty.</li> </ul> <i>Jolt</i> has a cool-down of <span class='t1'>60</span>/<span class='t2'>50</span>/<span class='t3'>40</span> seconds."
+			"description": "Your eerie presence charges the air and interferes with technology. <br /> When you put a Survivor into the Dying State with your <i>Basic Attack</i>, all Generators within <span class='description-value'>32 metres</span> of you instantly explode and start regressing. <ul> <li>Applies an immediate <span class='t1'>6</span>/<span class='t2'>7</span>/<span class='t3'>8</span> % Progression penalty.</li> </ul> "
 		},
 		{
 			"name": "Knock Out",
-			"description": "The trauma caused by your brutal attacks makes crying for help painfully difficult. <br /> When putting a Survivor into the Dying State with your <i>Basic Attack</i>: <ul> <li>Their Aura is not revealed to any Survivor farther away from them than <span class='t1'>32</span>/<span class='t2'>24</span>/<span class='t3'>16</span> metres.</li> <li>For the next <span class='description-value'>15 seconds</span>, the dying Survivor suffers from a decreased Field of View and the <b><i>Blindness</i> Status Effect</b>, crawls <span class='description-value-additional'>50 %</span> slower, and is temporarily deafened.</li> </ul>"
+			"description": "The trauma caused by your brutal attacks makes crying for help painfully difficult. <br /> Putting a Survivor into the Dying State with your <i>Basic Attack</i> blocks their Aura from being revealed to any Survivor, who is farther than <span class='t1'>32</span>/<span class='t2'>24</span>/<span class='t3'>16</span> <b>metres</b> away from them. <br /> For the next <span class='description-value'>15 seconds</span>, the following effects apply to the dying Survivor: <ul> <li><b>Reduces</b> their <i>Field of View</i> and causes them to be deafened.</li> <li>Suffers from the <b><i>Blindness</i> Status Effect</b>.</li> <li><b>Reduces</b> the Crawling speed by <span class='description-value-additional'>-50 %</span>.</li> <li><b>Reduces</b> the Recovery speed by <span class='description-red'>-25 %</span>.</li> </ul>"
 		},
 		{
 			"name": "Lethal Pursuer",
-			"description": "You have been designed to track down and eliminate targets. <br /> At the start of the Trial, the Auras of all Survivors are revealed to you for <span class='t1'>7</span>/<span class='t2'>8</span>/<span class='t3'>9</span> seconds."
+			"description": "You have been designed to track down and eliminate targets. <br /> <ul> <li>At the start of the Trial, the Auras of all Survivors are revealed to you for <span class='t1'>7</span>/<span class='t2'>8</span>/<span class='t3'>9</span> <b>seconds</b>.</li> <li><b>Extends</b> the duration of a Survivor's Aura being revealed to you by <span class='description-value'>+2 seconds</span>.</li> </ul> <i>Lethal Pursuer</i> benefits from its own effect."
 		},
 		{
 			"name": "Lightborn",
@@ -2722,10 +2722,7 @@
 			"name": "Monitor & Abuse",
 			"description": "Meticulous in your approach, terrifying in your application. <br /> Your base Terror Radius is increased by <span class='description-value'>8 metres</span>. <ul> <li> Whenever you are outside of a Chase, your Terror Radius is reduced by <span class='description-value-additional'>16 metres</span> while your Field of View is increased by <span class='t1'>3</span>/<span class='t2'>5</span>/<span class='t3'>10</span> °. </li> </ul> <i>Field of View gains do not stack.</i>"
 		},
-		{
-			"name": "Monstrous Shrine",
-			"description": "Your fervent care of the Hooks found in the Basement has aroused The Entity's interest. <br /> The Basement Hooks possess the following benefits: <ul> <li><b>Accelerates</b> Sacrifice Progression by <span class='t1'>3</span>/<span class='t2'>6</span>/<span class='t3'>9</span> %.</li> <li><b>Increases</b> Self-Unhook difficulty by <span class='t1'>5</span>/<span class='t2'>10</span>/<span class='t3'>15</span> %.</li> <li><b>Increases</b> Self-Unhook penalty by <span class='t1'>3</span>/<span class='t2'>6</span>/<span class='t3'>9</span> %.</li> </ul>"
-		},
+
 		{
 			"name": "Nemesis",
 			"description": "You seek retribution on those who have wronged you. <ul> <li>Any Survivor who blinds or stuns you becomes the <b><i>Obsession</i></b>.</li> <li>Anytime your <b><i>Obsession</i></b> by any means, that Survivor then suffers from the <b><i>Oblivious</i> Status Effect</b> for <span class='t1'>40</span>/<span class='t2'>50</span>/<span class='t3'>60</span> seconds <b>and their Aura is revealed to you for</b> <span class='description-value'>4 seconds</span>.</li> </ul> <i>You can only be <b>obsessed</b> with one Survivor at a time.</i>"
@@ -2740,7 +2737,7 @@
 		},
 		{
 			"name": "Overcharge",
-			"description": "You are fuelled by your hate for progress. <br /> Damaging a Generator overcharges it: <ul> <li>The next Survivor interacting with it will be faced with a difficult Skill Check.</li> <li>Failing the Skill Check results in an additional Progression loss of <span class='t1'>3</span>/<span class='t2'>4</span>/<span class='t3'>5</span> %.</li> <li>Succeeding the Skill Check does not grant any bonus Progression.</li> </ul>"
+			"description": "You are fuelled by your hate for progress. <br /> <i>Overcharge</i> a Generator by performing the <i>Damage Generator</i> on it: <ul> <li>The next Survivor interacting with it will be faced with a difficult Skill Check.</li> <li>Failing the Skill Check results in an immediate Progression loss of <span class='t1'>3</span>/<span class='t2'>4</span>/<span class='t3'>5</span> %.</li> <li>Succeeding the Skill Check grants no bonus Progression, but prevents the Generator from exploding.</li> </ul> After <i>Overcharge</i> is applied to a Generator, the following effect applies: <ul> <li><b>Increases</b> the Regression speed from <span class='description-value'>75 %</span> to <span class='description-value-additional'>200 %</span> over the next <span class='description-red'>30 seconds</span>.</li> </ul>"
 		},
 		{
 			"name": "Overwhelming Presence",
@@ -2752,7 +2749,7 @@
 		},
 		{
 			"name": "Pop Goes the Weasel",
-			"description": "A deep bond with The Entity unlocks great strength. <br /> After hooking a Survivor, <i>Pop Goes the Weasel</i> activates for the next <span class='t1'>35</span>/<span class='t2'>40</span>/<span class='t3'>45</span> seconds: <ul> <li>The next Generator you damage instantly loses <span class='description-value'>25 %</span> Progression.</li> <li>Regular Generator Regression applies afterwards and <i>Pop Goes the Weasel</i> deactivates.</li> </ul>"
+			"description": "A deep bond with The Entity unlocks great strength. <br /> After hooking a Survivor, <i>Pop Goes the Weasel</i> activates for the next <span class='t1'>35</span>/<span class='t2'>40</span>/<span class='t3'>45</span> seconds: <ul> <li>The next Generator you damage instantly loses <span class='description-value'>-20 %</span> of its current Progression.</li> <li>Regular Generator Regression applies afterwards and <i>Pop Goes the Weasel</i> deactivates.</li> </ul>"
 		},
 		{
 			"name": "Predator",
@@ -2776,11 +2773,15 @@
 		},
 		{
 			"name": "Scourge Hook: Gift of Pain",
-			"description": "You are the bringer of sweet pain. <br /> At the start of the Trial, <span class='description-value'>4 random Hooks</span> are changed into <b>Scourge Hooks</b>: <ul> <li>The Auras of <b>Scourge Hooks</b> are revealed to you in <span class='description-white'>white</span>.</li> </ul> Each time a Survivor is unhooked from a <b>Scourge Hook</b>, the following effects apply: <ul> <li>The Survivor suffers from the <b><i>Haemorrhage</i></b> and <b><i>Mangled</i> Status Effects</b> until healed.</li> <li>Upon being healed, the Survivor suffers from a <span class='t1'>7</span>/<span class='t2'>8</span>/<span class='t3'>9</span> % <b>Action Speed penalty to Healing and Repairing until they are injured again</b>.</li> </ul>"
+			"description": "You are the bringer of sweet pain. <br /> At the start of the Trial, <span class='description-value'>4 random Hooks</span> are changed into <b>Scourge Hooks</b>: <ul> <li>The Auras of <b>Scourge Hooks</b> are revealed to you in <span class='description-white'>white</span>.</li> </ul> Each time a Survivor is unhooked from a <b>Scourge Hook</b>, the following effects apply: <ul> <li>The Survivor suffers from the <b><i>Haemorrhage</i></b> and <b><i>Mangled</i> Status Effects</b> until healed.</li> <li>Upon being healed, the Survivor suffers from a <span class='t1'>10</span>/<span class='t2'>13</span>/<span class='t3'>16</span> % <b>Action Speed penalty to Healing and Repairing until they are injured again</b>.</li> </ul>"
+		},
+		{
+			"name": "Scourge Hook: Monstrous Shrine",
+			"description": "Your fervent care of the Hooks found in the Basement has aroused The Entity's interest. <br /> At the start of the Trial, <span class='description-value'>4 random Hooks</span>, as well as the <span class='description-value-additional'>Basement Hooks</span>, are changed into <b>Scourge Hooks</b>: <ul> <li>The Auras of <b>Scourge Hooks</b> are revealed to you in <span class='description-white'>white</span>.</li> </ul> Each time a Survivor is hooked on a <b>Scourge Hook</b>, the following effect applies whenever you are farther than <span class='description-red'>24 metres</span> from the hooked Survivor: <ul> <li><b>Accelerates</b> the Sacrifice Process by <span class='t1'>10</span>/<span class='t2'>15</span>/<span class='t3'>20</span> %.</li> </ul>"
 		},
 		{
 			"name": "Scourge Hook: Pain Resonance",
-			"description": "Overwhelming pain reverberates outwards. <br /> At the start of the Trial, <span class='description-value'>4 random Hooks</span> are changed into <b>Scourge Hooks</b>: <ul> <li>The Auras of <b>Scourge Hooks</b> are revealed to you in <span class='description-white'>white</span>.</li> </ul> Each time a Survivor is hooked on a <b>Scourge Hook</b>, the following effects apply: <ul> <li>The Generator with the most Progression explodes, instantly losing <span class='t1'>9</span>/<span class='t2'>12</span>/<span class='t3'>15</span> % <b>of its Progression and starting to regress</b>.</li> <li>Survivors repairing that Generator will scream, revealing their location.</li> </ul>"
+			"description": "Overwhelming pain reverberates outwards. <br /> At the start of the Trial, <span class='description-value'>4 random Hooks</span> are changed into <b>Scourge Hooks</b>: <ul> <li>The Auras of <b>Scourge Hooks</b> are revealed to you in <span class='description-white'>white</span>.</li> </ul> Each time a Survivor is hooked on a <b>Scourge Hook</b>, the following effects apply: <ul> <li>The Generator with the most Progression explodes, instantly losing <span class='t1'>9</span>/<span class='t2'>12</span>/<span class='t3'>15</span> % <b>of its Progression and starting to regress</b>.</li></ul>"
 		},
 		{
 			"name": "Septic Touch",
@@ -2824,7 +2825,7 @@
 		},
 		{
 			"name": "Thanatophobia",
-			"description": "Their courage fades in the face of their undeniable mortality. <br /> Each injured, dying, or hooked Survivor incurs a stack-able <span class='t1'>4</span>/<span class='t2'>4.5</span>/<span class='t3'>5</span> % <b> penalty to all Survivors' Repairing, Sabotaging, and Cleansing Action speeds, up to a maximum of </b> <span class='t1'>16</span>/<span class='t2'>18</span>/<span class='t3'>20</span> %."
+			"description": "Their courage fades in the face of their undeniable mortality. <br /> Each injured, dying, or hooked Survivor incurs a stack-able <span class='t1'>4.5</span>/<span class='t2'>5</span>/<span class='t3'>5.5</span> % <b> penalty to all Survivors' Repairing, Sabotaging, and Cleansing Action speeds, up to a maximum of </b> <span class='t1'>18</span>/<span class='t2'>20</span>/<span class='t3'>22</span> %."
 		},
 		{
 			"name": "Thrilling Tremors",
@@ -2832,7 +2833,7 @@
 		},
 		{
 			"name": "Tinkerer",
-			"description": "Whenever a Generator is repaired to <span class='description-value'>70 %</span>, you benefit from the following effects: <ul> <li>Triggers a <i>Loud Noise Notification</i> for that Generator, revealing its location.</li> <li>Grants the <b><i>Undetectable</i> Status Effect</b> for the next <span class='t1'>12</span>/<span class='t2'>14</span>/<span class='t3'>16</span> seconds.</li> </ul>"
+			"description": "Whenever a Generator is repaired to <span class='description-value'>70 %</span>, you benefit from the following effects: <ul> <li>Triggers a <i>Loud Noise Notification</i> for that Generator, revealing its location.</li> <li>Grants the <b><i>Undetectable</i> Status Effect</b> for the next <span class='t1'>12</span>/<span class='t2'>14</span>/<span class='t3'>16</span> seconds.</li> </ul> <i>Tinkerer</i> can only trigger once per Generator per Trial."
 		},
 		{
 			"name": "Trail of Torment",

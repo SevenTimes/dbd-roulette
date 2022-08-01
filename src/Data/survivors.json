@@ -165,11 +165,11 @@
 		},
 		{
 			"name": "Borrowed Time",
-			"description": "You are fuelled with an unexpected energy when saving an Ally from a Hook. <br /> For <span class='t1'>8</span>/<span class='t2'>10</span>/<span class='t3'>12</span> seconds after unhooking a Survivor, the unhooked Survivor is protected by the <b><i>Endurance</i> Status Effect</b>. <ul> <li>Any damage taken that would put the Survivor into the Dying State will instead trigger the <b><i>Deep Wound</i> Status Effect</b>, after which the Survivor has <span class='description-value'>20 seconds</span> to Mend themselves.</li> <li>Taking damage while under the effect of <b><i>Deep Wound</i></b> or if its timer runs out will put the Survivor into the Dying State.</li> </ul>"
+			"description": "You are fuelled with an unexpected energy when saving an Ally from a Hook. <br /> Survivors you unhook benefit from the following effects: <ul> <li><b>Extends</b> the duration of their <b><i>Endurance</i> Status Effect</b> by <span class='t1'>6</span>/<span class='t2'>8</span>/<span class='t3'>10</span> seconds.</li> <li><b>Extends</b> the duration of their <b><i>Haste</i> Status Effect</b> by <span class='description-value'>+10 seconds</span>.</li> </ul>"
 		},
 		{
 			"name": "Botany Knowledge",
-			"description": "You transform plants found around The Campfire into tinctures that slow down bleeding.  <br /> <ul> <li><b>Increases</b> Healing speeds, as well as the efficiency of Med-Kits, by <span class='t1'>11</span>/<span class='t2'>22</span>/<span class='t3'>33</span> %.</li> </ul>"
+			"description": "You transform plants found around The Campfire into tinctures that slow down bleeding.  <br /> <ul> <li><b>Increases</b> your Healing speed by <span class='t1'>30</span>/<span class='t2'>40</span>/<span class='t3'>50</span> %.</li> <li><b>Reduces</b> the Healing efficiency of Med-Kits by <span class='description-value'>-20 %</span>.</li> </ul>"
 		},
 		{
 			"name": "Breakdown",
@@ -189,7 +189,7 @@
 		},
 		{
 			"name": "Calm Spirit",
-			"description": "Animals seem to trust you as they often stay calm in your presence. <br /> <ul> <li><b>Lowers</b> the odds of alerting nearby Crows by <span class='t1'>80</span>/<span class='t2'>90</span>/<span class='t3'>100</span> %.</li> <li><b>Suppresses</b> the urge to scream from pain at all times.</li> </ul>"
+			"description": "Animals seem to trust you as they often stay calm in your presence. <br /> <ul> <li><b>Prevents</b> Crows from being alerted by your proximity and flying off, unless they are being stepped on.</li> <li><b>Suppresses</b> the urge to scream from pain at all times.</li> <li><b>Suppresses</b> all noises related to unlocking Chests, and cleansing or blessing Totems.</li> <ul> <li><b>Reduces</b> their Interaction speed by <span class='t1'>40</span>/<span class='t2'>35</span>/<span class='t3'>30</span> %.</li> </ul> </ul>"
 		},
 		{
 			"name": "Clairvoyance",
@@ -209,11 +209,11 @@
 		},
 		{
 			"name": "Dark Sense",
-			"description": "Unlocks potential in your Aura-reading ability: <ul> <li>Each time a Generator is completed, the Aura of the Killer is revealed to you for <span class='description-value'>5 seconds</span>.</li> <li>Once the last Generator is completed, the Aura of the Killer is revealed to you for <span class='t1'>5</span>/<span class='t2'>7</span>/<span class='t3'>10</span> seconds.</li> </ul>"
+			"description": "Unlocks potential in your Aura-reading ability:<br /> Each time a Generator is completed, <i>Dark Sense</i> activates: <ul> <li>The Aura of the Killer is revealed to you for <span class='t1'>5</span>/<span class='t2'>7</span>/<span class='t3'>10</span> <b>seconds</b>, as soon as they come within <span class='description-value'>24 metres</span> of you, after which <i>Dark Sense</i> deactivates.</li> </ul>"
 		},
 		{
 			"name": "Dead Hard",
-			"description": "Activate-able Perk. <br /> You can take a beating. <br /> When Injured, tap into your adrenaline bank and dash forward quickly to avoid damage. <ul> <li>Press the <i>Active Ability button</i> while running to dash forward.</li> <li>Avoid any damage during the <i>Dash</i>.</li> </ul> <i>Dead Hard</i> causes the <b><i>Exhausted</i> Status Effect</b> for <span class='t1'>60</span>/<span class='t2'>50</span>/<span class='t3'>40</span> seconds. <br /> <i>Dead Hard</i> cannot be used when <b><i>Exhausted</i></b>."
+			"description": "Activate-able Perk. <br /> You can take a beating. <br /> When you are injured, tap into your adrenaline bank to avoid damage. <ul> <li>Press the <i>Active Ability button</i> while running  to trigger the <b><i>Endurance</i> Status Effect</b> for <span class='description-value'>0.5 seconds</span>. </ul> <i>Dead Hard</i> causes the <b><i>Exhausted</i> Status Effect</b> for <span class='t1'>60</span>/<span class='t2'>50</span>/<span class='t3'>40</span> seconds. <br /> <i>Dead Hard</i> cannot be used when <b><i>Exhausted</i></b>."
 		},
 		{
 			"name": "Deception",
@@ -221,7 +221,7 @@
 		},
 		{
 			"name": "Decisive Strike",
-			"description": "Using whatever is at hand, you stab your aggressor in an ultimate attempt to escape. <br /> After being unhooked or unhooking yourself, <i>Decisive Strike</i> activates for the next <span class='t1'>40</span>/<span class='t2'>50</span>/<span class='t3'>60</span> seconds: <ul> <li>When being grabbed or picked up by the Killer, succeed a Skill Check to automatically escape their grasp, stunning them for <span class='description-value'>5 seconds</span>.</li> <li>Successfuly stunning the Killer will disable <i>Decisive Strike</i> for the remainer of the Trial and result you in becoming the <b><i>Obsession</i></b>.</li> </ul> While <i>Decisive Strike</i> is active, the following interactions will deactivate it: <ul> <li>Repairing a Generator.</li> <li>Healing yourself or other Survivors.</li> <li>Cleansing or Blessing a Totem.</li> <li>Sabotaging a Hook.</li> <li>Unhooking other Survivors.</li> </ul> Increases the odds of becoming the Killer's initial <b><i>Obsession</i></b> by <span class='description-value'>+100 %</span>. <br /> <i>The Killer can only be <b>obsessed</b> with one Survivor at a time.</i>"
+			"description": "Using whatever is at hand, you stab your aggressor in an ultimate attempt to escape. <br /> After being unhooked or unhooking yourself, <i>Decisive Strike</i> activates for the next <span class='t1'>40</span>/<span class='t2'>50</span>/<span class='t3'>60</span> <b>seconds</b>: <ul> <li>When being grabbed or picked up by the Killer, succeed a Skill Check to automatically escape their grasp, stunning them for <span class='description-value'>3 seconds</span>.</li> <li>Successfuly stunning the Killer will disable <i>Decisive Strike</i> for the remainer of the Trial and result you in becoming the <b><i>Obsession</i></b>.</li> </ul> While <i>Decisive Strike</i> is active, performing <i>Conspicuous Actions</i> will deactivate it for the remainder of the Trial. <br /> <i>Decisive Strike</i> deactivates once the Exit Gates are powered. <br /> Increases the odds of becoming the Killer's initial <b><i>Obsession</i></b> by <span class='description-value'>+100 %</span>. <br /> <i>The Killer can only be <b>obsessed</b> with one Survivor at a time.</i>"
 		},
 		{
 			"name": "Deliverance",
@@ -237,7 +237,7 @@
 		},
 		{
 			"name": "Distortion",
-			"description": "You start the trial with <span class='description-value'>4 Tokens</span>. <br /> Whenever the Killer attempts to read your Aura, <i>Distortion</i> activates and a Token is consumed: <ul> <li>Your Aura will not be shown to the Killer and you will not leave any Scratch Marks for the next <span class='t1'>6</span>/<span class='t2'>8</span>/<span class='t3'>10</span> seconds.</li> </ul> <i>Distortion</i> does not activate when you are in the Dying State or in a <b>Killer Trap</b>."
+			"description": "You start the trial with <span class='description-value'>3 Tokens</span>. <br /> Whenever the Killer attempts to read your Aura, <i>Distortion</i> activates and <span class='description-value-additional'>1 Token</span> is consumed: <ul> <li>Your Aura will not be shown to the Killer and you will not leave any Scratch Marks for the next <span class='t1'>6</span>/<span class='t2'>8</span>/<span class='t3'>10</span> <b>seconds</b>.</li> </ul> Every <span class='description-red'>30 seconds</span> you are within the Killer's Terror Radius, <i>Distortion</i> gains back <span class='t3'>1 Token</span>. <br /> <i>Distortion</i> does not activate when you are in the Dying State or in a <b>Killer Trap</b>. <br /> <i>Distortion</i> cannot accumulate more Tokens than its initial count."
 		},
 		{
 			"name": "Diversion",
@@ -245,7 +245,7 @@
 		},
 		{
 			"name": "Déjà Vu",
-			"description": "Unlocks potential in your Aura-reading ability: <br /> Paranoia paired with your horror of failure helps prepare you from repeating the same mistakes. <ul> <li>The Auras of the <span class='description-value'>3 Generators</span> in closest proximity to one another are revealed to you for <span class='t1'>30</span>/<span class='t2'>45</span>/<span class='t3'>60</span> seconds <b>at the start of the Trial, and each time a Generator is completed</b>.</li> <li>If you are holding a Map, Generators revealed by <i>Déjà Vu</i> are automatically added to it.</li> </ul>"
+			"description": "Unlocks potential in your Aura-reading ability: <br /> Paranoia paired with your horror of failure helps prepare you from repeating the same mistakes. <ul> <li>The Auras of the <span class='description-value'>3 Generators</span> in closest proximity to one another are revealed to you for <span class='t1'>30</span>/<span class='t2'>45</span>/<span class='t3'>60</span> <b>seconds</b> at the start of the Trial, and each time a Generator is completed.</li> <li><b>Increases</b> your Repair speed on those Generators by <span class='description-value-additional'>+5 %</span> while active.</li> <li>If you are holding a Map, Generators revealed by <i>Déjà Vu</i> are automatically added to it.</li> </ul>"
 		},
 		{
 			"name": "Empathic Connection",
@@ -281,11 +281,11 @@
 		},
 		{
 			"name": "Hope",
-			"description": "The growing odds of a successful escape fill you with hope and give you wings <ul> <li>As soon as the Exit Gates are powered, gain a <span class='t1'>5</span>/<span class='t2'>6</span>/<span class='t3'>7</span> % <b><i>Haste</i> Status Effect for</b> <span class='description-value'>120 seconds</span>.</li> </ul>"
+			"description": "The growing odds of a successful escape fill you with hope and give you wings <ul> <li>As soon as the Exit Gates are powered, gain a <span class='t1'>5</span>/<span class='t2'>6</span>/<span class='t3'>7</span> % <b><i>Haste</i> Status Effect</b>.</li> </ul>"
 		},
 		{
 			"name": "Inner Focus",
-			"description": "You have honed your ability to see through the haze of the Ravage. <ul> <li>You can see the Scratch Marks of other Survivors within <span class='description-value'>32 metres</span> of you.</li> <li>Whenever another Survivor loses a Health State within <span class='description-value-additional'>32 metres</span> of you, the Killer's Aura is revealed to you for <span class='t1'>3</span>/<span class='t2'>4</span>/<span class='t3'>5</span> <b>seconds</b>.</li> </ul>"
+			"description": "You have honed your ability to see through the haze of the Ravage. <ul> <li>You can see the Scratch Marks of other Survivors.</li> <li>Whenever another Survivor loses a Health State within <span class='description-value-additional'>32 metres</span> of you, the Killer's Aura is revealed to you for <span class='t1'>3</span>/<span class='t2'>4</span>/<span class='t3'>5</span> <b>seconds</b>.</li> </ul>"
 		},
 		{
 			"name": "Inner Healing",
@@ -293,7 +293,7 @@
 		},
 		{
 			"name": "Iron Will",
-			"description": "You are able to concentrate and enter a meditative-like state to numb some pain. <ul> <li><b>Lowers</b> the volume of <i>Grunts of Pain</i> by <span class='t1'>50</span>/<span class='t2'>75</span>/<span class='t3'>100</span> %.</li> </ul>"
+			"description": "You are able to concentrate and enter a meditative-like state to numb some pain. <ul> <li><b>Reduces</b> the volume of <i>Grunts of Pain</i> by <span class='t1'>25</span>/<span class='t2'>50</span>/<span class='t3'>75</span> %.</li> </ul> <i>Iron Will</i> cannot be used when suffering from <b><i>Exhaustion</i></b>, but does not cause the <b><i>Exhausted</i> Status Effect</b>."
 		},
 		{
 			"name": "Kindred",
@@ -313,7 +313,7 @@
 		},
 		{
 			"name": "Lightweight",
-			"description": "Your running is light and soft, making your tracks harder to follow. <ul> <li>Scratch Marks begin to fade <span class='t1'>1</span>/<span class='t2'>2</span>/<span class='t3'>3</span> <b>seconds</b> sooner.</li> </ul>"
+			"description": "Your running is light and soft, making your tracks harder to follow. <ul> <li><b>Reduces</b> the duration of your Scratch Marks by <span class='t1'>3</span>/<span class='t2'>4</span>/<span class='t3'>5</span> <b>seconds</b>.</li> <li>Your Scratch Marks are spaced inconsistently.</li> </ul>"
 		},
 		{
 			"name": "Lithe",
@@ -321,7 +321,7 @@
 		},
 		{
 			"name": "Lucky Break",
-			"description": "You have had your share of scrapes and bruises, but luck is always on your side. <br /> Whenever you are in the Injured State, <i>Lucky Break</i> activates: <ul> <li>Bleeding and Scratch Marks are suppressed for a maximum of <span class='t1'>40</span>/<span class='t2'>50</span>/<span class='t3'>60</span> <b>seconds</b>, after which <i>Lucky Break</i> is disabled for the remainder of the Trial.</li> </ul> <i>Lucky Break</i> deactivates when you are Healthy or in the Dying State."
+			"description": "You have had your share of scrapes and bruises, but luck is always on your side. <br /> Whenever you are in the Injured State, <i>Lucky Break</i> activates: <ul> <li><b>Suppresses</b> your Pools of Blood and Scratch Marks for a maximum of <span class='t1'>40</span>/<span class='t2'>50</span>/<span class='t3'>60</span> <b>seconds</b>, after which <i>Lucky Break</i> deactivates.</li> </ul> Each <span class='description-value'>1 second</span> spent healing another Survivor recharges <i>Lucky Break</i> by <span class='description-value-additional'>1 second</span> up to its maximum Effect duration. <br /> <i>Lucky Break</i> deactivates when you are Healthy or in the Dying State."
 		},
 		{
 			"name": "Mettle of Man",
@@ -333,7 +333,7 @@
 		},
 		{
 			"name": "No One Left Behind",
-			"description": "It is inconceivable to leave someone behind. <br /> Once at least one Exit Gate has been opened, <i>No One Left Behind</i> activates: <ul> <li>Gain a <span class='t1'>30</span>/<span class='t2'>40</span>/<span class='t3'>50</span> % Action Speed bonus to Unhooking and Healing other Survivors.</li> <li>The Auras of all other Survivors are revealed to you.</li> <li>Grants <span class='t1'>50</span>/<span class='t2'>75</span>/<span class='t3'>100</span> % bonus Bloodpoints for actions in the Altruism Category.</li> </ul>"
+			"description": "It is inconceivable to leave someone behind. <br /> Once the Exit Gates are powered, <i>No One Left Behind</i> activates: <ul> <li><b>Increases</b> your Unhooking and Healing speed by <span class='t1'>30</span>/<span class='t2'>40</span>/<span class='t3'>50</span> %.</li> <li>Grants <span class='t1'>50</span>/<span class='t2'>75</span>/<span class='t3'>100</span> % bonus Bloodpoints for actions in the Altruism Category.</li> <li>Grants the unhooked Survivor a <span class='description-value'>7 %</span> <b><i>Haste</i> Status Effect</b> for <span class='description-value-additional'>10 seconds</span>.</li> <li>The Auras of all other Survivors are revealed to you.</li> </ul>"
 		},
 		{
 			"name": "Object of Obsession",
@@ -341,7 +341,7 @@
 		},
 		{
 			"name": "Off the Record",
-			"description": "You have learnt that a quiet approach is sometimes best. <br /> After being unhooked or unhooking yourself, <i>Off the Record</i> activates for the next <span class='t1'>60</span>/<span class='t2'>70</span>/<span class='t3'>80</span> <b>seconds</b>: <ul> <li>Your Aura will not be shown to the Killer if they attempt to read it.</li> <li>When injured, <i>Grunts of Pain</i> are reduced by <span class='description-value'>100 %</span>.</li> </ul>"
+			"description": "You have learnt that a quiet approach is sometimes best. <br /> After being unhooked or unhooking yourself, <i>Off the Record</i> activates for the next <span class='t1'>60</span>/<span class='t2'>70</span>/<span class='t3'>80</span> <b>seconds</b>: <ul> <li><b>Prevents</b> your Aura from being revealed to the Killer, if they attempt to read it.</li> <li><b>Suppresses</b> <i>Grunts of Pain</i> when injured.</li> <li>Grants the <b><i>Endurance</i> Status Effect</b>.</li> <ul> <li>This effect is cancelled prematurely if you perform a <i>Conspicuous Action</i>.</li> </ul> </ul> <i>Off the Record</i> deactivates once the Exit Gates are powered."
 		},
 		{
 			"name": "Open-Handed",
@@ -353,7 +353,7 @@
 		},
 		{
 			"name": "Overzealous",
-			"description": "Fighting back against the Ravage motivates and inspires you. <br /> After cleansing a Totem, <i>Overzealous</i> activates: <ul> <li><b>Increases</b> your Repair speed by <span class='t1'>4</span>/<span class='t2'>5</span>/<span class='t3'>6</span> <b>%</b>.</li> </ul> <i>Overzealous</i> deactivates when losing a Health State by any means."
+			"description": "Fighting back against the Ravage motivates and inspires you. <br /> After cleansing a Totem, <i>Overzealous</i> activates: <ul> <li><b>Increases</b> your Repair speed by <span class='t1'>6</span>/<span class='t2'>7</span>/<span class='t3'>8</span> <b>%</b> if it was a <b>Dull Totem</b>.</li> <li><b>Increases</b> your Repair speed by <span class='t1'>12</span>/<span class='t2'>14</span>/<span class='t3'>16</span> <b>%</b> if it was a <b>Hex Totem</b>.</li> </ul> <i>Overzealous</i> deactivates when losing a Health State by any means."
 		},
 		{
 			"name": "Parental Guidance",
@@ -361,7 +361,7 @@
 		},
 		{
 			"name": "Pharmacy",
-			"description": "You have a knack for finding medicine. <ul> <li>Unlocking Chests is <span class='t1'>40</span>/<span class='t2'>60</span>/<span class='t3'>80</span> % faster.</li> <li>Unlocking your <span class='description-value'>first</span> Chest guarantees an Emergency Med-Kit.</li> </ul> <i>Pharmacy</i> reduces the audible range of your Chest-unlocking noises by <span class='description-value-additional'>8 metres</span>."
+			"description": "You have a knack for finding medicine. <br /> Whenever you are in the Injured State, <i>Pharmacy</i> activates: <ul> <li><b>Increases</b> the Unlocking speed of Chests by <span class='t1'>40</span>/<span class='t2'>60</span>/<span class='t3'>80</span> %.</li> <li><b>Reduces</b> the Hearing range of noises related to Unlocking by <span class='description-value'>-8 metres</span>.</li> <li><b>Guarantees</b> an Emergency Med-Kit emergency when unlocking a Chest.</li> </ul> "
 		},
 		{
 			"name": "Plunderer's Instinct",
@@ -417,7 +417,7 @@
 		},
 		{
 			"name": "Saboteur",
-			"description": "Unlocks potential in your Aura-reading ability: <ul> <li>While a Survivor is being carried, the Auras of all Hooks within <span class='description-value'>56 metres</span> of their Pick-up location are revealed to you.</li> </ul> Unlocks the ability to sabotage Hooks without needing a Toolbox: <ul> <li>Sabotaging a Hook without a Toolbox takes <span class='description-value-additional'>2.5 seconds</span>.</li> <li>The Sabotage action has a cool-down of <span class='t1'>90</span>/<span class='t2'>75</span>/<span class='t3'>60</span> seconds.</li> </ul>"
+			"description": "Unlocks potential in your Aura-reading ability: <br /> For the duration of the Killer carrying another Survivor, you see the Aura of every Hook within <span class='description-value'>56 metres</span> of the pick-up location: <ul> <li>The Auras of regular Hooks are revealed to you in <span class='description-white'>white</span>.</li> <li>The Auras of <b>Scourge Hooks</b> are revealed to you in <span class='description-value'>yellow</span>.</li> </ul> Unlocks the ability to sabotage Hooks without needing a Toolbox: <ul> <li>Sabotaging a Hook without a Toolbox takes <span class='description-value-additional'>2.5 seconds</span>.</li> <li>The Sabotage action has a cool-down of <span class='t1'>90</span>/<span class='t2'>75</span>/<span class='t3'>60</span> seconds.</li> </ul>"
 		},
 		{
 			"name": "Self-Aware",
@@ -425,7 +425,7 @@
 		},
 		{
 			"name": "Self-Care",
-			"description": "<ul> <li>Unlocks the <i>Self-Care</i> ability, allowing to self-heal without needing a Med-Kit.</li> <li><ul> <li><b>Reduces</b> Personal Healing speed by <span class='description-value'>-50 %</span>.</li> </ul></li> <li><b>Decreases</b> the Depletion rate of Med-Kits while self-healing by <span class='t1'>10</span>/<span class='t2'>15</span>/<span class='t3'>20</span> %.</li> </ul>"
+			"description": "<ul> <li>Unlocks the <i>Self-Care</i> ability, allowing you to self-heal without needing a Med-Kit at <span class='t1'>25</span>/<span class='t2'>30</span>/<span class='t3'>35</span> % of the normal Healing speed.</li> </ul>"
 		},
 		{
 			"name": "Self-Preservation",
@@ -449,7 +449,7 @@
 		},
 		{
 			"name": "Sole Survivor",
-			"description": "As more of your friends fall to the Killer, you become shrouded in isolation and the Killer's Aura-reading abilities towards you are disrupted. <br /> Each time a Survivor other than yourself is killed or sacrificed, <i>Sole Survivor</i> gains <span class='description-value'>1 Token</span>, up to a maximum of <span class='description-value-additional'>3 Tokens</span>: <ul> <li>Each Token grants a stack-able radius of <span class='t1'>20</span>/<span class='t2'>22</span>/<span class='t3'>24</span> <b>metres</b> within which the Killer is unable to read your Aura, up to a maximum of <span class='t1'>60</span>/<span class='t2'>66</span>/<span class='t3'>72</span> <b>metres</b>.</li> </ul> Increases the odds of becoming the Killer's initial <b><i>Obsession</i></b> by <span class='description-value'>+100 %</span>. <br /> <i>The Killer can only be <b>obsessed</b> with one Survivor at a time.</i>"
+			"description": "As more of your friends fall to the Killer, you become shrouded in isolation and the Killer's Aura-reading abilities towards you are disrupted. <br /> Each time a Survivor other than yourself is killed or sacrificed, <i>Sole Survivor</i> gains <span class='description-value'>1 Token</span>, up to a maximum of <span class='description-value-additional'>3 Tokens</span>: <ul> <li>Each Token grants a stack-able radius of <span class='t1'>20</span>/<span class='t2'>22</span>/<span class='t3'>24</span> <b>metres</b> within which the Killer is unable to read your Aura, up to a maximum of <span class='t1'>60</span>/<span class='t2'>66</span>/<span class='t3'>72</span> <b>metres</b>.</li> </ul> Once you are the last Survivor standing, you benefit from the following effects: <ul> <li><b>Increases</b> your Repair speed of Generators by <span class='description-red'>+75 %</span>.</li> <li><b>Increases</b> your Opening speed of the Exit Gates and the Hatch by <span class='t3'>+50 %</span>.</li> </ul> Increases the odds of becoming the Killer's initial <b><i>Obsession</i></b> by <span class='description-value'>+100 %</span>. <br /> <i>The Killer can only be <b>obsessed</b> with one Survivor at a time.</i>"
 		},
 		{
 			"name": "Solidarity",
@@ -461,7 +461,7 @@
 		},
 		{
 			"name": "Spine Chill",
-			"description": "An unnatural tingle warns you of impending doom. <br /> Whenever the Killer is looking in your direction when they are within <span class='description-value'>36 metres</span> of you, <i>Spine Chill</i> activates: <ul> <li><b>Increases</b> the Trigger odds of Skill Check by <span class='description-value-additional'>10 %</span>.</li> <li><b>Decreases</b> the Skill Check Success zone by <spam class='description-red'>10 %</spam>.</li> <li><b>Increases</b> your Action speeds in Repairing, Healing, Sabotaging, Unhooking, Vaulting, Cleansing, Opening, and Unlocking by <span class='t1'>2</span>/<span class='t2'>4</span>/<span class='t3'>6</span> %.</li> </ul>"
+			"description": "An unnatural tingle warns you of impending doom. <br /> <ul> <li>Whenever the Killer is within <span class='description-value'>36 metres</span> of your location, <i>Spine Chill</i> activates, lighting up its icon.</li> <li>If there is a Terror Radius present, <i>Spine Chill</i> will reveal its intensity using its icon.</li> </ul> If the Killer is within range and looking at you with a clear line of sight, you benefit from the following effect: <ul> <li><b>Increases</b> your Action speeds in Repairing, Healing, Sabotaging, Unhooking, Cleansing, Blessing, Opening, and Unlocking by <span class='t1'>2</span>/<span class='t2'>4</span>/<span class='t3'>6</span> %.</li> <ul> <li>This effect lingers for <span class='description-value-additional'>0.5 seconds</span>.</li> </ul> </ul>"
 		},
 		{
 			"name": "Sprint Burst",
@@ -481,7 +481,7 @@
 		},
 		{
 			"name": "Tenacity",
-			"description": "There is nothing stopping you. <br /> Your ferocious tenacity in dire situations allows you to crawl <span class='t1'>30</span>/<span class='t2'>40</span>/<span class='t3'>50</span> % faster and also recover at the same time."
+			"description": "There is nothing stopping you. <br /> Your ferocious tenacity in dire situations allow you to benefit from the following effects: <ul> <li><b>Increases</b> your Crawling speed by <span class='t1'>30</span>/<span class='t2'>40</span>/<span class='t3'>50</span> %.</li> <li>Grants the ability to crawl and recover at the same time.</li> <li><b>Reduces</b> the volume of <i>Grunts of Pain</i> while in the Dying State by <span class='description-value'>-75 %</span>.</li> </ul>"
 		},
 		{
 			"name": "This Is Not Happening",
@@ -517,7 +517,7 @@
 		},
 		{
 			"name": "We're Gonna Live Forever",
-			"description": "Your few friends deserve the best protection. <br /> When healing a dying Survivor, your Healing speed is increased by <span class='description-value'>100 %</span>. <br /> Performing any of the following actions has <i>We're Gonna Live Forever</i> gain <span class='description-value-additional'>1 Token</span>: <ul> <li>Performing a Safe Hook Rescue</li> <li>Taking a <i>Protection Hit</i> for an injured Survivor.</li> <li>Stunning or Blinding the Killer to rescue a carried Survivor</li> </ul> Each Token grants a stack-able <span class='description-red'>25 %</span> bonus to all Bloodpoint gains, up to a maximum of <span class='t1'>50</span>/<span class='t2'>75</span>/<span class='t3'>100</span> %. <br /> <i>The bonus Bloodpoints are only awarded post-Trial.</i>"
+			"description": "Your few friends deserve the best protection. <br /> <ul> <li><b>Increases</b> your Healing speed by <span class='description-value'>100 %</span> when healing a dying Survivor.</li> </ul> When performing any of the following actions, <i>We're Gonna Live Forever</i> gains <span class='description-value-additional'>1 Token</span>: <ul> <li>Performing a Safe Hook Rescue</li> <li>Taking a <i>Protection Hit</i> for an injured Survivor.</li> <li>Stunning or Blinding the Killer to rescue a carried Survivor</li> </ul> Consume <span class='description-red'>1 Token</span> to grant the <b><i>Endurance</i> Status Effect</b> for <span class='t1'>6</span>/<span class='t2'>8</span>/<span class='t3'>10</span> <b>seconds</b> to any Survivor healed from the Dying State."
 		},
 		{
 			"name": "Windows of Opportunity",
