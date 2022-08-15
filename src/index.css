@@ -33,6 +33,10 @@ ul {
 	list-style-position: inside;
 }
 
+li {
+	padding-left: 1em;
+}
+
 .description-value,
 .description-value-additional,
 .description-red,
