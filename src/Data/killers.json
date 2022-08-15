@@ -2536,7 +2536,7 @@
 		},
 		{
 			"name": "Dead Man's Switch",
-			"description": "After hooking a Survivor, <i>Dead Man's Switch</i> activates for the next <span class='t1'>35</span>/<span class='t2'>40</span>/<span class='t3'>45</span> seconds: <ul> <li> While activated, any Survivor that stops repairing a Generator before it is fully repaired causes The Entity to block the Generator until <i> Dead Man's Switch </i>'s effect ends. </li> <li>Affected Generators are highlighted by a <span class='description-white'>white</span> Aura.</li> </ul>"
+			"description": "After hooking a Survivor, <i>Dead Man's Switch</i> activates for the next <span class='t1'>20</span>/<span class='t2'>25</span>/<span class='t3'>30</span> seconds: <ul> <li> While activated, any Survivor that stops repairing a Generator before it is fully repaired causes The Entity to block the Generator until <i> Dead Man's Switch </i>'s effect ends. </li> <li>Affected Generators are highlighted by a <span class='description-white'>white</span> Aura.</li> </ul>"
 		},
 		{
 			"name": "Deadlock",
@@ -2781,7 +2781,7 @@
 		},
 		{
 			"name": "Scourge Hook: Pain Resonance",
-			"description": "Overwhelming pain reverberates outwards. <br /> At the start of the Trial, <span class='description-value'>4 random Hooks</span> are changed into <b>Scourge Hooks</b>: <ul> <li>The Auras of <b>Scourge Hooks</b> are revealed to you in <span class='description-white'>white</span>.</li> </ul> Each time a Survivor is hooked on a <b>Scourge Hook</b>, the following effects apply: <ul> <li>The Generator with the most Progression explodes, instantly losing <span class='t1'>9</span>/<span class='t2'>12</span>/<span class='t3'>15</span> % <b>of its Progression and starting to regress</b>.</li></ul>"
+			"description": "Overwhelming pain reverberates outwards. <br /> At the start of the Trial, <span class='description-value'>4 random Hooks</span> are changed into <b>Scourge Hooks</b>: <ul> <li>The Auras of <b>Scourge Hooks</b> are revealed to you in <span class='description-white'>white</span>.</li> </ul> Each time a Survivor is hooked on a <b>Scourge Hook</b>, the following effects apply: <ul> <li>The Generator with the most Progression sparks, instantly losing <span class='t1'>9</span>/<span class='t2'>12</span>/<span class='t3'>15</span> % <b>of its Progression and starting to regress</b>.</li></ul>"
 		},
 		{
 			"name": "Septic Touch",
@@ -2825,7 +2825,7 @@
 		},
 		{
 			"name": "Thanatophobia",
-			"description": "Their courage fades in the face of their undeniable mortality. <br /> Each injured, dying, or hooked Survivor incurs a stack-able <span class='t1'>4.5</span>/<span class='t2'>5</span>/<span class='t3'>5.5</span> % <b> penalty to all Survivors' Repairing, Sabotaging, and Cleansing Action speeds, up to a maximum of </b> <span class='t1'>18</span>/<span class='t2'>20</span>/<span class='t3'>22</span> %."
+			"description": "Their courage fades in the face of their undeniable mortality. <br /> <ul> <li>Each injured, dying, or hooked Survivor afflicts Survivors with a stack-able <span class='t1'>1</span>/<span class='t2'>1.5</span>/<span class='t3'>2</span> % Action Speed penalty to Repairing, Sabotaging, and Cleansing, up to a maximum of <span class='t1'>4</span>/<span class='t2'>6</span>/<span class='t3'>8</span> %.</li> <li><b>Increases</b> the Action Speed penalty by a further <span class='description-value'>12 %</span>, if there are <span class='description-value-additional'>4 Survivors</span>, who are either injured, dying, or hooked at the same time.</li> </ul>"
 		},
 		{
 			"name": "Thrilling Tremors",
