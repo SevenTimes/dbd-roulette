@@ -10,7 +10,7 @@ const KillerOffering = (props) => {
 			<img
 				src={`./Assets/Killers/Offerings/${offering.name}.png`}
 				alt={offering.name}
-				className={`addon-${offering.rarity}`}
+				className={`offering-${offering.rarity}`}
 				data-tip
 				data-for="offering"
 			/>

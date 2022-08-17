@@ -3,6 +3,7 @@ import { Markup } from 'interweave';
 
 const KillerAddons = (props) => {
 	const { char, addons } = props;
+	console.log(addons);
 
 	return (
 		<div className="killer-addons">
@@ -11,7 +12,12 @@ const KillerAddons = (props) => {
 				{addons.map((addon, index) => {
 					const addonName = addon.name.replace(/[":%]+/g, '');
 					return (
-						<div data-tip data-for={`addon-${index}`} key={addon.name}>
+						<div
+							data-tip
+							data-for={`addon-${index}`}
+							key={addon.name}
+							className={`addon addon-${addon.rarity}`}
+						>
 							<img
 								src={`./Assets/Killers/Characters/${char}/Addons/${addonName}.png`}
 								alt={addon.name}

@@ -9,7 +9,7 @@ const SurvivorOffering = (props) => {
 			<img
 				src={`./Assets/Survivors/Offerings/${offering.name}.png`}
 				alt={offering.name}
-				className={`addon-${offering.rarity}`}
+				className={`offering-${offering.rarity}`}
 				data-tip
 				data-for="offering"
 			/>

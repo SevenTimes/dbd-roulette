@@ -9,8 +9,14 @@ const SurvivorItemAddons = (props) => {
 			<div className="addons-container">
 				{addons.map((addon, index) => {
 					const addonName = addon.name.replace(/[":%]+/g, '');
+					console.log(addon);
 					return (
-						<div data-tip data-for={`addon-${index}`} key={addon.name}>
+						<div
+							data-tip
+							data-for={`addon-${index}`}
+							key={addon.name}
+							className={`addon addon-${addon.rarity}`}
+						>
 							<img
 								src={`./Assets/Survivors/Items/${itemType}/Item Addons/${addonName}.png`}
 								alt={addon.name}

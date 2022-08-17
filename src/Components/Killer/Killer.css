@@ -29,13 +29,21 @@
 	background-image: url('../../../public/Assets/perk-bg.png');
 }
 
+.addon {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 256px;
+	height: 256px;
+	background-repeat: no-repeat;
+}
+
 .addons-container img {
 	width: 80%;
-	background-image: url('../../../public/Assets/addon-bg-ph.png');
 }
 
 .killer-power img {
-	background-image: url('../../../public/Assets/addon-bg-ph.png');
+	background-image: url('../../../public/Assets/killer-power-bg.png');
 	opacity: 50%;
 }
 
@@ -43,22 +51,6 @@
 	background-position: center;
 	background-size: contain;
 	background-repeat: no-repeat;
-}
-
-.addon-common {
-	background-image: url('../../../public/Assets/Dbd-offerings-common.png');
-}
-.addon-uncommon {
-	background-image: url('../../../public/Assets/Dbd-offerings-uncommon.png');
-}
-.addon-rare {
-	background-image: url('../../../public/Assets/Dbd-offerings-rare.png');
-}
-.addon-veryRare {
-	background-image: url('../../../public/Assets/Dbd-offerings-veryrare.png');
-}
-.addon-ultraRare {
-	background-image: url('../../../public/Assets/Dbd-offerings-ultrarare.png');
 }
 
 .killer-char div {
